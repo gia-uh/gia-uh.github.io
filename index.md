@@ -2,7 +2,7 @@
 title: Index
 ---
 
-# Descripción:
+# Descripción
 
 -------------------------------------------------
 blablabla
@@ -12,7 +12,9 @@ blablabla
 
 
 {% for item in site.data.listproyect.docs %}
-### {{ item.title }}
+### {{ item.title }} [more]({{item.link}})
+	{{item.abstract}}
+[source]({{item.linkdesc}})
 {% endfor %}
 
 [Link to a page](./about.html)
