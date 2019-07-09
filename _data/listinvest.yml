@@ -1,0 +1,9 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: NLP
+  autor: Andres Sainz
+  journal: ./about.html
+  link: ./about.html
+  linkdesc: ./about.html
+  abstract: lalalalalalalalalalalalalalaalal 

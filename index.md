@@ -18,6 +18,19 @@ blablabla
 
 {% endfor %}
 
+{% for item in site.data.listinvest.docs %}
+### {{ item.title }} [more]({{item.link}})
+
+	{{item.abstract}}
+
+*{{item.actor}}*
+
+[source]( {{item.linkdesc}} )
+
+[journal]( {{item.journal}} )
+{% endfor %}
+
+
 [Link to a page](./about.html)
 
 ### Working with lib
