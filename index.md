@@ -1,26 +1,19 @@
 ---
-title: Home
+title: Index
 ---
 
+# Descripción:
 
-# IA group
+-------------------------------------------------
+blablabla
+-------------------------------------------------
 
-asdasd
-asdasdhkasd
-
-asdasdjasd
-a
-sdhasdasd
-
-	asdasdasdasd
+# Proyectos
 
 
-```python
-	def F(x):
-		return 1 if x == 0 or x == 1 else F(x - 1) + F(x - 2)
-```
-
-### Add Link
+{% for item in site.data.listproyect.docs %}
+### {{ item.title }}
+{% endfor %}
 
 [Link to a page](./about.html)
 
