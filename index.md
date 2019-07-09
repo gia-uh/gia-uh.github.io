@@ -23,7 +23,7 @@ blablabla
 
 	{{item.abstract}}
 
-*{{item.actor}}*
+*{{item.autor}}*
 
 [source]( {{item.linkdesc}} )
 
@@ -36,5 +36,5 @@ blablabla
 ### Working with lib
 
 {% for item in site.data.listuser.docs %}
-* | {{item.name}} | {{item.year}} | {{item.email}} | {{item.picture}} |
+| {{item.name}} | {{item.year}} | {{item.email}} | ![Octocat](/assets/carabana.jpg) |
 {% endfor %}
