@@ -1,0 +1,18 @@
+docs_list_title: ACME Documentation
+docs:
+
+- name: Alain Cartaya
+  email: a.cartaya@estudiantes.matcom.uh.cu
+  picture: carabana.jpg
+  year: 4
+
+- name: David Cancio
+  email: d.cancio@estudiantes.matcom.uh.cu
+  picture: carabana.jpg
+  year: 4
+
+- name: Andres Sainz
+  email: a.sainz@estudiantes.matcom.uh.cu
+  picture: carabana.jpg
+  year: 5
+
