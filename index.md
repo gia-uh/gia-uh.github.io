@@ -32,7 +32,7 @@ blablabla
 [journal]( {{item.journal}} )
 {% endfor %}
 
-# Mienbros
+# Miembros
 
 {% for item in site.data.listuser.docs %}
 {{item.name}}
