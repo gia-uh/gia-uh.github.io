@@ -18,6 +18,8 @@ blablabla
 
 {% endfor %}
 
+# Investigaciones
+
 {% for item in site.data.listinvest.docs %}
 ### {{ item.title }} [more]({{item.link}})
 
@@ -30,11 +32,11 @@ blablabla
 [journal]( {{item.journal}} )
 {% endfor %}
 
-
-[Link to a page](./about.html)
-
-### Working with lib
+# Mienbros
 
 {% for item in site.data.listuser.docs %}
-| {{item.name}} | {{item.year}} | {{item.email}} | ![Octocat](/assets/carabana.jpg) |
+{{item.name}}
+{{item.year}}
+{{item.email}}
+![Octocat](/assets/carabana.jpg)
 {% endfor %}
