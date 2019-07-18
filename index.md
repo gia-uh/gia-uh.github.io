@@ -2,6 +2,8 @@
 title: Index
 ---
 
+![Octocat](/assets/escudo.jpg)
+
 # Descripción
 
 Este grupo de investigación cuenta con aproximadamente 10 investigadores, y el equipo está formado
@@ -58,5 +60,5 @@ instrumentos robóticos.
 {{item.name}}
 {{item.year}}
 {{item.email}}
-![Octocat](/assets/carabana.jpg)
+
 {% endfor %}
