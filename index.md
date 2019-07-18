@@ -2,11 +2,11 @@
 title: Index
 ---
 
-<div>
+<div class = "center">
 <img src="/assets/escudo.jpg"
      alt="Si no aparece es tu problema"
-     width="400"
-     height="341">
+     width="256"
+     height="300">
 <div>
 
 # Descripción
