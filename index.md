@@ -2,12 +2,12 @@
 title: Index
 ---
 
-<div class = "center">
+<center>
 <img src="/assets/escudo.jpg"
-     alt="Si no aparece es tu problema"
+     alt="Logo Universidad de La Habana"
      width="256"
      height="300">
-</div>
+</center>
 
 # Descripción
 
@@ -47,14 +47,18 @@ instrumentos robóticos.
 
 {% endfor %}
 
-# Investigaciones
+# Publicaciones
 
 {% for item in site.data.listinvest.docs %}
-### {{ item.title }} [more]({{item.link}})
+### [{{ item.title }}]({{item.link}})
 
 	{{item.abstract}}
 
-*{{item.autor}}*
+{% for item2 in item.autors %}
+*{{item2.autor}}*
+{% endfor %}
+
+{% endfor %}
 
 [source]( {{item.linkdesc}} )
 

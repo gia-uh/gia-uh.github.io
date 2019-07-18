@@ -1,9 +1,10 @@
 docs_list_title: ACME Documentation
 docs:
 
-- title: NLP
-  autor: Andres Sainz
-  journal: ./about.html
-  link: ./about.html
-  linkdesc: ./about.html
-  abstract: lalalalalalalalalalalalalalaalal 
+- title: A corpus to support eHealth Knowledge Discovery technologies
+  autors:
+    - autor: Alejandro Piad-Morffis
+    - autor: Yoan Gutiérrez
+    - autor: Rafael Muñoz
+  journal: Journal of Biomedical Research
+  abstract: ...
