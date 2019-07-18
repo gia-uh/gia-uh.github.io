@@ -2,7 +2,12 @@
 title: Index
 ---
 
-![Octocat](/assets/escudo.jpg)
+<div>
+<img src="/assets/escudo.jpg"
+     alt="Si no aparece es tu problema"
+     width="400"
+     height="341">
+<div>
 
 # Descripción
 
