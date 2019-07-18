@@ -7,7 +7,7 @@ title: Index
      alt="Si no aparece es tu problema"
      width="256"
      height="300">
-<div>
+</div>
 
 # Descripción
 
