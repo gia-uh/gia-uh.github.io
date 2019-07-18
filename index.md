@@ -39,11 +39,10 @@ instrumentos robóticos.
 
 
 {% for item in site.data.listproyect.docs %}
-### {{ item.title }} [more]({{item.link}})
+### [{{ item.title }}]({{item.link}})
 
 	{{item.abstract}}
-
-[source]( {{item.linkdesc}} )
+***{{item.client}}***
 
 {% endfor %}
 
@@ -58,7 +57,7 @@ instrumentos robóticos.
 {% for item2 in item.autors %}
 *{{item2.autor}}*
 {% endfor %}
-[journal]( {{item.journal}} )
+***{{item.journal}}***
 {% endfor %}
 
 # Miembros

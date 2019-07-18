@@ -8,3 +8,12 @@ docs:
     - autor: Rafael Muñoz
   journal: Journal of Biomedical Research
   abstract: ...
+  link: ./about.html
+
+- title: TASS 2018, The Strength of Deep Learning in Language Understanding Tasks
+  autors:
+    - autor: Alejandro Piad-Morffis
+    - autor: Yoan Gutiérrez
+  journal: SEPLN
+  abstract: ...
+  link: ./about.html
