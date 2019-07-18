@@ -42,6 +42,7 @@ instrumentos robóticos.
 ### [{{ item.title }}]({{item.link}})
 
 	{{item.abstract}}
+	
 ***{{item.client}}***
 
 {% endfor %}
