@@ -54,14 +54,10 @@ instrumentos robóticos.
 
 	{{item.abstract}}
 
+#### Autores
 {% for item2 in item.autors %}
 *{{item2.autor}}*
 {% endfor %}
-
-{% endfor %}
-
-[source]( {{item.linkdesc}} )
-
 [journal]( {{item.journal}} )
 {% endfor %}
 
