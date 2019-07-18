@@ -6,6 +6,8 @@ title: Index
 
 # Descripción
 
+GIA esta dirigido actualmente por el Dr. Yudivián Almeida, pertenece al departamento de Inteligencia Artificial y Sistemas Computacionales, de la Facultad de Matemática y Computación de la Universidad de La Habana.
+
 Este grupo de investigación cuenta con aproximadamente 10 investigadores, y el equipo está formado
 tanto por investigadores senior, investigadores post-doctorales y pre-doctorales. Se trata de un grupo
 dinámico y proactivo que organizan distintos seminarios internos, colaboran con diversas colaboraciones
