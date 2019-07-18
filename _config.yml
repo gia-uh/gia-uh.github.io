@@ -7,3 +7,11 @@ description: >
 
 google_analytics:
 theme: jekyll-theme-slate
+
+links:
+  - name: Post
+    url: /
+    external: false
+  - name: SobreMi
+    url: /about
+    external: false
