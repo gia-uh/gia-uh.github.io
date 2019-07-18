@@ -64,8 +64,5 @@ instrumentos robóticos.
 # Miembros
 
 {% for item in site.data.listuser.docs %}
-{{item.name}}
-{{item.year}}
-{{item.email}}
-
+**{{item.name}}** *{{item.year}}* ```{{item.email}}```
 {% endfor %}

@@ -1,12 +1,17 @@
 docs_list_title: ACME Documentation
 docs:
 
-- title: ChatBot
+- title: Análisis de Información en Redes Sociales​ .
   link: ./about.html
-  abstract: brarabbll barabblbb brbbrbrbrbr
-  linkdesc: ./about.html
+  abstract: ...
+  client: Ministerio de Ciencia, Tecnología y Medio Ambiente, Cuba.
 
-- title: Pencil
+- title: Observatorio de la Prensa Cubana​ .
   link: ./about.html
-  abstract: adadadadadda brarabbll barabblbb brbbrbrbrbr
-  linkdesc: ./about.html
+  abstract: ...
+  client: Programa Nacional de Informatización de la sociedad, Cuba.
+
+- title: Data Análisis Aplicado a la Industria​.
+  link: ./about.html
+  abstract: ...
+  client: Empresarial- CUPET (Cuba Petróleo), Cuba.
