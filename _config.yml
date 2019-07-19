@@ -6,7 +6,7 @@ description: >
   Computacionales, de la Facultad de Matemática y Computación de la Universidad de La Habana.
 
 google_analytics:
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 
 links:
   - name: Post
