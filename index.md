@@ -1,5 +1,6 @@
 ---
-title: Index
+title: Inicio
+permalink: /
 ---
 
 <center>
