@@ -6,4 +6,4 @@ description: >
 # show_downloads: true
 
 google_analytics:
-remote_theme: DigitalMindCH/gridster-jekyll-theme
+theme: cayman
