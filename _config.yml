@@ -3,7 +3,7 @@ title: GIA-UH
 description: >
   Grupo de investigación GIA (Grupo de Inteligencia Artificial) de la Universidad de La Habana.
 
-show_downloads: true
+# show_downloads: true
 
 google_analytics:
-theme: jekyll-theme-leap-day
+remote_theme: mmistakes/minimal-mistakes
