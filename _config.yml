@@ -7,3 +7,4 @@ description: >
 
 google_analytics:
 remote_theme: mmistakes/minimal-mistakes
+plugins: jekyll-include-cache
