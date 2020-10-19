@@ -6,5 +6,4 @@ description: >
 # show_downloads: true
 
 google_analytics:
-remote_theme: mmistakes/minimal-mistakes
-plugins: jekyll-include-cache
+remote_theme: DigitalMindCH/gridster-jekyll-theme
