@@ -1,5 +1,6 @@
 ---
 title: Index
+layout: index-full
 ---
 
 <center>
