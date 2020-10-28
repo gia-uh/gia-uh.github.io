@@ -4,13 +4,6 @@ permalink: /
 
 ---
 
-<center>
-<img src="/assets/escudo.jpg"
-     alt="Logo Universidad de La Habana"
-     width="256"
-     height="300">
-</center>
-
 # Descripción del Grupo
 
 GIA esta dirigido actualmente por el Dr. Yudivián Almeida, pertenece al departamento de Inteligencia Artificial y Sistemas Computacionales, de la Facultad de Matemática y Computación de la Universidad de La Habana.
