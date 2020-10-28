@@ -15,7 +15,7 @@ heterogeneous data in execution phase.
 
 ## ⚗️ Research
 
-> 🔎 [** Read more **] (/en/research)
+> 🔎 [**Read more**](/en/research)
 
 The objective of the research group is to investigate topics related to Artificial Intelligence.
 Within this area of ​​research, 4 fundamental areas are explored:
