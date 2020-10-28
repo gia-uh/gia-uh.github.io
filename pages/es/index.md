@@ -1,7 +1,7 @@
 ---
 title: Inicio
-permalink: /
-
+permalink: /es
+layout: es_default
 ---
 
 El Grupo de Inteligencia Artificial (GIA) está dirigido actualmente por el Dr. Yudivián Almeida, pertenece al departamento de Inteligencia Artificial y Sistemas Computacionales, de la Facultad de Matemática y Computación de la Universidad de La Habana.
@@ -16,7 +16,7 @@ datos heterogéneos en fase de ejecución.
 
 ## ⚗️ Investigación
 
-> 🔎 [**Leer más**](/research)
+> 🔎 [**Leer más**](/es/research)
 
 El objetivo del grupo de investigación es investigar en temas relacionados con la Inteligencia Artificial.
 Dentro de esta área de investigación se profundiza en 4 áreas fundamentales: 
@@ -35,4 +35,4 @@ pragmática y la multilingualidad;
 - la interacción entre la representación y la inferencia en la semántica computacional para el lenguaje natural; 
 - el diseño de metaheurísticas para la solución de problemas de grandes dimensiones; 
 - el diseño de flujos o ensembles óptimos de algoritmos de aprendizaje de máquina; 
-- o el diseño de instrumentos robóticos.
+- el diseño de instrumentos robóticos.
