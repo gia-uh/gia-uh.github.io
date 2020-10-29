@@ -6,7 +6,7 @@ docs:
     - Yoan Gutiérrez
     - Rafael Muñoz
   journal: Journal of Biomedical Research
-  abstract: ...
+  year: "2019"
   link: ./about.html
 
 - title: TASS 2018, The Strength of Deep Learning in Language Understanding Tasks
@@ -14,5 +14,5 @@ docs:
     - Alejandro Piad-Morffis
     - Yoan Gutiérrez
   journal: SEPLN
-  abstract: ...
+  year: "2019"
   link: ./about.html

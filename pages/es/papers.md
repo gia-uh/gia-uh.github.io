@@ -11,6 +11,6 @@ layout: es_default
 
 - **{{ paper.title }}**. 
 {% for author in paper.authors %} {{ author }}, {% endfor %}
-_{{ paper.journal }}_
+_{{ paper.journal }}_, {{ paper.year }}.
 
 {% endfor %}
