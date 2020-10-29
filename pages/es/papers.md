@@ -1,7 +1,7 @@
 ---
 title: Publicaciones
-permalink: /es/papers
-layout: es_default
+permalink: /en/papers
 ---
 
-# Artículos publicados en JCR
+# 📃 Publicaciones
+
