@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-permalink: /en/projects
+permalink: /es/projects
 ---
 
 # 🎨 Proyectos

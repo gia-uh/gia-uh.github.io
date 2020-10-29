@@ -1,6 +1,6 @@
 ---
 title: Investigación
-permalink: /en/research
+permalink: /es/research
 ---
 
 # ⚗️ Investigación

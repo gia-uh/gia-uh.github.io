@@ -1,6 +1,6 @@
 ---
 title: Recursos
-permalink: /en/resources
+permalink: /es/resources
 ---
 
 # 🛠️ Recursos

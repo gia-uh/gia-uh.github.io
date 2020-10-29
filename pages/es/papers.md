@@ -1,6 +1,6 @@
 ---
 title: Publicaciones
-permalink: /en/papers
+permalink: /es/papers
 ---
 
 # 📃 Publicaciones

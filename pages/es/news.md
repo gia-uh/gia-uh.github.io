@@ -1,6 +1,6 @@
 ---
 title: Noticias
-permalink: /en/news
+permalink: /es/news
 ---
 
 # 🔊 Noticias
