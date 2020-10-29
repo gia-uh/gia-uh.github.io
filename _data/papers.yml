@@ -1,18 +1,18 @@
 docs_list_title: Papers
 docs:
 - title: A corpus to support eHealth Knowledge Discovery technologies
-  autors:
-    - autor: Alejandro Piad-Morffis
-    - autor: Yoan Gutiérrez
-    - autor: Rafael Muñoz
+  authors:
+    - Alejandro Piad-Morffis
+    - Yoan Gutiérrez
+    - Rafael Muñoz
   journal: Journal of Biomedical Research
   abstract: ...
   link: ./about.html
 
 - title: TASS 2018, The Strength of Deep Learning in Language Understanding Tasks
-  autors:
-    - autor: Alejandro Piad-Morffis
-    - autor: Yoan Gutiérrez
+  authors:
+    - Alejandro Piad-Morffis
+    - Yoan Gutiérrez
   journal: SEPLN
   abstract: ...
   link: ./about.html
