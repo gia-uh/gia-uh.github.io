@@ -17,13 +17,14 @@ researchers:
   email: luciano@matcom.uh.cu
 
 phds:
-- name: Juan Pablo Consuegra Ayala
+- name: Juan Pablo Consuegra-Ayala
   bio:
     en: Instructor Professor at the University of Havana.
     es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: jpconsuegra@matcom.uh.cu
   github: jpconsuegra
+  googlescholar: AmZHupsAAAAJ
 
 - name: Suilan Estévez-Velarde
   bio:
