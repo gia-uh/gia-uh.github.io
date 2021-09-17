@@ -1,0 +1,84 @@
+researchers:
+- name: Yudivian Almeida-Cruz
+  bio:
+    en: Head of the Artificial Intelligence Group at the University of Havana. Assistant Professor.
+    es: Director del Grupo de Inteligencia Artificial en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: yudy@matcom.uh.cu
+  github: yudivian
+  twitter: yudivian
+  linkedin: yudivian
+
+- name: Luciano García Garrido
+  bio:
+    en: Associate Professor. Founder of the Computer Science major at the University of Havana.
+    es: Profesor Asociado. Fundador de la carrera de Ciencia de la Computación en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: luciano@matcom.uh.cu
+
+phds:
+- name: Juan Pablo Consuegra Ayala
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: jpconsuegra@matcom.uh.cu
+  github: jpconsuegra
+
+- name: Suilan Estévez-Velarde
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: sestevez@matcom.uh.cu
+  github: suilanestevez
+  twitter: SuilanEstevez
+  linkedin: sestevez
+
+- name: Dafne García de Armas
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: dafne@matcom.uh.cu
+
+- name: Alejandro Piad-Morffis
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: apiad@matcom.uh.cu
+  github: apiad
+  twitter: AlejandroPiad
+  linkedin: apiad
+  website: https://apiad.net
+  googlescholar: 4P9BS6QAAAAJ
+
+masters:
+- name: Hian Cañizares Díaz
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: hcanizares@matcom.uh.cu
+
+- name: Rocío Cruz Linares
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: rocioxl@matcom.uh.cu
+
+- name: Ernesto Luis Estevanell Valladares
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: estevanell@matcom.uh.cu
+
+- name: Daniel Alejandro Valdes Pérez
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: danielvp@matcom.uh.cu

@@ -71,7 +71,8 @@ presentations:
     - Rafael Muñoz
     - Yudivián Almeida-Cruz
   event: KKD Workshop on Machine Learning Automation
-  place: Singapur, Indonesia (Online)
+  place: Singapore, Indonesia (Online)
+  year: 2021
 
 - title: "AutoML with memory: a Meta-learning method based on instances"
   authors:
@@ -79,7 +80,7 @@ presentations:
     - Suilan Estéves Velarde
     - Alejandro Piad Morffis
   event: International Workshop on Operations Research
-  place: Havana, Cuba (Online)
+  place: La Habana, Cuba (Online)
   year: 2021
 
 - title: Quantification of Biases and Equity in Machine Learning Algorithms and Data Corpus
@@ -87,7 +88,7 @@ presentations:
     - Juan Pablo Consuegra Ayala
     - Yudivián Almeida Cruz
   event: International Workshop on Operations Research
-  place: Havana, Cuba (Online)
+  place: La Habana, Cuba (Online)
   year: 2021
 
 - title: Deep Learning Approach for Latent Representation of the Style of Texts
@@ -96,7 +97,7 @@ presentations:
     - Jorge Ignacio Rodriguez-de-la Vega-Castro
     - Alejandro Piad-Morffis
   event: International Workshop on Operations Research
-  place: Havana, Cuba (Online)
+  place: La Habana, Cuba (Online)
   year: 2021
 
 - title: Automated Selection of Clustering Algorithms
@@ -106,5 +107,5 @@ presentations:
     - Alejandro Piad-Morffis
     - Yudivián Almeida-Cruz
   event: International Workshop on Operations Research
-  place: Havana, Cuba (Online)
+  place: La Habana, Cuba (Online)
   year: 2021
