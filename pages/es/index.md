@@ -6,33 +6,25 @@ layout: es_default
 
 El Grupo de Inteligencia Artificial (GIA) está dirigido actualmente por el Dr. Yudivián Almeida, pertenece al departamento de Inteligencia Artificial y Sistemas Computacionales, de la Facultad de Matemática y Computación de la Universidad de La Habana.
 
-Este grupo de investigación cuenta con aproximadamente 10 investigadores, y el equipo está formado
-tanto por investigadores senior, investigadores post-doctorales y pre-doctorales. Se trata de un grupo
-dinámico y proactivo que organizan distintos seminarios internos, colaboran con diversas colaboraciones
-con centros internacionales, como la Universidad Paris 1 Panthéon-Sorbonne (Francia), la de
-Universidad de Alicante (España) o la Universidad de Montreal (Canadá) y tienen en la actualidad varios
-proyectos de investigación relacionados con la temáticas de Inteligencia Artificial con tratamiento de
-datos heterogéneos en fase de ejecución.
+Este grupo de investigación cuenta con aproximadamente 10 investigadores, y el equipo está formado tanto por investigadores senior, investigadores post-doctorales y pre-doctorales. Se trata de un grupo dinámico y proactivo que organizan distintos seminarios internos, colaboran con diversas colaboraciones con centros internacionales, como la Universidad Paris 1 Panthéon-Sorbonne (Francia), la de Universidad de Alicante (España) o la Universidad de Montreal (Canadá) y tienen en la actualidad varios proyectos de investigación relacionados con la temáticas de Inteligencia Artificial con tratamiento de datos heterogéneos en fase de ejecución.
 
 ## ⚗️ Investigación
 
 > 🔎 [**Leer más**](/es/research)
 
-El objetivo del grupo de investigación es investigar en temas relacionados con la Inteligencia Artificial.
-Dentro de esta área de investigación se profundiza en 4 áreas fundamentales: 
+El objetivo del grupo de investigación es investigar en temas relacionados con la Inteligencia Artificial. Dentro de esta área de investigación se profundiza en 4 áreas fundamentales:
 
-- el procesamiento y análisis inteligente del lenguaje natural, 
-- el aprendizaje de máquina y su aplicación, 
-- la soluciones basadas en metaheurísticas a problemas complejos, 
-- la robótica. 
+- el procesamiento y análisis inteligente del lenguaje natural;
+- el aprendizaje de máquina y su aplicación;
+- la soluciones basadas en metaheurísticas a problemas complejos; y
+- la robótica.
 
-A partir de esto se han obtenido resultados en
-explorar las cuestiones lingüísticas y computacionales involucrados en áreas tales como:
+A partir de esto se han obtenido resultados en explorar las cuestiones lingüísticas y computacionales involucrados en áreas tales como:
 
 - la generación de lenguaje natural, el reconocimiento de la implicación textual, el discurso y el modelado del diálogo, la
-pragmática y la multilingualidad; 
-- desarrollar herramientas computacionales para la inferencia de conocimiento; 
-- la interacción entre la representación y la inferencia en la semántica computacional para el lenguaje natural; 
-- el diseño de metaheurísticas para la solución de problemas de grandes dimensiones; 
-- el diseño de flujos o ensembles óptimos de algoritmos de aprendizaje de máquina; 
+pragmática y la multilingualidad;
+- desarrollar herramientas computacionales para la inferencia de conocimiento;
+- la interacción entre la representación y la inferencia en la semántica computacional para el lenguaje natural;
+- el diseño de metaheurísticas para la solución de problemas de grandes dimensiones;
+- el diseño de flujos o ensembles óptimos de algoritmos de aprendizaje de máquina; y
 - el diseño de instrumentos robóticos.

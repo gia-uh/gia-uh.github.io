@@ -1,18 +1,110 @@
-docs_list_title: Papers
-docs:
+papers:
+- title: Exploiting discourse structure of traditional digital media to enhance automatic fake news detection
+- authors:
+  - Alba Bonet-Jover
+  - Alejandro Piad-Morffis
+  - Estela Saquete
+  - Patricio Martínez-Barco
+  - Miguel Ángel García-Cumbreras
+  journal: Expert Systems with Applications
+  link: https://doi.org/10.1016/j.eswa.2020.114340
+  year: 2021
+
+- title: Automatic extension of corpora from the intelligent ensembling of eHealth knowledge discovery systems outputs
+  authors:
+    - Juan Pablo Consuegra-Ayala
+    - Yoan Gutiérrez
+    - Alejandro Piad-Morffis
+    - Yudivian Almeida-Cruz
+    - Manuel Palomar
+  journal: Journal of Biomedical Informatics
+  link: https://doi.org/10.1016/j.jbi.2021.103716
+  year: 2021
+
+- title: General-purpose hierarchical optimization of machine learning pipelines with grammatical evolution
+  authors:
+    - Suilan Estévez-Velarde
+    - Yoan Gutiérrez
+    - Andrés Montoyo
+    - Yudivián Almeida-Cruz
+  journal: Information Sciences
+  link: https://doi.org/10.1016/j.ins.2020.07.035
+  year: 2021
+
+- title: Hacia la democratización del aprendizaje de máquinas
+  authors:
+    - Ernesto Luis Estevanell-Valladares
+    - Suilan Estevez-Velarde
+    - Alejandro Piad-Morffis
+    - Yoan Gutiérrez
+    - Andrés Montoyo
+    - Yudivian Almeida-Cruz
+  journal: Revista Cubana de Transformación Digital
+  link: https://rctd.uic.cu/rctd/article/view/107
+  year: 2021
+
 - title: A corpus to support eHealth Knowledge Discovery technologies
   authors:
     - Alejandro Piad-Morffis
     - Yoan Gutiérrez
     - Rafael Muñoz
   journal: Journal of Biomedical Research
-  year: "2019"
-  link: ./about.html
+  year: 2019
+  link:
 
 - title: TASS 2018, The Strength of Deep Learning in Language Understanding Tasks
   authors:
     - Alejandro Piad-Morffis
     - Yoan Gutiérrez
   journal: SEPLN
-  year: "2019"
-  link: ./about.html
+  year: 2019
+  link:
+
+presentations:
+- title: Defining General-Purpose Machine Learning Problems for	AutoML
+  authors:
+    - Suilan Estevez-Velarde
+    - Alejandro Piad-Morffis
+    - Ernesto Luis Estevanell-Valladares
+    - Yoan Gutiérrez
+    - Andrés Montoyo
+    - Rafael Muñoz
+    - Yudivián Almeida-Cruz
+  event: KKD Workshop on Machine Learning Automation
+  place: Singapur, Indonesia (Online)
+
+- title: "AutoML with memory: a Meta-learning method based on instances"
+  authors:
+    - Daniel Alejandro Valdés Perez
+    - Suilan Estéves Velarde
+    - Alejandro Piad Morffis
+  event: International Workshop on Operations Research
+  place: Havana, Cuba (Online)
+  year: 2021
+
+- title: Quantification of Biases and Equity in Machine Learning Algorithms and Data Corpus
+  authors:
+    - Juan Pablo Consuegra Ayala
+    - Yudivián Almeida Cruz
+  event: International Workshop on Operations Research
+  place: Havana, Cuba (Online)
+  year: 2021
+
+- title: Deep Learning Approach for Latent Representation of the Style of Texts
+  authors:
+    - Rocío Cruz-Linares
+    - Jorge Ignacio Rodriguez-de-la Vega-Castro
+    - Alejandro Piad-Morffis
+  event: International Workshop on Operations Research
+  place: Havana, Cuba (Online)
+  year: 2021
+
+- title: Automated Selection of Clustering Algorithms
+  authors:
+    - Ernesto Luis Estevanell-Valladares
+    - Suilan Estevez-Velarde
+    - Alejandro Piad-Morffis
+    - Yudivián Almeida-Cruz
+  event: International Workshop on Operations Research
+  place: Havana, Cuba (Online)
+  year: 2021
