@@ -6,7 +6,7 @@ layout: es_default
 
 # 📃 Publicaciones
 
-{% for paper in site.data.papers.docs %}
+{% for paper in site.data.papers.papers %}
 
 - [**{{ paper.title }}**]({{ paper.link }}).
 {% for author in paper.authors %} {{ author }}, {% endfor %}
@@ -18,7 +18,7 @@ _{{ paper.journal }}_, {{ paper.year }}.
 
 {% for paper in site.data.papers.presentations %}
 
-- [**{{ paper.title }}**]({{ paper.link }}).
+- **{{ paper.title }}**.
 {% for author in paper.authors %} {{ author }}, {% endfor %}
 _{{ paper.event }}_, {{ paper.place }}. {{ paper.year }}.
 
