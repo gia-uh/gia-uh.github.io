@@ -82,3 +82,10 @@ masters:
     es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: danielvp@matcom.uh.cu
+  
+- name: Frank Sadan Naranjo Noda
+  bio:
+    en: Intern Researcher at ICIMAF
+    es: Adiestrado en el ICIMAF.
+  institution: Interdisciplinary Mathematics Department, ICIMAF
+  email: fsadannn@icimaf.cu
