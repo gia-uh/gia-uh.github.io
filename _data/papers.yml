@@ -43,6 +43,25 @@ papers:
   link: https://rctd.uic.cu/rctd/article/view/107
   year: 2021
 
+- title: "UH-MatCom at eHealth-KD Challenge 2020: Deep-Learning and Ensemble Models for Knowledge Discovery in Spanish Documents"
+  authors:
+    - Juan Pablo Consuegra-Ayala
+    - Manuel Palomar
+  event: IberLEF 2020
+  link: http://ceur-ws.org/Vol-2664/eHealth-KD_paper4.pdf
+  year: 2020
+
+- title: "UH-MAJA-KD at eHealth-KD Challenge 2020: Deep Learning Models for Knowledge Discovery in Spanish eHealth Documents"
+  authors:
+    - Alejandro Rodríguez-Pérez
+    - Ernesto Quevedo-Caballero
+    - Jorge Mederos-Alvarado
+    - Rocío Cruz-Linares
+    - Juan Pablo Consuegra-Ayala
+  event: IberLEF 2020
+  link: http://ceur-ws.org/Vol-2664/eHealth-KD_paper5.pdf
+  year: 2020
+
 - title: A corpus to support eHealth Knowledge Discovery technologies
   authors:
     - Alejandro Piad-Morffis
@@ -51,6 +70,19 @@ papers:
   journal: Journal of Biomedical Research
   year: 2019
   link:
+
+- title: Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2019
+  authors:
+    - Alejandro Piad-Morffis
+    - Yoan Gutiérrez
+    - Juan Pablo Consuegra-Ayala
+    - Suilan Estevez-Velarde
+    - Yudivián Almeida-Cruz
+    - Rafael Muñoz
+    - Andrés Montoyo
+  event: IberLEF 2019
+  link: http://ceur-ws.org/Vol-2421/eHealth-KD_overview.pdf
+  year: 2019
 
 - title: TASS 2018, The Strength of Deep Learning in Language Understanding Tasks
   authors:
@@ -109,35 +141,3 @@ presentations:
   event: International Workshop on Operations Research
   place: La Habana, Cuba (Online)
   year: 2021
-
-- title: "UH-MatCom at eHealth-KD Challenge 2020: Deep-Learning and Ensemble Models for Knowledge Discovery in Spanish Documents"
-  authors:
-    - Juan Pablo Consuegra-Ayala
-    - Manuel Palomar
-  event: IberLEF 2020
-  link: http://ceur-ws.org/Vol-2664/eHealth-KD_paper4.pdf
-  year: 2020
-
-- title: "UH-MAJA-KD at eHealth-KD Challenge 2020: Deep Learning Models for Knowledge Discovery in Spanish eHealth Documents"
-  authors:
-    - Alejandro Rodríguez-Pérez
-    - Ernesto Quevedo-Caballero
-    - Jorge Mederos-Alvarado
-    - Rocío Cruz-Linares
-    - Juan Pablo Consuegra-Ayala
-  event: IberLEF 2020
-  link: http://ceur-ws.org/Vol-2664/eHealth-KD_paper5.pdf
-  year: 2020
-
-- title: Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2019
-  authors:
-    - Alejandro Piad-Morffis
-    - Yoan Gutiérrez
-    - Juan Pablo Consuegra-Ayala
-    - Suilan Estevez-Velarde
-    - Yudivián Almeida-Cruz
-    - Rafael Muñoz
-    - Andrés Montoyo
-  event: IberLEF 2019
-  link: http://ceur-ws.org/Vol-2421/eHealth-KD_overview.pdf
-  year: 2019
