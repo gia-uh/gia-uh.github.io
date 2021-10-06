@@ -43,6 +43,48 @@ papers:
   link: https://rctd.uic.cu/rctd/article/view/107
   year: 2021
 
+- title: A computational ecosystem to support eHealth Knowledge Discovery technologies in Spanish
+  authors:
+    - Alejandro Piad-Morffis
+    - Yoan Gutiérrez
+    - Suilan Estévez-Velarde
+    - Rafael Muñoz
+  journal: Journal of Biomedical Informatics
+  link: https://doi.org/10.1016/j.jbi.2020.103517
+  year: 2020
+
+- title: "AutoGOAL: Automatic Discovery of Heterogeneous Machine Learning Pipelines with Probabilistic Grammars"
+  authors:
+    Suilan Estévez-Velarde (UH)
+    Yoan Gutiérrez
+    Andrés Montoyo
+    Yudivián Almeida-Cruz
+  journal: International Congress on Computational Linguistics, COLING
+  year: 2020
+
+- title: Demo Application for the AutoGOAL Framework
+  authors:
+    - Suilan Estévez-Velarde
+    - Alejandro Piad-Morffis
+    - Yoan Gutiérrez
+    - Andrés Montoyo
+    - Rafael Muñoz
+    - Yudivián Almeida-Cruz
+  journal: International Congress on Computational Linguistics, COLING
+  year: 2020
+
+- title: Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2020
+  authors:
+    Alejandro Piad-Morffis (UH)
+    Yoan Gutiérrez
+    Hian Cañizares-Diaz(UH)
+    Suilan Estévez-Velarde (UH)
+    Rafael Muñoz Andrés Montoyo
+    Yudivián Almeida-Cruz (UH)
+  journal: Proceedings of the Iberian Languages Evaluation Forum at SEPLN
+  link: http://ceur-ws.org/Vol-2664/
+  year: 2020
+  
 - title: "UH-MatCom at eHealth-KD Challenge 2020: Deep-Learning and Ensemble Models for Knowledge Discovery in Spanish Documents"
   authors:
     - Juan Pablo Consuegra-Ayala
@@ -60,7 +102,6 @@ papers:
     - Juan Pablo Consuegra-Ayala
   event: IberLEF 2020
   link: http://ceur-ws.org/Vol-2664/eHealth-KD_paper5.pdf
-  year: 2020
 
 - title: A corpus to support eHealth Knowledge Discovery technologies
   authors:
