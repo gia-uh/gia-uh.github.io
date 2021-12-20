@@ -9,6 +9,28 @@ researchers:
   twitter: yudivian
   linkedin: yudivian
 
+- name: Suilan Estévez-Velarde
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: sestevez@matcom.uh.cu
+  github: sestevez
+  twitter: SuilanEstevez
+  linkedin: sestevez
+
+- name: Alejandro Piad-Morffis
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: apiad@matcom.uh.cu
+  github: apiad
+  twitter: AlejandroPiad
+  linkedin: apiad
+  website: https://apiad.net
+  googlescholar: 4P9BS6QAAAAJ
+
 - name: Luciano García Garrido
   bio:
     en: Associate Professor. Founder of the Computer Science major at the University of Havana.
@@ -26,34 +48,12 @@ phds:
   github: jpconsuegra
   googlescholar: AmZHupsAAAAJ
 
-- name: Suilan Estévez-Velarde
-  bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: sestevez@matcom.uh.cu
-  github: sestevez
-  twitter: SuilanEstevez
-  linkedin: sestevez
-
 - name: Dafne García de Armas
   bio:
     en: Instructor Professor at the University of Havana.
     es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: dafne@matcom.uh.cu
-
-- name: Alejandro Piad-Morffis
-  bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: apiad@matcom.uh.cu
-  github: apiad
-  twitter: AlejandroPiad
-  linkedin: apiad
-  website: https://apiad.net
-  googlescholar: 4P9BS6QAAAAJ
 
 masters:
 - name: Hian Cañizares Díaz
@@ -83,7 +83,7 @@ masters:
     es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: danielvp@matcom.uh.cu
-  
+
 - name: Frank Sadan Naranjo Noda
   bio:
     en: Intern Researcher at ICIMAF
