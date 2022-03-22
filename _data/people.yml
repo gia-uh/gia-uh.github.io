@@ -90,3 +90,10 @@ masters:
     es: Adiestrado en el ICIMAF.
   institution: Interdisciplinary Mathematics Department, ICIMAF
   email: fsadannn@icimaf.cu
+
+- name: Carlos Bermudez Porto
+  bio:
+    en: Inter Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de la Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: carlos.bermudez@matcom.uh.cu
