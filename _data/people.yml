@@ -90,3 +90,12 @@ masters:
     es: Adiestrado en el ICIMAF.
   institution: Interdisciplinary Mathematics Department, ICIMAF
   email: fsadannn@icimaf.cu
+
+- name: Leynier Gutiérrez González
+  bio:
+    en: Inter Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: leynier.gutierrez@matcom.uh.cu
+  github: leynier
+  twitter: leynier41
