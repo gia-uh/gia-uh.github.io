@@ -101,3 +101,25 @@ masters:
   twitter: leynier41
   linkedin: leynier
   website: https://leynier.dev
+
+- name: Loraine Monteagudo García
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: loraine.monteagudo@matcom.uh.cu
+  github: lorainemg
+
+- name: Manuel Santiago Fernández Arias
+  email: manuel.fernandez@matcom.uh.cu
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  
+- name: Dayany Alfaro González
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: dayany.alfaro@matcom.uh.cu
