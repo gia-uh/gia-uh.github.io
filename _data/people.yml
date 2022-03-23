@@ -91,13 +91,21 @@ masters:
   institution: Interdisciplinary Mathematics Department, ICIMAF
   email: fsadannn@icimaf.cu
 
-- name: Manuel Santiago Fernández Arias
+- name: Loraine Monteagudo García
   bio:
     en: Intern Professor at the University of Havana.
     es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
-  email: manuel.fernandez@matcom.uh.cu
+  email: loraine.monteagudo@matcom.uh.cu
+  github: lorainemg
 
+- name: Manuel Santiago Fernández Arias
+  email: manuel.fernandez@matcom.uh.cu
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  
 - name: Dayany Alfaro González
   bio:
     en: Intern Professor at the University of Havana.
