@@ -99,4 +99,37 @@ masters:
   email: carlos.bermudez@matcom.uh.cu
   github: cbermudez97
   twitter: BermudezPorto
+
+- name: Leynier Gutiérrez González
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: leynier.gutierrez@matcom.uh.cu
+  github: leynier
+  twitter: leynier41
+  linkedin: leynier
+  website: https://leynier.dev
+
+- name: Loraine Monteagudo García
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: loraine.monteagudo@matcom.uh.cu
+  github: lorainemg
+
+- name: Manuel Santiago Fernández Arias
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: manuel.fernandez@matcom.uh.cu
   
+- name: Dayany Alfaro González
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: dayany.alfaro@matcom.uh.cu
+
