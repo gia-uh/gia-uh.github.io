@@ -91,6 +91,15 @@ masters:
   institution: Interdisciplinary Mathematics Department, ICIMAF
   email: fsadannn@icimaf.cu
 
+- name: Carlos Bermudez Porto
+  bio:
+    en: Intern Professor at the University of Havana.
+    es: Profesor Adiestrado en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: carlos.bermudez@matcom.uh.cu
+  github: cbermudez97
+  twitter: BermudezPorto
+
 - name: Leynier Gutiérrez González
   bio:
     en: Intern Professor at the University of Havana.
@@ -111,11 +120,11 @@ masters:
   github: lorainemg
 
 - name: Manuel Santiago Fernández Arias
-  email: manuel.fernandez@matcom.uh.cu
   bio:
     en: Intern Professor at the University of Havana.
     es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
+  email: manuel.fernandez@matcom.uh.cu
   
 - name: Dayany Alfaro González
   bio:
@@ -123,3 +132,4 @@ masters:
     es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: dayany.alfaro@matcom.uh.cu
+
