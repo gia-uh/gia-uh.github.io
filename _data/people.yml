@@ -132,4 +132,12 @@ masters:
     es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: dayany.alfaro@matcom.uh.cu
+  
+- name: Roberto Marti Cedeño
+  bio:
+    en: Intern Professor and System Administrator at the University of Havana.
+    es: Profesor Adiestrado y Administrador de Sistemas en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: roberto@uh.cu
+  github: rmarticedeno
 
