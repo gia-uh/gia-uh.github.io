@@ -75,17 +75,23 @@ phds:
   email: danielvp@matcom.uh.cu
 
 masters:
-- name: Débora Famadas
+- name: Deborah Famadas Rodríguez
   bio:
     en: Instructor Professor at the University of Havana.
     es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
+  email: deborahfamadas@gmail.com
+  github: deborafam
+  linkedin: dbyfam
 
-- name: Gabriel Hernández
+- name: Gabriel Hernández Rodríguez
   bio:
     en: Instructor Professor at the University of Havana.
     es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
+  email: gabrielhdezrodriguez@gmail.com
+  github: sour6ce
+  linkedin: gabriel-herrod
 
 - name: Roberto Marti Cedeño
   bio:
