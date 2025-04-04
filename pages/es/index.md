@@ -14,8 +14,8 @@ Este grupo de investigación cuenta con aproximadamente 10 investigadores, y el 
 
 El objetivo del grupo de investigación es investigar en temas relacionados con la Inteligencia Artificial. Dentro de esta área de investigación se profundiza en 4 áreas fundamentales:
 
-- el procesamiento y análisis inteligente del lenguaje natural;
-- el aprendizaje de máquina y su aplicación;
+- el procesamiento, análisis, y generación inteligente del lenguaje natural;
+- el aprendizaje de máquina y sus aplicaciones;
 - la soluciones basadas en metaheurísticas a problemas complejos; y
 - la robótica.
 
