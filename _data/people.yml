@@ -75,14 +75,6 @@ phds:
   email: danielvp@matcom.uh.cu
 
 masters:
-
-- name: Roberto Martí
-  bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: robertomarti@matcom.uh.cu
-
 - name: Débora Famadas
   bio:
     en: Instructor Professor at the University of Havana.
@@ -94,6 +86,14 @@ masters:
     en: Instructor Professor at the University of Havana.
     es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
+
+- name: Roberto Marti Cedeño
+  bio:
+    en: Intern Professor and System Administrator at the University of Havana.
+    es: Profesor Adiestrado y Administrador de Sistemas en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: roberto@uh.cu
+  github: rmarticedeno
 
 - name: Niley González
   bio:
