@@ -11,8 +11,8 @@ researchers:
 
 - name: Suilan Estévez-Velarde
   bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
+    en: Full Professor at the University of Havana.
+    es: Profesor Titular en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: sestevez@matcom.uh.cu
   github: sestevez
@@ -21,8 +21,8 @@ researchers:
 
 - name: Alejandro Piad-Morffis
   bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
+    en: Full Professor at the University of Havana.
+    es: Profesor Titular en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: apiad@matcom.uh.cu
   github: apiad
@@ -31,105 +31,66 @@ researchers:
   website: https://apiad.net
   googlescholar: 4P9BS6QAAAAJ
 
+- name: Alberto Fernánddez Oliva
+  bio:
+    en: Full Professor at the University of Havana.
+    es: Profesor Titular en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: luciano@matcom.uh.cu
+
+- name: Frank Sadan Naranjo Noda
+  bio:
+    en: Full-time Researcher at ICIMAF
+    es: Investigador en ICIMAF.
+  institution: Interdisciplinary Mathematics Department, ICIMAF
+  email: fsadannn@icimaf.cu
+
+- name: Lucina García
+  bio:
+    en: Associate Professor. Founder of the Computer Science major at the University of Havana.
+    es: Profesor Emérito y Consultante. Fundador de la carrera de Ciencia de la Computación en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: luciano@matcom.uh.cu
+
 - name: Luciano García Garrido
   bio:
     en: Associate Professor. Founder of the Computer Science major at the University of Havana.
-    es: Profesor Asociado. Fundador de la carrera de Ciencia de la Computación en la Universidad de La Habana.
+    es: Profesor Emérito y Consulante. Fundador de la carrera de Ciencia de la Computación en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: luciano@matcom.uh.cu
 
 phds:
-- name: Juan Pablo Consuegra-Ayala
+- name: Ernesto Estevanell Valladares
   bio:
     en: Instructor Professor at the University of Havana.
     es: Profesor Instructor en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: jpconsuegra@matcom.uh.cu
-  github: jpconsuegra
-  googlescholar: AmZHupsAAAAJ
-
-- name: Dafne García de Armas
-  bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: dafne@matcom.uh.cu
-
-masters:
-- name: Hian Cañizares Díaz
-  bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: hcanizares@matcom.uh.cu
-
-- name: Rocío Cruz Linares
-  bio:
-    en: Instructor Professor at the University of Havana.
-    es: Profesor Instructor en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: rocioxl@matcom.uh.cu
-
-- name: Ernesto Luis Estevanell Valladares
-  bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: estevanell@matcom.uh.cu
 
 - name: Daniel Alejandro Valdes Pérez
   bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: danielvp@matcom.uh.cu
 
-- name: Frank Sadan Naranjo Noda
-  bio:
-    en: Intern Researcher at ICIMAF
-    es: Adiestrado en el ICIMAF.
-  institution: Interdisciplinary Mathematics Department, ICIMAF
-  email: fsadannn@icimaf.cu
+masters:
 
-- name: Carlos Bermudez Porto
+- name: Roberto Martí
   bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
-  email: carlos.bermudez@matcom.uh.cu
-  github: cbermudez97
-  twitter: BermudezPorto
+  email: robertomarti@matcom.uh.cu
 
-- name: Leynier Gutiérrez González
+- name: Débora Famadas
   bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
-  email: leynier.gutierrez@matcom.uh.cu
-  github: leynier
-  twitter: leynier41
-  linkedin: leynier
-  website: https://leynier.dev
 
-- name: Loraine Monteagudo García
+- name: Gabriel Hernández
   bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
-  email: loraine.monteagudo@matcom.uh.cu
-  github: lorainemg
-
-- name: Manuel Santiago Fernández Arias
-  bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: manuel.fernandez@matcom.uh.cu
-  
-- name: Dayany Alfaro González
-  bio:
-    en: Intern Professor at the University of Havana.
-    es: Profesor Adiestrado en la Universidad de La Habana.
-  institution: School of Math and Computer Science, University of Havana
-  email: dayany.alfaro@matcom.uh.cu
-

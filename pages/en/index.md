@@ -13,7 +13,7 @@ This research group has approximately 10 researchers, and the team consists of b
 
 The objective of the research group is to investigate topics related to Artificial Intelligence. Within this area of ​​research, 4 fundamental areas are explored:
 
-- intelligent processing and analysis of natural language;
+- intelligent generation, processing, and analysis of natural language;
 - machine learning and its applications;
 - solutions based on metaheuristics for complex problems; and
 - robotics.
