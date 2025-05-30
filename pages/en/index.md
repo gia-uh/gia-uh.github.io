@@ -34,7 +34,7 @@ pragmatics and multilinguality;
 
 **Cecilia: The Cuban Language Model**
 
-[Cecilia]((https://cecilia.uhgia.org) is a family of language models specifically pretrained on Cuban written text, designed to capture the linguistic, cultural, and social nuances of Cuban Spanish. Developed by the Artificial Intelligence Research Group (GIA-UH) at the University of Havana in collaboration with the University of Alicante, Cecilia supports a variety of natural language processing tasks tailored to Cuban Spanish, including text generation, sentiment analysis, named entity recognition, and machine translation. The model is trained on a rich corpus comprising Cuban newspapers, literature, laws, encyclopedias, and song lyrics, enabling it to reflect Cuban language varieties and cultural context authentically[1][3].
+[Cecilia](https://cecilia.uhgia.org) is a family of language models specifically pretrained on Cuban written text, designed to capture the linguistic, cultural, and social nuances of Cuban Spanish. Developed by the Artificial Intelligence Research Group (GIA-UH) at the University of Havana in collaboration with the University of Alicante, Cecilia supports a variety of natural language processing tasks tailored to Cuban Spanish, including text generation, sentiment analysis, named entity recognition, and machine translation. The model is trained on a rich corpus comprising Cuban newspapers, literature, laws, encyclopedias, and song lyrics, enabling it to reflect Cuban language varieties and cultural context authentically[1][3].
 
 **AutoGOAL: A Framework for Program Synthesis with a Focus on Auto Machine Learning**  
 
