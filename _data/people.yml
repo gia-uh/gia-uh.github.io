@@ -107,3 +107,12 @@ masters:
     es: Profesor Instructor en la Universidad de La Habana.
   institution: School of Math and Computer Science, University of Havana
   email: niley.gonzalez@matcom.uh.cu
+
+- name: Roberto García Rodríguez
+  bio:
+    en: Instructor Professor at the University of Havana.
+    es: Profesor Instructor en la Universidad de La Habana.
+  institution: School of Math and Computer Science, University of Havana
+  email: robegr42@gmail.com
+  github: Robegr42
+  linkedin: roberto-garcia
