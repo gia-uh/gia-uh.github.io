@@ -1,0 +1,2333 @@
+[
+ {
+  "title": "Adaptación del modelo Qwen3-TTS al español de Cuba mediante ajuste fino eficiente en parámetros con LoRA",
+  "authors": [
+   "Lia Stephanie López Rosales"
+  ],
+  "year": 2026,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "danilo-guerrero",
+   "yudivian-almeida"
+  ],
+  "level": "diploma",
+  "members": [
+   "lia-lopez"
+  ],
+  "id": "adaptacion-del-modelo-qwen-tts-al-2026"
+ },
+ {
+  "title": "CodeStrange at GenSIE 2026: Metric-Aware Hybrid Pipelines for Spanish Schema-Guided Information Extraction",
+  "authors": [
+   "Leynier Gutiérrez González",
+   "Carlos Bermúdez Porto",
+   "Roberto Martí Cedeño"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper1.pdf",
+  "tags": [
+   "gensie"
+  ],
+  "members": [
+   "roberto-marti"
+  ],
+  "id": "codestrange-at-gensie-metric-aware-hybrid-2026"
+ },
+ {
+  "title": "Continual Pretraining of a Small Language Model on Cuban Spanish Corpora",
+  "authors": [
+   "Ernesto Luis Estevanell-Valladares",
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yudivian Almeida-Cruz",
+   "Alejandro Beltrán Varela",
+   "Carla Sunami Pérez Valera",
+   "Daniel Alejandro Valdés Pérez",
+   "Deborah Famadas Rodríguez",
+   "Elena Rodríguez Horta",
+   "Gabriel Hernández Rodríguez",
+   "Niley González Ferrales",
+   "Roberto Garcia Rodriguez",
+   "Roberto Marti Cedeño",
+   "Juan Pablo Consuegra Ayala",
+   "Robiert Sepúlveda-Torres",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Rafael Muñoz Guillena",
+   "Manuel Palomar"
+  ],
+  "year": 2026,
+  "venue": "Lecture Notes in Computer Science",
+  "type": "chapter",
+  "doi": "10.1007/978-3-032-11358-0_11",
+  "url": "https://doi.org/10.1007/978-3-032-11358-0_11",
+  "members": [
+   "alejandro-beltran",
+   "alejandro-piad",
+   "andres-montoyo",
+   "daniel-valdes",
+   "deborah-famadas",
+   "elena-rodriguez",
+   "ernesto-estevanell",
+   "gabriel-hernandez",
+   "juan-pablo-consuegra",
+   "manuel-palomar",
+   "rafael-munoz",
+   "roberto-garcia",
+   "roberto-marti",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "continual-pretraining-of-a-small-language-2026"
+ },
+ {
+  "title": "DRILLER at GenSIE 2026: Interpreting Extraction Semantics through Schema-Aware Prompting, Complementary Retrieval, and Heterogeneous Self-Consistency",
+  "authors": [
+   "Ariel González-Gómez",
+   "Daniel Alejandro Valdés-Pérez"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper6.pdf",
+  "tags": [
+   "gensie"
+  ],
+  "members": [
+   "ariel-gonzalez",
+   "daniel-valdes"
+  ],
+  "id": "driller-at-gensie-interpreting-extraction-semantics-2026"
+ },
+ {
+  "title": "Enhancing Inference in Small Language Models with Model-Agnostic Techniques",
+  "authors": [
+   "Yisel Clavel-Quintero",
+   "Dionis López-Ramos",
+   "Derek-Naharai Herrera-Domínguez",
+   "Edivaldo-Armindo Machado-Gomes"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper2.pdf",
+  "tags": [
+   "gensie",
+   "external"
+  ],
+  "members": [],
+  "id": "enhancing-inference-in-small-language-models-2026"
+ },
+ {
+  "title": "Few-Shot Prompting with Schema-Aware Post-Processing for Zero-Shot Structured Information Extraction in Spanish",
+  "authors": [
+   "Krishan Heredia"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper3.pdf",
+  "tags": [
+   "gensie",
+   "external"
+  ],
+  "members": [],
+  "id": "few-shot-prompting-with-schema-aware-2026"
+ },
+ {
+  "title": "Gradiant at IberLEF 2026 GenSIE: Taming SLMs for Information Extraction",
+  "authors": [
+   "Álvaro Bueno Sáez",
+   "David Sueiro-Durán",
+   "Héctor Cerezo-Costas"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper4.pdf",
+  "tags": [
+   "gensie",
+   "external"
+  ],
+  "members": [],
+  "id": "gradiant-at-iberlef-gensie-taming-slms-2026"
+ },
+ {
+  "title": "Inigo at IberLEF 2026 Task GenSIE: Schema-Guided Zero-Shot Information Extraction in Spanish with Small Language Models",
+  "authors": [
+   "Iñigo Goikoetxea Fanega",
+   "Mikel Sesma Sara",
+   "Javier Lasheras Navas"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper9.pdf",
+  "tags": [
+   "gensie",
+   "external"
+  ],
+  "members": [],
+  "id": "inigo-at-iberlef-task-gensie-schema-2026"
+ },
+ {
+  "title": "Optimizing Inference Stability in Small Language Models using Invariant Pruning and Audited Synthesis",
+  "authors": [
+   "Roberto Garcia-Rodriguez",
+   "Danilo Guerrero-Montero"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper8.pdf",
+  "tags": [
+   "gensie"
+  ],
+  "members": [
+   "danilo-guerrero",
+   "roberto-garcia"
+  ],
+  "id": "optimizing-inference-stability-in-small-language-2026"
+ },
+ {
+  "title": "Overview of GenSIE at IberLEF 2026: Schema-Guided Information Extraction with Small Language Models in Spanish",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Yudivian Almeida Cruz",
+   "Suilan Estévez Velarde",
+   "Isabel Espinosa Zaragoza",
+   "María Miró Maestre",
+   "Lucía Sevilla Requena",
+   "Alba Pérez Montero",
+   "Ernesto Estevanell Valladares"
+  ],
+  "year": 2026,
+  "venue": "Procesamiento del Lenguaje Natural, 77, pp. 503–518",
+  "type": "journal",
+  "url": "http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6906",
+  "tags": [
+   "gensie",
+   "overview"
+  ],
+  "members": [
+   "alejandro-piad",
+   "yudivian-almeida",
+   "suilan-estevez",
+   "ernesto-estevanell"
+  ],
+  "id": "overview-of-gensie-at-iberlef-schema-2026"
+ },
+ {
+  "title": "SEsml: Schema-guided Extraction with Small Language Models",
+  "authors": [
+   "Alejandro Beltrán"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper5.pdf",
+  "tags": [
+   "gensie"
+  ],
+  "members": [
+   "alejandro-beltran"
+  ],
+  "id": "sesml-schema-guided-extraction-with-small-2026"
+ },
+ {
+  "title": "Un enfoque neuro-simbólico para el meta-aprendizaje en sistemas AutoML",
+  "authors": [
+   "Raimel Daniel Romaguera Puig"
+  ],
+  "year": 2026,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "un-enfoque-neuro-simbolico-para-el-2026"
+ },
+ {
+  "title": "VerbaNexAI at GenSIE 2026: Intelligent Orchestration of Small Models for Zero-Shot Schema-Guided Information Extraction",
+  "authors": [
+   "Jesús Antonio Martínez Velandia",
+   "Jairo Enrique Serrano Castañeda",
+   "Edwin Alexander Puertas Del Castillo",
+   "Juan Carlos Martínez Santos"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of IberLEF 2026, CEUR-WS Vol-4273",
+  "type": "conference",
+  "url": "https://ceur-ws.org/Vol-4273/GenSIE2026_paper7.pdf",
+  "tags": [
+   "gensie",
+   "external"
+  ],
+  "members": [],
+  "id": "verbanexai-at-gensie-intelligent-orchestration-of-2026"
+ },
+ {
+  "title": "Asistencia a la Escritura a Través de LLMs",
+  "authors": [
+   "Alejandro Lamelas Delgado"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "daniel-valdes"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "asistencia-a-la-escritura-a-traves-2025"
+ },
+ {
+  "title": "Construcción Incremental de Bases de Conocimiento Semi-estructuradas con Modelos de Lenguaje",
+  "authors": [
+   "Carlos Mauricio Reyes Escudero"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "construccion-incremental-de-bases-de-conocimiento-2025"
+ },
+ {
+  "title": "Construcción de grafos de conocimiento usando LLMs",
+  "authors": [
+   "Alejandro Ramírez Trueba"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "roberto-garcia"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "construccion-de-grafos-de-conocimiento-usando-2025"
+ },
+ {
+  "title": "Diseño e Implementación de una Arquitectura de Simulación Multi-Agente basados en LLM para la Generación de Narrativas Emergentes",
+  "authors": [
+   "Franco Hernández Piloto"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "diseno-e-implementacion-de-una-arquitectura-2025"
+ },
+ {
+  "title": "Evolución de Pipelines de AutoML: Un Marco de Optimización Metaheurística Impulsado por Modelos de Lenguaje",
+  "authors": [
+   "Leonardo Javier Ramírez Calatayud"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "daniel-valdes"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "evolucion-de-pipelines-de-automl-un-2025"
+ },
+ {
+  "title": "Generación Automática de Reportes a partir de Consultas en Lenguaje Natural sobre Bases de Conocimiento",
+  "authors": [
+   "David Cabrera García"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "generacion-automatica-de-reportes-a-partir-2025"
+ },
+ {
+  "title": "Generación de Historias mediante Simulación basada en Agentes Conversacionales",
+  "authors": [
+   "Roger Fuentes Rodríguez"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alberto-fernandez",
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "generacion-de-historias-mediante-simulacion-basada-2025"
+ },
+ {
+  "title": "Generación de Narrativas Interactivas mediante Grandes Modelos de Lenguaje y Sistemas Multiagentes",
+  "authors": [
+   "Daniel Ángel Arró Moreno"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "generacion-de-narrativas-interactivas-mediante-grandes-2025"
+ },
+ {
+  "title": "GraphRAG para la Planificación Financiera",
+  "authors": [
+   "Héctor M. Rodríguez Sosa"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "graphrag-para-la-planificacion-financiera-2025"
+ },
+ {
+  "title": "PLAN-GRAIL-X: mejorando la correctitud sintáctica y semántica de agentes basados en LLMs para modelación de problemas de planificación",
+  "authors": [
+   "Ariel González Gómez"
+  ],
+  "year": 2025,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "yudivian-almeida"
+  ],
+  "level": "diploma",
+  "members": [
+   "ariel-gonzalez"
+  ],
+  "id": "plan-grail-x-mejorando-la-correctitud-2025"
+ },
+ {
+  "title": "Anotación Automática de Atributos Protegidos en Imágenes",
+  "authors": [
+   "Hansel Blanco Martí"
+  ],
+  "year": 2024,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "juan-pablo-consuegra"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "anotacion-automatica-de-atributos-protegidos-en-2024"
+ },
+ {
+  "title": "Automatic annotation of protected attributes to support fairness optimization",
+  "authors": [
+   "Juan Pablo Consuegra-Ayala",
+   "Yoan Gutiérrez",
+   "Yudivian Almeida-Cruz",
+   "Manuel Palomar"
+  ],
+  "year": 2024,
+  "venue": "Information Sciences",
+  "type": "journal",
+  "members": [
+   "juan-pablo-consuegra",
+   "manuel-palomar",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "automatic-annotation-of-protected-attributes-to-2024"
+ },
+ {
+  "title": "Balancing Efficiency and Performance in NLP: A Cross-Comparison of Shallow Machine Learning and Large Language Models via AutoML ; Equilibrando eficiencia y rendimiento en PLN: comparación cruzada de Machine Learning Tradicional y Grandes Modelos de Lenguaje mediante AutoML",
+  "authors": [
+   "Ernesto L. Estevanell-Valladares",
+   "Yoan Gutiérrez",
+   "Andres Montoyo",
+   "Rafael Muñoz",
+   "Yudivian Almeida-Cruz"
+  ],
+  "year": 2024,
+  "type": "journal",
+  "doi": "10.26342/2024-73-16",
+  "url": "http://hdl.handle.net/10045/146893",
+  "members": [
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "rafael-munoz",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "balancing-efficiency-and-performance-in-nlp-2024"
+ },
+ {
+  "title": "Bias mitigation for fair automation of classification tasks",
+  "authors": [
+   "Juan Pablo Consuegra‐Ayala",
+   "Yoan Gutiérrez",
+   "Yudivian Almeida‐Cruz",
+   "Manuel Palomar"
+  ],
+  "year": 2024,
+  "venue": "Expert Systems",
+  "type": "journal",
+  "doi": "10.1111/exsy.13734",
+  "url": "https://doi.org/10.1111/exsy.13734",
+  "members": [
+   "manuel-palomar",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "bias-mitigation-for-fair-automation-of-2024"
+ },
+ {
+  "title": "Enfoques Zero-Shot para la Extracción de Conocimiento a partir de Lenguaje Natural",
+  "authors": [
+   "Rolando Sánchez Ramos"
+  ],
+  "year": 2024,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "enfoques-zero-shot-para-la-extraccion-2024"
+ },
+ {
+  "title": "Evaluación de habilidades cognitivas de diversos LLM",
+  "authors": [
+   "Kevin Talavera Díaz"
+  ],
+  "year": 2024,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "evaluacion-de-habilidades-cognitivas-de-diversos-2024"
+ },
+ {
+  "title": "Improving AutoML for LLMs via Knowledge-Based Meta-Learning",
+  "authors": [
+   "Ernesto Luis Estevanell-Valladares",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo Guijarro",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2024,
+  "type": "journal",
+  "members": [
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "improving-automl-for-llms-via-knowledge-2024"
+ },
+ {
+  "title": "Improving trajectory classification through Kramers–Moyal coefficients",
+  "authors": [
+   "G. Viera-López",
+   "J.J. Morgado-Vega",
+   "A. Reyes",
+   "E. Altshuler",
+   "Yudivián Almeida-Cruz",
+   "Giorgio Manganini"
+  ],
+  "year": 2024,
+  "venue": "AI Open",
+  "type": "journal",
+  "doi": "10.1016/j.aiopen.2024.06.001",
+  "url": "http://dx.doi.org/10.1016/j.aiopen.2024.06.001",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "improving-trajectory-classification-through-kramersmoyal-coefficients-2024"
+ },
+ {
+  "title": "KD SENSO-MERGER: An architecture for semantic integration of heterogeneous data",
+  "authors": [
+   "Yoan Gutiérrez",
+   "José I. Abreu Salas",
+   "Andrés Montoyo",
+   "Rafael Muñoz",
+   "Suilan Estévez-Velarde"
+  ],
+  "year": 2024,
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "type": "journal",
+  "doi": "10.1016/j.engappai.2024.107854",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85183016437&partnerID=MN8TOARS",
+  "members": [
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez"
+  ],
+  "id": "kd-senso-merger-an-architecture-for-2024"
+ },
+ {
+  "title": "Meta-learning para AutoML heterogéneo",
+  "authors": [
+   "Lia Zerquera Ferrer"
+  ],
+  "year": 2024,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "meta-learning-para-automl-heterogeneo-2024"
+ },
+ {
+  "title": "Applying Human-in-the-Loop to construct a dataset for determining content reliability to combat fake news",
+  "authors": [
+   "Alba Bonet-Jover",
+   "Robiert Sepúlveda-Torres",
+   "Estela Saquete",
+   "Patricio Martínez-Barco",
+   "Alejandro Piad-Morffis",
+   "Suilan Estevez-Velarde"
+  ],
+  "year": 2023,
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "type": "journal",
+  "doi": "10.1016/j.engappai.2023.107152",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85171835480&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez"
+  ],
+  "id": "applying-human-in-the-loop-to-2023"
+ },
+ {
+  "title": "pactus: A Python framework for trajectory classification",
+  "authors": [
+   "G. Viera-López",
+   "J. J. Morgado-Vega",
+   "A. Reyes",
+   "E. Altshuler",
+   "Yudivián Almeida-Cruz",
+   "Giorgio Manganini"
+  ],
+  "year": 2023,
+  "venue": "Journal of Open Source Software",
+  "type": "journal",
+  "doi": "10.21105/joss.05738",
+  "url": "https://doi.org/10.21105/joss.05738",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "pactus-a-python-framework-for-trajectory-2023"
+ },
+ {
+  "title": "AutoGOAL basado en modelos preentrenados",
+  "authors": [
+   "Karel Díaz Vergara"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "autogoal-basado-en-modelos-preentrenados-2022"
+ },
+ {
+  "title": "Búsqueda Semántica en Grafos de Conocimiento con Lenguaje Natural",
+  "authors": [
+   "Omar Alejandro Hernández Ramírez"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "frank-sadan"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "busqueda-semantica-en-grafos-de-conocimiento-2022"
+ },
+ {
+  "title": "Contribuciones de la epidemioloǵıa, la modelación y los sistemas de información en el enfrentamiento de la COVID-19",
+  "authors": [
+   "Pedro Mas Bermejo",
+   "Liset Sanchez Valdés",
+   "Maŕıa Vidal Ledo",
+   "Armando Seuc Jo",
+   "Yudivian Almeida Cruz",
+   "Nancy Pérez Rodŕıguez",
+   "Raúl Guinovar D́ıaz",
+   "Waldermar Baldoquin",
+   "Wilfredo Morales Lezca",
+   "Isidro A Abelló Ugalde",
+   "others"
+  ],
+  "year": 2022,
+  "venue": "Anales de la Academia de Ciencias de Cuba",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "contribuciones-de-la-epidemiologa-la-modelacion-2022"
+ },
+ {
+  "title": "DSL en Python para la Descripción de Espacios de Búsquedas y la Generación de Muestras",
+  "authors": [
+   "Daniel Orlando Ortiz Pacheco"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "frank-sadan"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "dsl-en-python-para-la-descripcion-2022"
+ },
+ {
+  "title": "Data Models for Annotating Biomedical Scholarly Publications: the Case of CORD-19",
+  "authors": [
+   "Houcemeddine Turki",
+   "Mohamed Ali Hadj Taieb",
+   "Alejandro Piad-Morffis",
+   "Mohamed Ben Aouicha",
+   "René Fabrice Bile"
+  ],
+  "year": 2022,
+  "venue": "Companion Proceedings of the Web Conference 2022",
+  "type": "conference",
+  "doi": "10.1145/3487553.3524675",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85137522044&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "data-models-for-annotating-biomedical-scholarly-2022"
+ },
+ {
+  "title": "Destilación no supervisada de estilo en texto",
+  "authors": [
+   "Javier Alejandro Lopetegui González"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "frank-sadan"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "destilacion-no-supervisada-de-estilo-en-2022"
+ },
+ {
+  "title": "Enhancing multilingual and biomedical named entity recognition using Wikidata semantic relations",
+  "authors": [
+   "Houcemeddine Turki",
+   "Dennis Priskorn",
+   "Mohamed Ali Hadj Taieb",
+   "Mohamed Ben Aouicha",
+   "Alejandro Piad-Morffis"
+  ],
+  "year": 2022,
+  "venue": "Wiki Workshop (Non-Archival Report). Zenodo. doi",
+  "type": "conference",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "enhancing-multilingual-and-biomedical-named-entity-2022"
+ },
+ {
+  "title": "Ensemble Approaches for Graph Counterfactual Explanations.",
+  "authors": [
+   "Mario Alfonso Prado-Romero",
+   "Bardh Prenkaj",
+   "Giovanni Stilo",
+   "Alessandro Celi",
+   "Ernesto Luis Estevanell-Valladares",
+   "Daniel Alejandro Valdés Pérez"
+  ],
+  "year": 2022,
+  "venue": "XAI. it@ AI* IA",
+  "type": "conference",
+  "members": [
+   "daniel-valdes",
+   "ernesto-estevanell"
+  ],
+  "id": "ensemble-approaches-for-graph-counterfactual-explanations-2022"
+ },
+ {
+  "title": "Evaluación de modelos de aprendizaje reforzado en tareas cognitivas de propósito general",
+  "authors": [
+   "Tony Raúl Blanco Fernández"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "evaluacion-de-modelos-de-aprendizaje-reforzado-2022"
+ },
+ {
+  "title": "Habilitando la Transformación Digital. Tomo II",
+  "authors": [
+   "Alina Ruiz Jhones",
+   "Tatiana Delgado Fernández",
+   "Ailyn Febles Estrada",
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2022,
+  "type": "other",
+  "members": [
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "habilitando-la-transformacion-digital-tomo-ii-2022"
+ },
+ {
+  "title": "Intelligent ensembling of auto-ML system outputs for solving classification problems",
+  "authors": [
+   "Juan Pablo Consuegra-Ayala",
+   "Yoan Gutiérrez",
+   "Yudivian Almeida-Cruz",
+   "Manuel Palomar"
+  ],
+  "year": 2022,
+  "venue": "Information Sciences",
+  "type": "journal",
+  "members": [
+   "juan-pablo-consuegra",
+   "manuel-palomar",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "intelligent-ensembling-of-auto-ml-system-2022"
+ },
+ {
+  "title": "Model drifting para AutoGOAL MLOps",
+  "authors": [
+   "Javier Rodríguez Rodríguez"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "roberto-marti"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "model-drifting-para-autogoal-mlops-2022"
+ },
+ {
+  "title": "Optimización Bayesiana para AutoML Heterogéneo",
+  "authors": [
+   "Alejandro Escobar Giraudy"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "ernesto-estevanell"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "optimizacion-bayesiana-para-automl-heterogeneo-2022"
+ },
+ {
+  "title": "Resolución Automática de Problemas Arbitrarios de Clasificación de Forma Justa",
+  "authors": [
+   "Jorge Mederos Alvarado"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad",
+   "juan-pablo-consuegra"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "resolucion-automatica-de-problemas-arbitrarios-de-2022"
+ },
+ {
+  "title": "Sistema de Active-Learning basado en BRAT",
+  "authors": [
+   "Miguel Alejandro Rodríguez Hernández"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "sistema-de-active-learning-basado-en-2022"
+ },
+ {
+  "title": "Tipos Semánticos para AutoGOAL",
+  "authors": [
+   "Osmany Pérez Rodríguez"
+  ],
+  "year": 2022,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "tipos-semanticos-para-autogoal-2022"
+ },
+ {
+  "title": "12. Reassembling Public Data in Cuba: Collaborations When Information Is Missing, Outdated or Scarce",
+  "authors": [
+   "Saimi Reyes Carmona",
+   "Yudivián Almeida Cruz",
+   "Ernesto Guerra"
+  ],
+  "year": 2021,
+  "venue": "Towards a Critical Data Practice",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "reassembling-public-data-in-cuba-collaborations-2021"
+ },
+ {
+  "title": "Active learning for assisted corpus construction: A case study in knowledge discovery from biomedical text",
+  "authors": [
+   "",
+   "Hian Cañizares-Díaz",
+   "Alejandro Piad-Morffis",
+   "",
+   "Suilan Estevez-Velarde",
+   "",
+   "Yoan Gutiérrez",
+   "",
+   "Yudivián Almeida Cruz",
+   "",
+   "Andres Montoyo",
+   "",
+   "Rafael Muñoz-Guillena",
+   ""
+  ],
+  "year": 2021,
+  "venue": "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)",
+  "type": "conference",
+  "doi": "10.26615/978-954-452-072-4_026",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85123639764&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "active-learning-for-assisted-corpus-construction-2021"
+ },
+ {
+  "title": "AutoGOAL & MLOps",
+  "authors": [
+   "Roberto Martí Cedeño"
+  ],
+  "year": 2021,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [
+   "roberto-marti"
+  ],
+  "id": "autogoal-mlops-2021"
+ },
+ {
+  "title": "AutoML with memory: a Meta-learning method based on instances",
+  "authors": [
+   "Daniel Alejandro Valdés Perez",
+   "Suilan Estéves Velarde",
+   "Alejandro Piad Morffis"
+  ],
+  "year": 2021,
+  "venue": "International Workshop on Operations Research, La Habana, Cuba (Online)",
+  "type": "talk",
+  "members": [
+   "alejandro-piad",
+   "daniel-valdes"
+  ],
+  "id": "automl-with-memory-a-meta-learning-2021"
+ },
+ {
+  "title": "Automated Selection of Clustering Algorithms",
+  "authors": [
+   "Ernesto Luis Estevanell-Valladares",
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2021,
+  "venue": "International Workshop on Operations Research, La Habana, Cuba (Online)",
+  "type": "talk",
+  "members": [
+   "alejandro-piad",
+   "ernesto-estevanell",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "automated-selection-of-clustering-algorithms-2021"
+ },
+ {
+  "title": "Automatic extension of corpora from the intelligent ensembling of eHealth knowledge discovery systems outputs",
+  "authors": [
+   "Juan Pablo Consuegra-Ayala",
+   "Yoan Gutiérrez",
+   "Alejandro Piad-Morffis",
+   "Yudivian Almeida-Cruz",
+   "Manuel Palomar"
+  ],
+  "year": 2021,
+  "venue": "Journal of Biomedical Informatics",
+  "type": "journal",
+  "doi": "10.1016/j.jbi.2021.103716",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85102312667&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "juan-pablo-consuegra",
+   "manuel-palomar",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "automatic-extension-of-corpora-from-the-2021"
+ },
+ {
+  "title": "Deep Learning Approach for Latent Representation of the Style of Texts",
+  "authors": [
+   "Rocío Cruz-Linares",
+   "Jorge Ignacio Rodriguez-de-la Vega-Castro",
+   "Alejandro Piad-Morffis"
+  ],
+  "year": 2021,
+  "venue": "International Workshop on Operations Research, La Habana, Cuba (Online)",
+  "type": "talk",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "deep-learning-approach-for-latent-representation-2021"
+ },
+ {
+  "title": "Defining General-Purpose Machine Learning Problems for AutoML",
+  "authors": [
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Ernesto Luis Estevanell-Valladares",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Rafael Muñoz",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2021,
+  "venue": "KKD Workshop on Machine Learning Automation, Singapore, Indonesia (Online)",
+  "type": "talk",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "defining-general-purpose-machine-learning-problems-2021"
+ },
+ {
+  "title": "Descubrimiento Automático de Flujos de Aprendizaje de Máquina basado en Gramáticas Probabilı́sticas",
+  "authors": [
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2021,
+  "type": "thesis",
+  "members": [
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "descubrimiento-automatico-de-flujos-de-aprendizaje-2021"
+ },
+ {
+  "title": "Ecosistema para el Descubrimiento de Conocimiento en Lenguaje Natural",
+  "authors": [
+   "Alejandro Piad Morffis"
+  ],
+  "year": 2021,
+  "type": "thesis",
+  "members": [
+   "alejandro-piad",
+   "yudivian-almeida"
+  ],
+  "id": "ecosistema-para-el-descubrimiento-de-conocimiento-2021"
+ },
+ {
+  "title": "Exploiting discourse structure of traditional digital media to enhance automatic fake news detection",
+  "authors": [
+   "Alba Bonet-Jover",
+   "Alejandro Piad-Morffis",
+   "Estela Saquete",
+   "Patricio Martínez-Barco",
+   "Miguel Ángel García-Cumbreras"
+  ],
+  "year": 2021,
+  "venue": "Expert Systems with Applications",
+  "type": "journal",
+  "doi": "10.1016/j.eswa.2020.114340",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85096581272&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "exploiting-discourse-structure-of-traditional-digital-2021"
+ },
+ {
+  "title": "GPLSI-UH LETO V1. 0: Motor de aprendizaje a través de ontoloǵıas",
+  "authors": [
+   "Suilan Estévez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Andres Montoyo",
+   "Rafael Muñoz",
+   "Yudivian Almeida-Cruz",
+   "Manuel Palomar",
+   "Daniel Alejandro Valdés Pérez",
+   "others"
+  ],
+  "year": 2021,
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "daniel-valdes",
+   "manuel-palomar",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "gplsi-uh-leto-v-motor-de-2021"
+ },
+ {
+  "title": "General-purpose hierarchical optimisation of machine learning pipelines with grammatical evolution",
+  "authors": [
+   "Suilan Estevez-Velarde",
+   "Yoan Gutiérrez",
+   "Yudivián Almeida-Cruz",
+   "Andrés Montoyo"
+  ],
+  "year": 2021,
+  "venue": "Information Sciences",
+  "type": "journal",
+  "doi": "10.1016/j.ins.2020.07.035",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85088819499&partnerID=MN8TOARS",
+  "members": [
+   "andres-montoyo",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "general-purpose-hierarchical-optimisation-of-machine-2021"
+ },
+ {
+  "title": "Hacia la democratización del aprendizaje de máquinas",
+  "authors": [
+   "Ernesto Luis Estevanell-Valladares",
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Yudivian Almeida-Cruz"
+  ],
+  "year": 2021,
+  "venue": "Revista Cubana de Transformación Digital",
+  "type": "journal",
+  "url": "https://rctd.uic.cu/rctd/article/view/107",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021"
+ },
+ {
+  "title": "Hacia la democratización del aprendizaje de máquinas usando AutoGOAL",
+  "authors": [
+   "Ernesto L Estevanell-Valladares",
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Yudivian Almeida-Cruz",
+   "others"
+  ],
+  "year": 2021,
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021-2"
+ },
+ {
+  "title": "Hacia la democratización del aprendizaje de máquinas usando AutoGOAL Towards the Democratization of Machine Learning using AutoGOAL",
+  "authors": [
+   "Ernesto L. Estevanell-Valladares",
+   "Suilan Estévez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Andres Montoyo",
+   "Yudivian Almeida-Cruz"
+  ],
+  "year": 2021,
+  "type": "journal",
+  "url": "http://hdl.handle.net/10045/115627",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021-3"
+ },
+ {
+  "title": "Metodoloǵıa para el análisis y evaluación de daños en escenas aéreas",
+  "authors": [
+   "Luis Alberto D́ıaz Borge",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "venue": "Serie Cient́ıfica de la Universidad de las Ciencias Informáticas",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "metodologa-para-el-analisis-y-evaluacion-2021"
+ },
+ {
+  "title": "Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021,Resumen de la Tarea de Descubrimiento de Conocimiento en Salud en IberLEF 2021",
+  "authors": [
+   "A. Piad-Morffis",
+   "S. Estevez-Velarde",
+   "Y. Gutierrez",
+   "Y. Almeida-Cruz",
+   "A. Montoyo",
+   "R. Muñoz"
+  ],
+  "year": 2021,
+  "venue": "Procesamiento del Lenguaje Natural",
+  "type": "journal",
+  "doi": "10.26342/2021-67-20",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85115313690&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "overview-of-the-ehealth-knowledge-discovery-2021"
+ },
+ {
+  "title": "Quantification of Biases and Equity in Machine Learning Algorithms and Data Corpus",
+  "authors": [
+   "Juan Pablo Consuegra Ayala",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "venue": "International Workshop on Operations Research, La Habana, Cuba (Online)",
+  "type": "talk",
+  "members": [
+   "juan-pablo-consuegra",
+   "yudivian-almeida"
+  ],
+  "id": "quantification-of-biases-and-equity-in-2021"
+ },
+ {
+  "title": "Reducción del Desbalance de Clases con Aprendizaje Asistido para la Extracción de Relaciones",
+  "authors": [
+   "Dayany Alfaro González"
+  ],
+  "year": 2021,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "reduccion-del-desbalance-de-clases-con-2021"
+ },
+ {
+  "title": "A computational ecosystem to support eHealth Knowledge Discovery technologies in Spanish",
+  "authors": [
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Yudivian Almeida-Cruz",
+   "Rafael Muñoz"
+  ],
+  "year": 2020,
+  "venue": "Journal of Biomedical Informatics",
+  "type": "journal",
+  "doi": "10.1016/j.jbi.2020.103517",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85088664176&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "a-computational-ecosystem-to-support-ehealth-2020"
+ },
+ {
+  "title": "Analyzing the Interaction of Users with News Articles to Create Personalization Services",
+  "authors": [
+   "Alessandro Celi",
+   "Alejandro Piad",
+   "Jósval Díaz Blanco",
+   "Romina Eramo"
+  ],
+  "year": 2020,
+  "venue": "Communications in Computer and Information Science",
+  "type": "conference",
+  "doi": "10.1007/978-3-030-52485-2_15",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85088744543&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "analyzing-the-interaction-of-users-with-2020"
+ },
+ {
+  "title": "Análisis de Ventanas de Tiempo en Sistemas de Detección de Tendencias",
+  "authors": [
+   "Roćıo Cruz-Linares",
+   "Alejandro Piad-Morffis",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2020,
+  "venue": "Revista Cubana de Transformación Digital",
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "yudivian-almeida"
+  ],
+  "id": "analisis-de-ventanas-de-tiempo-en-2020"
+ },
+ {
+  "title": "Análisis de segregación residencial como dinámica socio-espacial en grandes ciudades: caso de estudio Paŕıs",
+  "authors": [
+   "Dafne Garćıa de Armas",
+   "Madalina Olteanu",
+   "Sira Allende Alonso",
+   "Yudivian Almeida Cruz"
+  ],
+  "year": 2020,
+  "venue": "Revista Cubana de Transformación Digital",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "analisis-de-segregacion-residencial-como-dinamica-2020"
+ },
+ {
+  "title": "AutoGOAL: Automatic Discovery of Heterogeneous Machine Learning Pipelines with Probabilistic Grammars",
+  "authors": [
+   "Suilan Estévez-Velarde",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2020,
+  "venue": "International Congress on Computational Linguistics, COLING",
+  "type": "conference",
+  "members": [
+   "andres-montoyo",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "autogoal-automatic-discovery-of-heterogeneous-machine-2020"
+ },
+ {
+  "title": "AutoML strategy based on grammatical evolution: A case study about knowledge discovery from text",
+  "authors": [
+   "S. Estevez-Velarde",
+   "Y. Gutiérrez",
+   "A. Montoyo",
+   "Y. Almeida-Cruz"
+  ],
+  "year": 2020,
+  "venue": "ACL 2019 - 57th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference",
+  "type": "conference",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85071158223&partnerID=MN8TOARS",
+  "members": [
+   "andres-montoyo",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "automl-strategy-based-on-grammatical-evolution-2020"
+ },
+ {
+  "title": "Automatic discovery of heterogeneous machine learning pipelines: An application to natural language processing",
+  "authors": [
+   "Suilan Estevez-Velarde",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2020,
+  "venue": "Proceedings of the 28th International Conference on Computational Linguistics",
+  "type": "conference",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85134894439&partnerID=MN8TOARS",
+  "members": [
+   "andres-montoyo",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "automatic-discovery-of-heterogeneous-machine-learning-2020"
+ },
+ {
+  "title": "Covid19-Dashboard Cuba",
+  "authors": [
+   "MATCOM"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "covid-dashboard-cuba-2020"
+ },
+ {
+  "title": "Covid19CubaData",
+  "authors": [
+   "Y Almeida Cruz",
+   "S Reyes Carmona",
+   "EA Guerra Valdés"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "covid-cubadata-2020"
+ },
+ {
+  "title": "Demo Application for the AutoGOAL Framework",
+  "authors": [
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Rafael Munoz",
+   "Yudivián Almeida-Cruz",
+   "others"
+  ],
+  "year": 2020,
+  "venue": "Proceedings of the 28th International Conference on Computational Linguistics: System Demonstrations",
+  "type": "conference",
+  "doi": "10.18653/v1/2020.coling-demos.4",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85149658531&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "demo-application-for-the-autogoal-framework-2020"
+ },
+ {
+  "title": "Equidad y respuesta del Sistema Nacional de Salud de Cuba ante la COVID-19",
+  "authors": [
+   "Pedro Mas Bermejo",
+   "Lizet Sánchez Valdés",
+   "Lorenzo Somarriba López",
+   "Nelly Cristina Valdivia Onega",
+   "María Josefina Vidal Ledo",
+   "Ileana Alfonso Sánchez",
+   "Armando Seuc Jo",
+   "Yudivian Almeida Cruz",
+   "Roberto Morales Ojeda"
+  ],
+  "year": 2020,
+  "venue": "Revista Panamericana de Salud Pública",
+  "type": "journal",
+  "doi": "10.26633/rpsp.2020.138",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85098619673&partnerID=MN8TOARS",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "equidad-y-respuesta-del-sistema-nacional-2020"
+ },
+ {
+  "title": "Generación adversarial de texto estructurado condicionado por una imagen",
+  "authors": [
+   "Alain Cartaya Salabarría"
+  ],
+  "year": 2020,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "generacion-adversarial-de-texto-estructurado-condicionado-2020"
+ },
+ {
+  "title": "Generación de noticias a partir de datos estructurados en el dominio del béisbol",
+  "authors": [
+   "Roberto Balboa González"
+  ],
+  "year": 2020,
+  "type": "thesis",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "generacion-de-noticias-a-partir-de-2020"
+ },
+ {
+  "title": "How Mathematical Approaches Could Help Decision-Making to Epidemic Control? The Successful Experience against COVID-19 in Cuba",
+  "authors": [
+   "Lizet Sanchez",
+   "Patricia Lorenzo-Luaces",
+   "Carlos Sebrango",
+   "Antonio Torres",
+   "Claudia Fonte",
+   "Marelis Crespo",
+   "Jose E. Valdes",
+   "Waldemar Baldoquin",
+   "Paula Fonte",
+   "Yudivián Almeida-Cruz",
+   "Suilan Estévez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Wilfredo Morales",
+   "Nancy Pérez",
+   "Rafael Araujo",
+   "Maria del Carmen Pria",
+   "Ariadna Corral",
+   "Vivian Noriega",
+   "Maria Vidal",
+   "Agustin Lage",
+   "Raul Guinovart",
+   "Pedro Mas"
+  ],
+  "year": 2020,
+  "venue": "SSRN",
+  "type": "other",
+  "doi": "10.2139/ssrn.3629271",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85110040813&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "how-mathematical-approaches-could-help-decision-2020"
+ },
+ {
+  "title": "Knowledge discovery in COVID-19 research literature",
+  "authors": [
+   "",
+   "Ernesto L. Estevanell-Valladares",
+   "Alejandro Piad-Morffis",
+   "",
+   "Suilan Estevez-Velarde",
+   "",
+   "Yoan Gutierrez",
+   "",
+   "Andres Montoyo",
+   "",
+   "Rafael Muñoz",
+   "",
+   "Yudivián Almeida-Cruz",
+   ""
+  ],
+  "year": 2020,
+  "venue": "Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020",
+  "type": "conference",
+  "doi": "10.26615/978-954-452-072-4_046",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85123595664&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "ernesto-estevanell",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "knowledge-discovery-in-covid-research-literature-2020"
+ },
+ {
+  "title": "Propuesta Basada en Aprendizaje Profundo para la Representación Latente del Estilo de Textos",
+  "authors": [
+   "Jorge Ignacio Rodríguez de la Vega Castro"
+  ],
+  "year": 2020,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "propuesta-basada-en-aprendizaje-profundo-para-2020"
+ },
+ {
+  "title": "Propuesta de Sistema de Generación de Lenguaje Natural con Control Sobre Características Estilísticas",
+  "authors": [
+   "Isabella Hernández García"
+  ],
+  "year": 2020,
+  "venue": "Universidad de La Habana",
+  "type": "thesis",
+  "supervisors": [
+   "alejandro-piad"
+  ],
+  "level": "diploma",
+  "members": [],
+  "id": "propuesta-de-sistema-de-generacion-de-2020"
+ },
+ {
+  "title": "Solving heterogeneous automl problems with AutoGOAL",
+  "authors": [
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Rafael Munoz",
+   "Yudivian Almeida-Cruz"
+  ],
+  "year": 2020,
+  "venue": "ICML Workshop on Automated Machine Learning (AutoML@ ICML)",
+  "type": "conference",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "solving-heterogeneous-automl-problems-with-autogoal-2020"
+ },
+ {
+  "title": "UH-MAJA-KD at eHealth-KD Challenge 2020: Deep Learning Models for Knowledge Discovery in Spanish eHealth Documents",
+  "authors": [
+   "Alejandro Rodríguez-Pérez",
+   "Ernesto Quevedo-Caballero",
+   "Jorge Mederos-Alvarado",
+   "Rocío Cruz-Linares",
+   "Juan Pablo Consuegra-Ayala"
+  ],
+  "year": 2020,
+  "venue": "IberLEF 2020",
+  "type": "conference",
+  "url": "http://ceur-ws.org/Vol-2664/eHealth-KD_paper5.pdf",
+  "members": [
+   "juan-pablo-consuegra"
+  ],
+  "id": "uh-maja-kd-at-ehealth-kd-2020"
+ },
+ {
+  "title": "UH-MatCom at eHealth-KD Challenge 2020: Deep-Learning and Ensemble Models for Knowledge Discovery in Spanish Documents",
+  "authors": [
+   "Juan Pablo Consuegra-Ayala",
+   "Manuel Palomar"
+  ],
+  "year": 2020,
+  "venue": "IberLEF 2020",
+  "type": "conference",
+  "url": "http://ceur-ws.org/Vol-2664/eHealth-KD_paper4.pdf",
+  "members": [
+   "juan-pablo-consuegra",
+   "manuel-palomar"
+  ],
+  "id": "uh-matcom-at-ehealth-kd-challenge-2020"
+ },
+ {
+  "title": "A Neural Network Component for Knowledge-Based Semantic Representations of Text",
+  "authors": [
+   "",
+   "Alejandro Piad-Morffis",
+   "Rafael Muñoz",
+   "",
+   "Yudivián Almeida-Cruz",
+   "",
+   "Yoan Gutiérrez",
+   "",
+   "Suilan Estevez-Velarde",
+   "",
+   "Andrés Montoyo",
+   ""
+  ],
+  "year": 2019,
+  "venue": "Proceedings - Natural Language Processing in a Deep Learning World",
+  "type": "conference",
+  "doi": "10.26615/978-954-452-056-4_105",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85076456065&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "a-neural-network-component-for-knowledge-2019"
+ },
+ {
+  "title": "A corpus to support eHealth Knowledge Discovery technologies",
+  "authors": [
+   "Alejandro Piad-Morffis",
+   "Yoan Gutiérrez",
+   "Rafael Muñoz"
+  ],
+  "year": 2019,
+  "venue": "Journal of Biomedical Informatics",
+  "type": "journal",
+  "doi": "10.1016/j.jbi.2019.103172",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85064587610&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "rafael-munoz",
+   "yoan-gutierrez"
+  ],
+  "id": "a-corpus-to-support-ehealth-knowledge-2019"
+ },
+ {
+  "title": "A general-purpose annotation model for knowledge discovery: Case study in spanish clinical text",
+  "authors": [
+   "Alejandro Piad-Morffis",
+   "Yoan Guitérrez",
+   "Suilan Estevez-Velarde",
+   "Rafael Munoz"
+  ],
+  "year": 2019,
+  "venue": "Proceedings of the 2nd clinical natural language processing workshop",
+  "type": "conference",
+  "members": [
+   "alejandro-piad",
+   "rafael-munoz",
+   "suilan-estevez"
+  ],
+  "id": "a-general-purpose-annotation-model-for-2019"
+ },
+ {
+  "title": "An autonomous robot for continuous tracking of millimetric-sized walkers",
+  "authors": [
+   "A. Serrano-Muñoz",
+   "S. Frayle-Pérez",
+   "A. Reyes",
+   "Y. Almeida",
+   "E. Altshuler",
+   "G. Viera-López"
+  ],
+  "year": 2019,
+  "venue": "Review of Scientific Instruments",
+  "type": "journal",
+  "doi": "10.1063/1.5049377",
+  "url": "https://doi.org/10.1063/1.5049377",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "an-autonomous-robot-for-continuous-tracking-2019"
+ },
+ {
+  "title": "Analysis of eHealth knowledge discovery systems in the TASS 2018 Workshop",
+  "authors": [
+   "A. Piad-Morffis",
+   "Y. Gutiérrez",
+   "S. Estévez-Velarde",
+   "Y. Almeida-Cruz",
+   "A. Montoyo",
+   "R. Muñoz"
+  ],
+  "year": 2019,
+  "venue": "Procesamiento de Lenguaje Natural",
+  "type": "journal",
+  "doi": "10.26342/2019-62-1",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85064496839&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "analysis-of-ehealth-knowledge-discovery-systems-2019"
+ },
+ {
+  "title": "Demo Application for LETO: Learning Engine Through Ontologies",
+  "authors": [
+   "",
+   "Suilan Estevez-Velarde",
+   "Andrés Montoyo",
+   "",
+   "Yudivián Almeida-Cruz",
+   "",
+   "Yoan Gutiérrez",
+   "",
+   "Alejandro Piad-Morffis",
+   "",
+   "Rafael Muñoz",
+   ""
+  ],
+  "year": 2019,
+  "venue": "Proceedings - Natural Language Processing in a Deep Learning World",
+  "type": "conference",
+  "doi": "10.26615/978-954-452-056-4_032",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85076492697&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "demo-application-for-leto-learning-engine-2019"
+ },
+ {
+  "title": "Optimizing Natural Language Processing Pipelines: Opinion Mining Case Study",
+  "authors": [
+   "Suilan Estevez-Velarde",
+   "Yoan Gutiérrez",
+   "Andrés Montoyo",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2019,
+  "venue": "Lecture Notes in Computer Science",
+  "type": "book",
+  "doi": "10.1007/978-3-030-33904-3_15",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85075699492&partnerID=MN8TOARS",
+  "members": [
+   "andres-montoyo",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "optimizing-natural-language-processing-pipelines-opinion-2019"
+ },
+ {
+  "title": "Overlapping Community Detection on a Graph of Chemicals, Diseases and Genes for Drug Repositioning and Adverse Reactions Prediction",
+  "authors": [
+   "Yudivián Almeida-Cruz, Suilán Estévez-Velarde, Aimée Alonso-Reina, Maŕıa Elena Ochagav́ıa-Roque Maŕıa Elena Garćıa-Ochagav́ıa"
+  ],
+  "year": 2019,
+  "venue": "GECONTEC: Revista Internacional De Gestión Del Conocimiento Y La Tecnoloǵıa",
+  "type": "journal",
+  "members": [
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "overlapping-community-detection-on-a-graph-2019"
+ },
+ {
+  "title": "Overview of the eHealth knowledge discovery challenge at IberLEF 2019",
+  "authors": [
+   "A. Piad-Morffis",
+   "Y. Gutiérrez",
+   "J.P. Consuegra-Ayala",
+   "S. Estevez-Velarde",
+   "Y. Almeida-Cruz",
+   "R. Muñoz",
+   "A. Montoyo"
+  ],
+  "year": 2019,
+  "venue": "CEUR Workshop Proceedings",
+  "type": "conference",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85071163937&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "juan-pablo-consuegra",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "overview-of-the-ehealth-knowledge-discovery-2019"
+ },
+ {
+  "title": "TASS 2018: The strength of deep learning in language understanding tasks",
+  "authors": [
+   "M.C. Díaz-Galiano",
+   "M.Á. García-Cumbreras",
+   "M. García-Vega",
+   "Y. Gutiérrez",
+   "E. Martínez-Cámara",
+   "A. Piad-Morffis",
+   "J. Villena-Román"
+  ],
+  "year": 2019,
+  "venue": "Procesamiento de Lenguaje Natural",
+  "type": "journal",
+  "doi": "10.26342/2019-62-9",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85064548083&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "yoan-gutierrez"
+  ],
+  "id": "tass-the-strength-of-deep-learning-2019"
+ },
+ {
+  "title": "Gathering object interactions as semantic knowledge",
+  "authors": [
+   "S. Estevez-Velarde",
+   "Y. Gutierrez",
+   "A. Montoyo",
+   "A. Piad-Morffis",
+   "R. Munoz",
+   "Y. Almeida-Cruz"
+  ],
+  "year": 2018,
+  "venue": "2018 World Congress in Computer Science, Computer Engineering and Applied Computing, CSCE 2018 - Proceedings of the 2018 International Conference on Artificial Intelligence, ICAI 2018",
+  "type": "conference",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85053755489&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "gathering-object-interactions-as-semantic-knowledge-2018"
+ },
+ {
+  "title": "Overview of TASS 2018: Opinions, health and emotions",
+  "authors": [
+   "E. Martínez-Cámara",
+   "Y. Almeida-Cruz",
+   "M.C. Díaz-Galiano",
+   "S. Estévez-Velarde",
+   "M.Á. García-Cumbreras",
+   "M. García-Vega",
+   "Y. Gutiérrez",
+   "A. Montejo-Ráez",
+   "A. Montoyo",
+   "R. Muñoz",
+   "A. Piad-Morffis",
+   "J. Villena-Román"
+  ],
+  "year": 2018,
+  "venue": "CEUR Workshop Proceedings",
+  "type": "conference",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85053790389&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "andres-montoyo",
+   "rafael-munoz",
+   "suilan-estevez",
+   "yoan-gutierrez",
+   "yudivian-almeida"
+  ],
+  "id": "overview-of-tass-opinions-health-and-2018"
+ },
+ {
+  "title": "Propuesta de un bot en el dominio del periodismo",
+  "authors": [
+   "Daniela Maŕıa Llivina Moreno"
+  ],
+  "year": 2018,
+  "type": "thesis",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "propuesta-de-un-bot-en-el-2018"
+ },
+ {
+  "title": "Generación procedural de ciudades: un enfoque jerárquico",
+  "authors": [
+   "Juan Pablo Consuegra Ayala",
+   "Alejandro Piad Morffis",
+   "Suilan Estévez Velarde",
+   "Ludwig Leonard Méndez",
+   "Miguel Katrib Mora"
+  ],
+  "year": 2017,
+  "venue": "Libro de Actas del V Congreso Internacional de Videojuegos y Educación. CIVE'17 (5º. 2017. Tenerife)",
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "juan-pablo-consuegra",
+   "suilan-estevez"
+  ],
+  "id": "generacion-procedural-de-ciudades-un-enfoque-2017"
+ },
+ {
+  "title": "Metodoloǵıa para el reconocimiento de entidades nombradas en mensajes cortos",
+  "authors": [
+   "Laila González Fernández"
+  ],
+  "year": 2017,
+  "type": "thesis",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "metodologa-para-el-reconocimiento-de-entidades-2017"
+ },
+ {
+  "title": "A-PIT: Estructura de Subdivisión Espacial Aceleración de Raytracing en GPU",
+  "authors": [
+   "Jean Le’Clerc Arrastia",
+   "Alejandro Piad Morffis",
+   "Ludwig Leonard Méndez"
+  ],
+  "year": 2016,
+  "venue": "Revista Cubana de Ciencias Informáticas",
+  "type": "journal",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "a-pit-estructura-de-subdivision-espacial-2016"
+ },
+ {
+  "title": "Intersección de Rayos en GPU: Un Enfoque en Espacio de Vista",
+  "authors": [
+   "Alejandro Piad Morffis"
+  ],
+  "year": 2016,
+  "type": "thesis",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "interseccion-de-rayos-en-gpu-un-2016"
+ },
+ {
+  "title": "Evaluación de algoritmos de clasificación supervisada para el minado de opinión en Twitter",
+  "authors": [
+   "S. Estévez-Velarde",
+   "Y. Almeida Cruz"
+  ],
+  "year": 2015,
+  "venue": "Investigacion Operacional",
+  "type": "journal",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84937792551&partnerID=MN8TOARS",
+  "members": [
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "evaluacion-de-algoritmos-de-clasificacion-supervisada-2015"
+ },
+ {
+  "title": "Evolution strategies with thresheld convergence",
+  "authors": [
+   "Alejandro Piad-Morffis",
+   "Suilan Estevez-Velarde",
+   "Antonio Bolufe-Rohler",
+   "James Montgomery",
+   "Stephen Chen"
+  ],
+  "year": 2015,
+  "venue": "2015 IEEE Congress on Evolutionary Computation (CEC)",
+  "type": "conference",
+  "doi": "10.1109/cec.2015.7257143",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84963600733&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez"
+  ],
+  "id": "evolution-strategies-with-thresheld-convergence-2015"
+ },
+ {
+  "title": "LAS TECNOLOGÍAS DE LA INFORMACIÓN EN EL SIGLO XXI EXPECTATIVAS PARA CUBA",
+  "authors": [
+   "Luis A Montero Cabrera",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2015,
+  "venue": "Revista Bimestre Cubana",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "las-tecnologias-de-la-informacion-en-2015"
+ },
+ {
+  "title": "Mineŕıa de Opinión en Twitter: una aproximación desde el aprendizaje supervisado",
+  "authors": [
+   "Suilan Estévez-Velarde",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2015,
+  "venue": "Facultad de Matemática y Computación, Universidad de La Habana",
+  "type": "journal",
+  "members": [
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "minera-de-opinion-en-twitter-una-2015"
+ },
+ {
+  "title": "Comprar una casa en La Habana",
+  "authors": [
+   "Yudivián Almeida",
+   "Elizabeeth Pérez"
+  ],
+  "year": 2014,
+  "venue": "https://oncubamagazine.com/economia-negocios/comprar-una-casa-en-la-habana-algunos-apuntes/",
+  "type": "other",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "comprar-una-casa-en-la-habana-2014"
+ },
+ {
+  "title": "Detección de Idioma en Twitter (Language Detection on Twitter)",
+  "authors": [
+   "Yudivián Almeida-Cruz",
+   "Suilan Estévez-Velarde",
+   "Alejandro Piad-Morffis"
+  ],
+  "year": 2014,
+  "venue": "GECONTEC: Revista Internacional de Gestión del Conocimiento y la Tecnoloǵıa",
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "deteccion-de-idioma-en-twitter-language-2014"
+ },
+ {
+  "title": "Mercado inmobiliario en Cuba: algunos indicios y consideraciones",
+  "authors": [
+   "Yudivián Almeida",
+   "Elizabeth Pérez"
+  ],
+  "year": 2014,
+  "venue": "https://oncubamagazine.com/economia-negocios/mercado-inmobiliario-en-cuba-algunos-indicios-y-consideraciones/",
+  "type": "other",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "mercado-inmobiliario-en-cuba-algunos-indicios-2014"
+ },
+ {
+  "title": "Differential evolution with thresheld convergence",
+  "authors": [
+   "Antonio Bolufe-Rohler",
+   "Suilan Estevez-Velarde",
+   "Alejandro Piad-Morffis",
+   "Stephen Chen",
+   "James Montgomery"
+  ],
+  "year": 2013,
+  "venue": "2013 IEEE Congress on Evolutionary Computation",
+  "type": "conference",
+  "doi": "10.1109/cec.2013.6557551",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84881566343&partnerID=MN8TOARS",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez"
+  ],
+  "id": "differential-evolution-with-thresheld-convergence-2013"
+ },
+ {
+  "title": "E-Buffer: Una Representación en Espacio de Vista para Aplicaciones de Iluminación Global en Tiempo Real",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Ludwig Leonard Méndez"
+  ],
+  "year": 2013,
+  "type": "thesis",
+  "members": [
+   "alejandro-piad"
+  ],
+  "id": "e-buffer-una-representacion-en-espacio-2013"
+ },
+ {
+  "title": "Certezas e incertidumbres. Igualdad de género en la blogosfera cubana.",
+  "authors": [
+   "Yudivián Almeida Cruz",
+   "Elaine D́ıaz Rodŕıguez"
+  ],
+  "year": 2012,
+  "venue": "Revista número",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "certezas-e-incertidumbres-igualdad-de-genero-2012"
+ },
+ {
+  "title": "Modelo para la difusión proactiva de información en sistemas distribuidos basado en enfoques epidémicos: Aplicación a los sistemas de gestión de red",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2011,
+  "type": "thesis",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "modelo-para-la-difusion-proactiva-de-2011"
+ },
+ {
+  "title": "Propuesta de un modelo para el intercambio automático de información en redes P2P",
+  "authors": [
+   "Zilia Lavastida López",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2009,
+  "venue": "Desarrollo de grandes aplicaciones de red: Actas",
+  "type": "conference",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "propuesta-de-un-modelo-para-el-2009"
+ },
+ {
+  "title": "Propuesta de una metodoloǵıa para simular el comportamiento de una información en redes sociales.",
+  "authors": [
+   "Oscar S González Mota"
+  ],
+  "year": 2009,
+  "type": "thesis",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "propuesta-de-una-metodologa-para-simular-2009"
+ },
+ {
+  "title": "Una metodoloǵıa para la detección de anomaĺıas en una red a partir de las trazas de ejecución de los servicios",
+  "authors": [
+   "Idis González-Castaño",
+   "Marisel Bueno-Rojas",
+   "Alfredo Somoza-Moreno",
+   "Yudivián Almeida-Cruz"
+  ],
+  "year": 2009,
+  "venue": "Desarrollo de grandes aplicaciones de red: Actas",
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "una-metodologa-para-la-deteccion-de-2009"
+ },
+ {
+  "title": "Plataforma para el establecimiento y desarrollo de conferencias multimedia.",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2004,
+  "venue": "Congreso Internacional de Telemática",
+  "type": "conference",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "plataforma-para-el-establecimiento-y-desarrollo-2004"
+ },
+ {
+  "title": "Covid19 Cuba Data; 2020 [acceso: 1/09/2020]",
+  "authors": [
+   "Y Almeida Cruz",
+   "S Reyes Carmona",
+   "EA Guerra Valdés",
+   "I Alonso Porro",
+   "C Alemañy Castilla",
+   "D Steyners Patiño",
+   "others"
+  ],
+  "type": "other",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "id": "covid-cuba-data-acceso-None"
+ },
+ {
+  "title": "Language Detection on Twitter",
+  "authors": [
+   "Yudivián Almeida-Cruz",
+   "Suilan Estévez-Velarde",
+   "Alejandro Piad-Morffis"
+  ],
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "language-detection-on-twitter-None"
+ },
+ {
+  "title": "RECONOCIMIENTO DE ENTIDADES NOMBRADAS EN TWITTER COMO PRUEBA DE LAS VULNERABILIDADES DE PRIVACIDAD EN REDES SOCIALES NAMED ENTITY RECOGNITION IN TWEETS AS PROOF OF SOCIAL MEDIA PRIVACY VULNERABILITY",
+  "authors": [
+   "Laila González Fernández",
+   "Yudivián Almeida Bosque",
+   "Suilán Estévez Velarde"
+  ],
+  "type": "journal",
+  "members": [
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "id": "reconocimiento-de-entidades-nombradas-en-twitter-None"
+ }
+]

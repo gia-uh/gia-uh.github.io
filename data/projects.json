@@ -1,0 +1,156 @@
+[
+ {
+  "id": "cecilia",
+  "name": "Cecilia",
+  "featured": true,
+  "tagline": {
+   "es": "El modelo de lenguaje cubano",
+   "en": "The Cuban language model"
+  },
+  "description": {
+   "es": "Una familia de modelos de lenguaje preentrenados sobre texto cubano: prensa, literatura, leyes, EcuRed y letras de canciones, cerca de mil millones de tokens. Cecilia 2B parte de Salamandra 2B y se publicó en LNCS en 2026. Se hace junto con la Universidad de Alicante.",
+   "en": "A family of language models pretrained on Cuban text: press, literature, law, EcuRed and song lyrics, about a billion tokens. Cecilia 2B builds on Salamandra 2B and was published in LNCS in 2026. Built with the University of Alicante."
+  },
+  "url": "https://cecilia.uhgia.org",
+  "repo": "gia-uh/cecilia"
+ },
+ {
+  "id": "gensie",
+  "name": "GenSIE",
+  "featured": true,
+  "tagline": {
+   "es": "Extracción de información guiada por esquemas en IberLEF 2026",
+   "en": "Schema-guided information extraction at IberLEF 2026"
+  },
+  "description": {
+   "es": "La tarea compartida que organizamos en IberLEF 2026: un modelo pequeño, en CPU, recibe un texto en español y un esquema JSON y tiene que devolver un objeto fiel al texto. Once equipos enviaron treinta y cinco sistemas.",
+   "en": "The shared task we organised at IberLEF 2026: a small model on a CPU gets a Spanish text and a JSON schema and must return an object faithful to the text. Eleven teams sent thirty-five systems."
+  },
+  "url": "/projects/gensie/",
+  "repo": "gia-uh/gensie"
+ },
+ {
+  "id": "autogoal",
+  "name": "AutoGOAL",
+  "featured": true,
+  "tagline": {
+   "es": "Síntesis de programas y AutoML",
+   "en": "Program synthesis and AutoML"
+  },
+  "description": {
+   "es": "Un framework de Python que busca automáticamente flujos de aprendizaje automático completos, descritos con gramáticas probabilísticas y optimizados por evolución gramatical.",
+   "en": "A Python framework that automatically searches for complete machine learning pipelines, described with probabilistic grammars and optimised by grammatical evolution."
+  },
+  "url": "https://autogoal.uhgia.org",
+  "repo": "gia-uh/autogoal"
+ },
+ {
+  "id": "lovelaice",
+  "name": "lovelaice",
+  "featured": true,
+  "tagline": {
+   "es": "Un agente de programación local para la terminal",
+   "en": "A local-first coding agent for the terminal"
+  },
+  "description": {
+   "es": "Un agente de programación soberano y local primero: un bucle ReAct con herramientas nativas para leer, editar y ejecutar. Se usa desde la terminal, como servidor ACP desde un editor o como biblioteca.",
+   "en": "A sovereign, local-first coding agent: a ReAct loop with native tools to read, edit and run. Use it from the terminal, as an ACP server from an editor, or as a library."
+  },
+  "repo": "gia-uh/lovelaice"
+ },
+ {
+  "id": "leto",
+  "name": "LETO",
+  "tagline": {
+   "es": "Descubrimiento de conocimiento con modelos de lenguaje",
+   "en": "Knowledge discovery with language models"
+  },
+  "description": {
+   "es": "Una plataforma para extraer conocimiento de colecciones de documentos y analizarlo conversando con él.",
+   "en": "A platform for extracting knowledge from document collections and analysing it by talking to it."
+  },
+  "repo": "gia-uh/leto"
+ },
+ {
+  "id": "argo",
+  "name": "ARGO",
+  "tagline": {
+   "es": "Flujos agénticos con modelos de lenguaje",
+   "en": "Agentic workflows with language models"
+  },
+  "description": {
+   "es": "Una biblioteca para construir agentes que razonan, se gobiernan y se orquestan sobre modelos de lenguaje.",
+   "en": "A library for building agents that reason, govern and orchestrate themselves on top of language models."
+  },
+  "url": "https://uhgia.org/argo/",
+  "repo": "gia-uh/argo"
+ },
+ {
+  "id": "lingo",
+  "name": "lingo",
+  "tagline": {
+   "es": "Ingeniería de contexto en Python",
+   "en": "Context engineering in Python"
+  },
+  "description": {
+   "es": "Una biblioteca de Python para construir el contexto que recibe un modelo de lenguaje, pieza a pieza.",
+   "en": "A Python library for building, piece by piece, the context a language model receives."
+  },
+  "url": "https://uhgia.org/lingo/",
+  "repo": "gia-uh/lingo"
+ },
+ {
+  "id": "scribe",
+  "name": "scribe",
+  "tagline": {
+   "es": "De PDF, Word, PowerPoint y Excel a Markdown, sin LLM",
+   "en": "PDF, Word, PowerPoint and Excel to Markdown, no LLM"
+  },
+  "description": {
+   "es": "Un conversor de documentos a Markdown con licencia MIT que no usa modelos de lenguaje.",
+   "en": "An MIT-licensed document-to-Markdown converter that uses no language model."
+  },
+  "repo": "gia-uh/scribe"
+ },
+ {
+  "id": "casus",
+  "name": "casus",
+  "tagline": {
+   "es": "Juegos de guerra multiagente con un árbitro determinista",
+   "en": "Multi-agent wargames with a deterministic resolver"
+  },
+  "description": {
+   "es": "Los modelos deciden y funciones puras calculan el resultado, así cada partida se puede reproducir.",
+   "en": "The models decide and pure functions compute the outcome, so every game can be replayed."
+  },
+  "repo": "gia-uh/casus"
+ },
+ {
+  "id": "pathos",
+  "name": "pathos",
+  "tagline": {
+   "es": "Algoritmos clásicos de búsqueda",
+   "en": "Classical AI search algorithms"
+  },
+  "description": {
+   "es": "Una biblioteca de Python con los algoritmos clásicos de búsqueda de la IA, lista para producción.",
+   "en": "A production-ready Python library of the classical AI search algorithms."
+  },
+  "url": "https://uhgia.org/pathos/",
+  "repo": "gia-uh/pathos"
+ },
+ {
+  "id": "logos",
+  "name": "logos",
+  "tagline": {
+   "es": "Un núcleo de demostración al estilo Lean para Python",
+   "en": "A Lean-style proof kernel for Python"
+  },
+  "description": {
+   "es": "Para demostrar propiedades de tu código Python con un núcleo de demostración pequeño y verificable.",
+   "en": "Prove properties of your Python code with a small, checkable proof kernel."
+  },
+  "url": "https://uhgia.org/logos/",
+  "repo": "gia-uh/logos"
+ }
+]
