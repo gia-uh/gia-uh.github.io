@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grupo de Inteligencia Artificial · Universidad de La Habana</title>
+  <meta name="description" content="Publicaciones y tesis del Grupo de Inteligencia Artificial de la Universidad de La Habana.">
+  <meta name="theme-color" content="#D6D2C8">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/assets/fonts/BigShouldersDisplay.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/Archivo.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script type="module" src="/assets/js/publications.js"></script>
+</head>
+<body data-title="pubs.title">
+  <header id="site-header"></header>
+  <main id="main">
+    <section class="wrap page-head">
+      <h1 data-i18n="pubs.title">Publicaciones</h1>
+      <p class="lede" data-i18n="pubs.lede"></p>
+    </section>
+    <section class="wrap">
+      <div class="tabs" role="tablist">
+        <button type="button" role="tab" id="tab-papers" data-tab="papers" data-i18n="pubs.tab.papers"></button>
+        <button type="button" role="tab" id="tab-theses" data-tab="theses" data-i18n="pubs.tab.theses"></button>
+      </div>
+      <form class="filters" role="search" onsubmit="return false">
+        <label><span data-i18n="pubs.search"></span><input type="search" id="q" data-i18n-attr="placeholder:pubs.search"></label>
+        <label><span data-i18n="pubs.member"></span><select id="member"></select></label>
+        <label id="type-wrap"><span data-i18n="pubs.type"></span><select id="type"></select></label>
+        <button type="button" class="clear" id="clear" data-i18n="pubs.clear"></button>
+      </form>
+      <p class="count" id="count" aria-live="polite"></p>
+      <div id="list"></div>
+    </section>
+  </main>
+  <footer id="site-footer"></footer>
+  <noscript><p>Este sitio necesita JavaScript para mostrar sus listas. El código y los datos están en <a href="https://github.com/gia-uh/gia-uh.github.io">github.com/gia-uh/gia-uh.github.io</a>.</p></noscript>
+</body>
+</html>
