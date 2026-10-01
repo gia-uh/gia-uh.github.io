@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grupo de Inteligencia Artificial · Universidad de La Habana</title>
+  <meta name="description" content="Miembros y colaboradores del Grupo de Inteligencia Artificial de la Universidad de La Habana.">
+  <meta name="theme-color" content="#D6D2C8">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/assets/fonts/BigShouldersDisplay.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/Archivo.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script type="module" src="/assets/js/people.js"></script>
+</head>
+<body data-title="people.title">
+  <header id="site-header"></header>
+  <main id="main">
+    <section class="wrap page-head">
+      <h1 data-i18n="people.title">Personas</h1>
+      <p class="lede" data-i18n="people.lede"></p>
+    </section>
+    <section class="wrap">
+      <div class="graph-wrap">
+        <canvas id="graph" role="img" data-i18n-attr="aria-label:people.lede"></canvas>
+        <div class="graph-tip" hidden></div>
+      </div>
+      <p class="hint" data-i18n="people.graph.hint"></p>
+    </section>
+    <div id="groups"></div>
+  </main>
+  <footer id="site-footer"></footer>
+  <noscript><p>Este sitio necesita JavaScript para mostrar sus listas. El código y los datos están en <a href="https://github.com/gia-uh/gia-uh.github.io">github.com/gia-uh/gia-uh.github.io</a>.</p></noscript>
+</body>
+</html>

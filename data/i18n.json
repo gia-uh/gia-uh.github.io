@@ -1,0 +1,446 @@
+{
+ "site.name": {
+  "es": "Grupo de Inteligencia Artificial",
+  "en": "Artificial Intelligence Group"
+ },
+ "site.short": {
+  "es": "GIA-UH",
+  "en": "GIA-UH"
+ },
+ "site.uh": {
+  "es": "Universidad de La Habana",
+  "en": "University of Havana"
+ },
+ "site.faculty": {
+  "es": "Facultad de Matemática y Computación",
+  "en": "Faculty of Mathematics and Computer Science"
+ },
+ "nav.home": {
+  "es": "Inicio",
+  "en": "Home"
+ },
+ "nav.people": {
+  "es": "Personas",
+  "en": "People"
+ },
+ "nav.publications": {
+  "es": "Publicaciones",
+  "en": "Publications"
+ },
+ "nav.projects": {
+  "es": "Proyectos",
+  "en": "Projects"
+ },
+ "nav.lang": {
+  "es": "English",
+  "en": "Español"
+ },
+ "nav.lang.label": {
+  "es": "Ver en inglés",
+  "en": "View in Spanish"
+ },
+ "nav.skip": {
+  "es": "Saltar al contenido",
+  "en": "Skip to content"
+ },
+ "home.lede": {
+  "es": "Estudiamos cómo las máquinas entienden el lenguaje, aprenden de los datos, buscan soluciones y actúan como agentes. Casi todo lo que hacemos es código abierto, y mucho está hecho para el español de Cuba.",
+  "en": "We study how machines understand language, learn from data, search for solutions and act as agents. Almost everything we make is open source, and much of it is built for Cuban Spanish."
+ },
+ "home.credits.head": {
+  "es": "dirigido por",
+  "en": "led by"
+ },
+ "home.credits.with": {
+  "es": "con",
+  "en": "with"
+ },
+ "home.credits.and": {
+  "es": "y",
+  "en": "and"
+ },
+ "home.credits.rest": {
+  "es": "{phd} doctorandos y {master} estudiantes de maestría",
+  "en": "{phd} PhD students and {master} master's students"
+ },
+ "home.lines": {
+  "es": "Líneas de investigación",
+  "en": "Research lines"
+ },
+ "home.featured": {
+  "es": "Proyectos",
+  "en": "Projects"
+ },
+ "home.latest": {
+  "es": "Publicaciones recientes",
+  "en": "Recent publications"
+ },
+ "home.all.publications": {
+  "es": "Todas las publicaciones",
+  "en": "All publications"
+ },
+ "home.all.projects": {
+  "es": "Todos los proyectos",
+  "en": "All projects"
+ },
+ "line.language": {
+  "es": "Lenguaje natural",
+  "en": "Natural language"
+ },
+ "line.language.text": {
+  "es": "Modelos de lenguaje para el español de Cuba, extracción de información con modelos pequeños y herramientas para convertir documentos en conocimiento.",
+  "en": "Language models for Cuban Spanish, information extraction with small models, and tools that turn documents into knowledge."
+ },
+ "line.learning": {
+  "es": "Aprendizaje automático",
+  "en": "Machine learning"
+ },
+ "line.learning.text": {
+  "es": "AutoML y metaaprendizaje, equidad de los modelos y aprendizaje con pocos datos.",
+  "en": "AutoML and meta-learning, fairness of models, and learning from little data."
+ },
+ "line.search": {
+  "es": "Búsqueda y optimización",
+  "en": "Search and optimisation"
+ },
+ "line.search.text": {
+  "es": "Búsqueda clásica, metaheurísticas y evolución gramatical, y demostración de propiedades de programas.",
+  "en": "Classical search, metaheuristics and grammatical evolution, and proving properties of programs."
+ },
+ "line.agents": {
+  "es": "Agentes",
+  "en": "Agents"
+ },
+ "line.agents.text": {
+  "es": "Agentes sobre modelos de lenguaje que programan, se coordinan y simulan escenarios.",
+  "en": "Agents built on language models that write code, coordinate and simulate scenarios."
+ },
+ "motif.evolution": {
+  "es": "Evolución de losas",
+  "en": "Evolving tiles"
+ },
+ "motif.evolution.how": {
+  "es": "Un algoritmo genético cría pisos de losas. La aptitud premia que las esquinas casen en rosetones y que el piso sea simétrico.",
+  "en": "A genetic algorithm breeds tile floors. Fitness rewards corners that meet in rosettes and floors that are symmetric."
+ },
+ "motif.search": {
+  "es": "A* por el piso",
+  "en": "A* across the floor"
+ },
+ "motif.search.how": {
+  "es": "A* busca un camino entre dos losas esquivando las negras. La frontera va en ocre, lo visitado en rojo y el camino en índigo.",
+  "en": "A* looks for a path between two tiles around the black ones. The frontier is ochre, visited tiles red and the path indigo."
+ },
+ "motif.learning": {
+  "es": "Una red neuronal aprendiendo",
+  "en": "A neural network learning"
+ },
+ "motif.learning.how": {
+  "es": "Un perceptrón multicapa aprende por backpropagation a separar dos clases. Cuando converge, el problema cambia y la misma red se reajusta.",
+  "en": "A multilayer perceptron learns to separate two classes by backpropagation. When it converges the problem changes and the same network refits."
+ },
+ "motif.language": {
+  "es": "Un chat en losas",
+  "en": "A chat in tiles"
+ },
+ "motif.language.how": {
+  "es": "Un modelo de trigramas, entrenado aquí mismo sobre frases de losas, responde token a token. Abajo, las cinco losas más probables.",
+  "en": "A trigram model, trained right here on tile sentences, answers token by token. Below, the five most likely tiles."
+ },
+ "motif.next": {
+  "es": "Mostrar",
+  "en": "Show"
+ },
+ "stat.generation": {
+  "es": "generación",
+  "en": "generation"
+ },
+ "stat.fitness": {
+  "es": "aptitud",
+  "en": "fitness"
+ },
+ "stat.visited": {
+  "es": "losas visitadas",
+  "en": "tiles visited"
+ },
+ "stat.path": {
+  "es": "camino",
+  "en": "path"
+ },
+ "stat.epoch": {
+  "es": "época",
+  "en": "epoch"
+ },
+ "stat.loss": {
+  "es": "pérdida",
+  "en": "loss"
+ },
+ "stat.tokens": {
+  "es": "tokens",
+  "en": "tokens"
+ },
+ "stat.entropy": {
+  "es": "entropía",
+  "en": "entropy"
+ },
+ "shape.spirals": {
+  "es": "espirales",
+  "en": "spirals"
+ },
+ "shape.circles": {
+  "es": "círculos",
+  "en": "circles"
+ },
+ "shape.xor": {
+  "es": "XOR",
+  "en": "XOR"
+ },
+ "shape.moons": {
+  "es": "lunas",
+  "en": "moons"
+ },
+ "shape.checkerboard": {
+  "es": "tablero",
+  "en": "checkerboard"
+ },
+ "shape.blobs": {
+  "es": "manchas",
+  "en": "blobs"
+ },
+ "people.title": {
+  "es": "Personas",
+  "en": "People"
+ },
+ "people.lede": {
+  "es": "El grupo reúne a profesores, doctorandos y estudiantes de maestría de la Facultad de Matemática y Computación. El grafo une a quienes han publicado o tutorado juntos.",
+  "en": "The group brings together professors, PhD students and master's students of the Faculty of Mathematics and Computer Science. The graph joins people who have published or supervised together."
+ },
+ "people.graph.hint": {
+  "es": "Pasa el ratón por una persona para ver con quién trabaja. Haz clic para ver sus publicaciones.",
+  "en": "Hover over a person to see who they work with. Click to see their publications."
+ },
+ "people.graph.papers": {
+  "es": "trabajos",
+  "en": "works"
+ },
+ "cat.senior": {
+  "es": "Investigadores sénior",
+  "en": "Senior researchers"
+ },
+ "cat.researcher": {
+  "es": "Investigadores",
+  "en": "Researchers"
+ },
+ "cat.phd": {
+  "es": "Doctorandos",
+  "en": "PhD students"
+ },
+ "cat.master": {
+  "es": "Estudiantes de maestría",
+  "en": "Master's students"
+ },
+ "cat.collaborator": {
+  "es": "Colaboradores",
+  "en": "Collaborators"
+ },
+ "people.works": {
+  "es": "Publicaciones",
+  "en": "Publications"
+ },
+ "pubs.title": {
+  "es": "Publicaciones",
+  "en": "Publications"
+ },
+ "pubs.lede": {
+  "es": "Artículos, capítulos, charlas y tesis del grupo, tomados de los registros ORCID de sus miembros y de las actas de IberLEF 2026.",
+  "en": "Papers, chapters, talks and theses by the group, taken from its members' ORCID records and the IberLEF 2026 proceedings."
+ },
+ "pubs.tab.papers": {
+  "es": "Publicaciones",
+  "en": "Publications"
+ },
+ "pubs.tab.theses": {
+  "es": "Tesis",
+  "en": "Theses"
+ },
+ "pubs.search": {
+  "es": "Buscar por título, autor o revista",
+  "en": "Search by title, author or venue"
+ },
+ "pubs.member": {
+  "es": "Miembro",
+  "en": "Member"
+ },
+ "pubs.member.all": {
+  "es": "Todo el grupo",
+  "en": "Whole group"
+ },
+ "pubs.type": {
+  "es": "Tipo",
+  "en": "Type"
+ },
+ "pubs.type.all": {
+  "es": "Todos los tipos",
+  "en": "All types"
+ },
+ "pubs.count": {
+  "es": "{n} trabajos",
+  "en": "{n} works"
+ },
+ "pubs.count.one": {
+  "es": "1 trabajo",
+  "en": "1 work"
+ },
+ "pubs.empty": {
+  "es": "Ningún trabajo coincide con estos filtros. Quita alguno para ver más.",
+  "en": "No work matches these filters. Remove one to see more."
+ },
+ "pubs.supervisors": {
+  "es": "Tutores",
+  "en": "Supervisors"
+ },
+ "pubs.clear": {
+  "es": "Quitar filtros",
+  "en": "Clear filters"
+ },
+ "type.journal": {
+  "es": "Revista",
+  "en": "Journal"
+ },
+ "type.conference": {
+  "es": "Congreso",
+  "en": "Conference"
+ },
+ "type.chapter": {
+  "es": "Capítulo",
+  "en": "Chapter"
+ },
+ "type.book": {
+  "es": "Libro",
+  "en": "Book"
+ },
+ "type.talk": {
+  "es": "Charla",
+  "en": "Talk"
+ },
+ "type.preprint": {
+  "es": "Preprint",
+  "en": "Preprint"
+ },
+ "type.other": {
+  "es": "Otro",
+  "en": "Other"
+ },
+ "type.thesis": {
+  "es": "Tesis",
+  "en": "Thesis"
+ },
+ "level.diploma": {
+  "es": "Trabajo de diploma",
+  "en": "Undergraduate thesis"
+ },
+ "level.master": {
+  "es": "Tesis de maestría",
+  "en": "Master's thesis"
+ },
+ "level.phd": {
+  "es": "Tesis doctoral",
+  "en": "PhD thesis"
+ },
+ "projects.title": {
+  "es": "Proyectos",
+  "en": "Projects"
+ },
+ "projects.lede": {
+  "es": "Modelos, bibliotecas y tareas compartidas que el grupo construye y mantiene. El código está en GitHub, en la organización gia-uh.",
+  "en": "Models, libraries and shared tasks the group builds and maintains. The code lives on GitHub, in the gia-uh organisation."
+ },
+ "projects.more": {
+  "es": "Más proyectos",
+  "en": "More projects"
+ },
+ "projects.site": {
+  "es": "Sitio",
+  "en": "Website"
+ },
+ "projects.code": {
+  "es": "Código",
+  "en": "Code"
+ },
+ "gensie.kicker": {
+  "es": "Tarea compartida en IberLEF 2026",
+  "en": "Shared task at IberLEF 2026"
+ },
+ "gensie.lede": {
+  "es": "Extracción de información guiada por esquemas, en español y con modelos de lenguaje pequeños. Un sistema que corre solo en CPU recibe un texto, una instrucción y un esquema JSON, y tiene que devolver un objeto que cumpla el esquema y sea fiel al texto, con null donde el texto no dice nada.",
+  "en": "Schema-guided information extraction, in Spanish, with small language models. A CPU-only system receives a text, an instruction and a JSON schema, and must return an object that fits the schema and is faithful to the text, with null wherever the text says nothing."
+ },
+ "gensie.n.teams": {
+  "es": "equipos",
+  "en": "teams"
+ },
+ "gensie.n.systems": {
+  "es": "sistemas enviados",
+  "en": "systems submitted"
+ },
+ "gensie.n.dev": {
+  "es": "instancias de desarrollo",
+  "en": "development instances"
+ },
+ "gensie.n.test": {
+  "es": "instancias de prueba",
+  "en": "test instances"
+ },
+ "gensie.result": {
+  "es": "DRILLER, de Ariel González y Daniel Valdés, encabeza la clasificación: cierra el 27,7 % de la brecha entre la línea base y la extracción perfecta, aunque un bootstrap pareado no separa a los tres primeros. La recuperación y el enriquecimiento del esquema rinden; las pasadas extra de inferencia, no.",
+  "en": "DRILLER, by Ariel González and Daniel Valdés, tops the leaderboard: it closes 27.7% of the gap between the baseline and perfect extraction, though a paired bootstrap cannot separate the top three. Retrieval and schema enrichment pay off; extra inference passes do not."
+ },
+ "gensie.overview": {
+  "es": "El artículo de la tarea",
+  "en": "The task paper"
+ },
+ "gensie.teams": {
+  "es": "Los artículos de los equipos",
+  "en": "The teams' papers"
+ },
+ "gensie.teams.note": {
+  "es": "Publicados en las actas de IberLEF 2026, CEUR-WS volumen 4273.",
+  "en": "Published in the IberLEF 2026 proceedings, CEUR-WS volume 4273."
+ },
+ "gensie.links.site": {
+  "es": "Sitio de la tarea",
+  "en": "Task website"
+ },
+ "gensie.links.repo": {
+  "es": "Repositorio y datos",
+  "en": "Repository and data"
+ },
+ "gensie.links.ceur": {
+  "es": "Actas en CEUR-WS",
+  "en": "Proceedings on CEUR-WS"
+ },
+ "404.title": {
+  "es": "Esta página no existe",
+  "en": "This page does not exist"
+ },
+ "404.text": {
+  "es": "Mientras A* busca un camino, puedes volver al inicio.",
+  "en": "While A* looks for a path, you can go back home."
+ },
+ "404.home": {
+  "es": "Volver al inicio",
+  "en": "Back to home"
+ },
+ "footer.code": {
+  "es": "El código de este sitio está en GitHub.",
+  "en": "This site's code is on GitHub."
+ },
+ "footer.address": {
+  "es": "Facultad de Matemática y Computación, San Lázaro y L, Vedado, La Habana, Cuba",
+  "en": "Faculty of Mathematics and Computer Science, San Lázaro y L, Vedado, Havana, Cuba"
+ },
+ "noscript": {
+  "es": "Este sitio necesita JavaScript para mostrar sus listas. El código y los datos están en github.com/gia-uh/gia-uh.github.io.",
+  "en": "This site needs JavaScript to show its lists. The code and data are at github.com/gia-uh/gia-uh.github.io."
+ }
+}

@@ -1,0 +1,300 @@
+[
+ {
+  "id": "alberto-fernandez",
+  "name": "Alberto Fernández Oliva",
+  "category": "senior",
+  "role": {
+   "es": "Profesor Titular",
+   "en": "Full Professor"
+  },
+  "institution": "Universidad de La Habana"
+ },
+ {
+  "id": "lucina-garcia",
+  "name": "Lucina García",
+  "category": "senior",
+  "role": {
+   "es": "Profesora Emérita y Consultante. Fundadora de la carrera de Ciencia de la Computación",
+   "en": "Professor Emerita. Founder of the Computer Science degree"
+  },
+  "institution": "Universidad de La Habana"
+ },
+ {
+  "id": "luciano-garcia",
+  "name": "Luciano García Garrido",
+  "category": "senior",
+  "role": {
+   "es": "Profesor Emérito y Consultante. Fundador de la carrera de Ciencia de la Computación",
+   "en": "Professor Emeritus. Founder of the Computer Science degree"
+  },
+  "institution": "Universidad de La Habana",
+  "email": "luciano@matcom.uh.cu"
+ },
+ {
+  "id": "yudivian-almeida",
+  "name": "Yudivián Almeida Cruz",
+  "category": "researcher",
+  "role": {
+   "es": "Director del grupo",
+   "en": "Head of the group"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0002-2345-1387",
+  "github": "yudivian",
+  "email": "yudy@matcom.uh.cu",
+  "head": true
+ },
+ {
+  "id": "suilan-estevez",
+  "name": "Suilan Estévez Velarde",
+  "category": "researcher",
+  "role": {
+   "es": "Profesora Titular",
+   "en": "Full Professor"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0001-6707-1442",
+  "github": "sestevez",
+  "email": "sestevez@matcom.uh.cu"
+ },
+ {
+  "id": "alejandro-piad",
+  "name": "Alejandro Piad Morffis",
+  "category": "researcher",
+  "role": {
+   "es": "Profesor Titular",
+   "en": "Full Professor"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0001-9522-3239",
+  "github": "apiad",
+  "email": "apiad@matcom.uh.cu",
+  "website": "https://apiad.net"
+ },
+ {
+  "id": "danilo-guerrero",
+  "name": "Danilo Guerrero Montero",
+  "category": "researcher",
+  "role": {
+   "es": "Investigador y estudiante de maestría",
+   "en": "Researcher and master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0001-5349-5623",
+  "github": "dguerrerom"
+ },
+ {
+  "id": "ernesto-estevanell",
+  "name": "Ernesto Luis Estevanell Valladares",
+  "category": "phd",
+  "role": {
+   "es": "Estudiante de doctorado",
+   "en": "PhD student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0002-1168-1767",
+  "email": "estevanell@matcom.uh.cu"
+ },
+ {
+  "id": "daniel-valdes",
+  "name": "Daniel Alejandro Valdés Pérez",
+  "category": "phd",
+  "role": {
+   "es": "Estudiante de doctorado",
+   "en": "PhD student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0003-4472-3967",
+  "email": "danielvp@matcom.uh.cu"
+ },
+ {
+  "id": "deborah-famadas",
+  "name": "Deborah Famadas Rodríguez",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0002-0042-3516"
+ },
+ {
+  "id": "gabriel-hernandez",
+  "name": "Gabriel Hernández Rodríguez",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0004-8692-2133",
+  "github": "sour6ce"
+ },
+ {
+  "id": "roberto-marti",
+  "name": "Roberto Martí Cedeño",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0000-0002-7671-4187",
+  "github": "rmarticedeno"
+ },
+ {
+  "id": "roberto-garcia",
+  "name": "Roberto García Rodríguez",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0005-5269-8281",
+  "github": "Robegr42"
+ },
+ {
+  "id": "alejandro-beltran",
+  "name": "Alejandro Beltrán Varela",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0009-8073-1033",
+  "github": "alejbv"
+ },
+ {
+  "id": "elena-rodriguez",
+  "name": "Elena Rodríguez Horta",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0004-1515-3111"
+ },
+ {
+  "id": "ariel-gonzalez",
+  "name": "Ariel González Gómez",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0005-6780-4307",
+  "github": "arielgg46"
+ },
+ {
+  "id": "carlos-largacha",
+  "name": "Carlos Daniel Largacha Leal",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0000-5479-1352"
+ },
+ {
+  "id": "daniel-toledo",
+  "name": "Daniel Toledo Martínez",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana",
+  "orcid": "0009-0008-7813-6617"
+ },
+ {
+  "id": "ariadna-velazquez",
+  "name": "Ariadna Velázquez",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana"
+ },
+ {
+  "id": "lia-lopez",
+  "name": "Lia Stephanie López Rosales",
+  "category": "master",
+  "role": {
+   "es": "Estudiante de maestría",
+   "en": "Master's student"
+  },
+  "institution": "Universidad de La Habana"
+ },
+ {
+  "id": "frank-sadan",
+  "name": "Frank Sadan Naranjo Noda",
+  "category": "collaborator",
+  "role": {
+   "es": "Investigador",
+   "en": "Researcher"
+  },
+  "institution": "ICIMAF",
+  "orcid": "0000-0002-2162-1928"
+ },
+ {
+  "id": "juan-pablo-consuegra",
+  "name": "Juan Pablo Consuegra Ayala",
+  "category": "collaborator",
+  "role": {
+   "es": "Investigador",
+   "en": "Researcher"
+  },
+  "institution": "Universidad de Alicante",
+  "orcid": "0000-0003-2009-393X"
+ },
+ {
+  "id": "yoan-gutierrez",
+  "name": "Yoan Gutiérrez Vázquez",
+  "category": "collaborator",
+  "role": {
+   "es": "Profesor",
+   "en": "Professor"
+  },
+  "institution": "Universidad de Alicante",
+  "orcid": "0000-0002-4052-7427"
+ },
+ {
+  "id": "rafael-munoz",
+  "name": "Rafael Muñoz Guillena",
+  "category": "collaborator",
+  "role": {
+   "es": "Catedrático",
+   "en": "Full Professor"
+  },
+  "institution": "Universidad de Alicante",
+  "orcid": "0000-0001-8127-9012"
+ },
+ {
+  "id": "andres-montoyo",
+  "name": "Andrés Montoyo",
+  "category": "collaborator",
+  "role": {
+   "es": "Catedrático",
+   "en": "Full Professor"
+  },
+  "institution": "Universidad de Alicante",
+  "orcid": "0000-0002-3076-0890"
+ },
+ {
+  "id": "manuel-palomar",
+  "name": "Manuel Palomar",
+  "category": "collaborator",
+  "role": {
+   "es": "Catedrático",
+   "en": "Full Professor"
+  },
+  "institution": "Universidad de Alicante",
+  "orcid": "0000-0002-1441-7865"
+ }
+]
