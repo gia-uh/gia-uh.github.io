@@ -83,7 +83,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "continual-pretraining-of-a-small-language-2026"
+  "id": "continual-pretraining-of-a-small-language-2026",
+  "openalex_work_id": "W7127057570"
  },
  {
   "title": "DRILLER at GenSIE 2026: Interpreting Extraction Semantics through Schema-Aware Prompting, Complementary Retrieval, and Heterogeneous Self-Consistency",
@@ -463,7 +464,9 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "automatic-annotation-of-protected-attributes-to-2024"
+  "id": "automatic-annotation-of-protected-attributes-to-2024",
+  "openalex_work_id": "W4391542913",
+  "doi": "10.1016/j.ins.2024.120188"
  },
  {
   "title": "Balancing Efficiency and Performance in NLP: A Cross-Comparison of Shallow Machine Learning and Large Language Models via AutoML ; Equilibrando eficiencia y rendimiento en PLN: comparación cruzada de Machine Learning Tradicional y Grandes Modelos de Lenguaje mediante AutoML",
@@ -505,7 +508,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "bias-mitigation-for-fair-automation-of-2024"
+  "id": "bias-mitigation-for-fair-automation-of-2024",
+  "openalex_work_id": "W4403590900"
  },
  {
   "title": "Enfoques Zero-Shot para la Extracción de Conocimiento a partir de Lenguaje Natural",
@@ -573,7 +577,8 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "improving-trajectory-classification-through-kramersmoyal-coefficients-2024"
+  "id": "improving-trajectory-classification-through-kramersmoyal-coefficients-2024",
+  "openalex_work_id": "W4400516059"
  },
  {
   "title": "KD SENSO-MERGER: An architecture for semantic integration of heterogeneous data",
@@ -595,7 +600,8 @@
    "suilan-estevez",
    "yoan-gutierrez"
   ],
-  "id": "kd-senso-merger-an-architecture-for-2024"
+  "id": "kd-senso-merger-an-architecture-for-2024",
+  "openalex_work_id": "W4391041258"
  },
  {
   "title": "Meta-learning para AutoML heterogéneo",
@@ -631,7 +637,8 @@
    "alejandro-piad",
    "suilan-estevez"
   ],
-  "id": "applying-human-in-the-loop-to-2023"
+  "id": "applying-human-in-the-loop-to-2023",
+  "openalex_work_id": "W4386882885"
  },
  {
   "title": "pactus: A Python framework for trajectory classification",
@@ -651,7 +658,8 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "pactus-a-python-framework-for-trajectory-2023"
+  "id": "pactus-a-python-framework-for-trajectory-2023",
+  "openalex_work_id": "W4386961619"
  },
  {
   "title": "AutoGOAL basado en modelos preentrenados",
@@ -740,7 +748,8 @@
   "members": [
    "alejandro-piad"
   ],
-  "id": "data-models-for-annotating-biomedical-scholarly-2022"
+  "id": "data-models-for-annotating-biomedical-scholarly-2022",
+  "openalex_work_id": "W4225983419"
  },
  {
   "title": "Destilación no supervisada de estilo en texto",
@@ -773,7 +782,9 @@
   "members": [
    "alejandro-piad"
   ],
-  "id": "enhancing-multilingual-and-biomedical-named-entity-2022"
+  "id": "enhancing-multilingual-and-biomedical-named-entity-2022",
+  "openalex_work_id": "W4288519650",
+  "doi": "10.5281/zenodo.6923550"
  },
  {
   "title": "Ensemble Approaches for Graph Counterfactual Explanations.",
@@ -842,7 +853,9 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "intelligent-ensembling-of-auto-ml-system-2022"
+  "id": "intelligent-ensembling-of-auto-ml-system-2022",
+  "openalex_work_id": "W4285808175",
+  "doi": "10.1016/j.ins.2022.07.061"
  },
  {
   "title": "Model drifting para AutoGOAL MLOps",
@@ -935,7 +948,9 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "reassembling-public-data-in-cuba-collaborations-2021"
+  "id": "reassembling-public-data-in-cuba-collaborations-2021",
+  "openalex_work_id": "W4200360793",
+  "doi": "10.1515/9789048542079-013"
  },
  {
   "title": "Active learning for assisted corpus construction: A case study in knowledge discovery from biomedical text",
@@ -968,7 +983,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "active-learning-for-assisted-corpus-construction-2021"
+  "id": "active-learning-for-assisted-corpus-construction-2021",
+  "openalex_work_id": "W3212115119"
  },
  {
   "title": "AutoGOAL & MLOps",
@@ -1043,7 +1059,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "automatic-extension-of-corpora-from-the-2021"
+  "id": "automatic-extension-of-corpora-from-the-2021",
+  "openalex_work_id": "W3134815415"
  },
  {
   "title": "Deep Learning Approach for Latent Representation of the Style of Texts",
@@ -1128,7 +1145,8 @@
   "members": [
    "alejandro-piad"
   ],
-  "id": "exploiting-discourse-structure-of-traditional-digital-2021"
+  "id": "exploiting-discourse-structure-of-traditional-digital-2021",
+  "openalex_work_id": "W3099995718"
  },
  {
   "title": "GPLSI-UH LETO V1. 0: Motor de aprendizaje a través de ontoloǵıas",
@@ -1176,7 +1194,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "general-purpose-hierarchical-optimisation-of-machine-2021"
+  "id": "general-purpose-hierarchical-optimisation-of-machine-2021",
+  "openalex_work_id": "W3044145829"
  },
  {
   "title": "Hacia la democratización del aprendizaje de máquinas",
@@ -1200,7 +1219,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021"
+  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021",
+  "openalex_work_id": "W3199388076"
  },
  {
   "title": "Hacia la democratización del aprendizaje de máquinas usando AutoGOAL",
@@ -1223,7 +1243,9 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021-2"
+  "id": "hacia-la-democratizacion-del-aprendizaje-de-2021-2",
+  "openalex_work_id": "W3187348386",
+  "venue": "Repositorio Institucional de la Universidad de Alicante (Universidad de Alicante)"
  },
  {
   "title": "Hacia la democratización del aprendizaje de máquinas usando AutoGOAL Towards the Democratization of Machine Learning using AutoGOAL",
@@ -1285,7 +1307,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "overview-of-the-ehealth-knowledge-discovery-2021"
+  "id": "overview-of-the-ehealth-knowledge-discovery-2021",
+  "openalex_work_id": "W2970575918"
  },
  {
   "title": "Quantification of Biases and Equity in Machine Learning Algorithms and Data Corpus",
@@ -1337,7 +1360,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "a-computational-ecosystem-to-support-ehealth-2020"
+  "id": "a-computational-ecosystem-to-support-ehealth-2020",
+  "openalex_work_id": "W3045064228"
  },
  {
   "title": "Analyzing the Interaction of Users with News Articles to Create Personalization Services",
@@ -1355,7 +1379,8 @@
   "members": [
    "alejandro-piad"
   ],
-  "id": "analyzing-the-interaction-of-users-with-2020"
+  "id": "analyzing-the-interaction-of-users-with-2020",
+  "openalex_work_id": "W3042105723"
  },
  {
   "title": "Análisis de Ventanas de Tiempo en Sistemas de Detección de Tendencias",
@@ -1371,7 +1396,8 @@
    "alejandro-piad",
    "yudivian-almeida"
   ],
-  "id": "analisis-de-ventanas-de-tiempo-en-2020"
+  "id": "analisis-de-ventanas-de-tiempo-en-2020",
+  "openalex_work_id": "W3021187937"
  },
  {
   "title": "Análisis de segregación residencial como dinámica socio-espacial en grandes ciudades: caso de estudio Paŕıs",
@@ -1426,7 +1452,9 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "automl-strategy-based-on-grammatical-evolution-2020"
+  "id": "automl-strategy-based-on-grammatical-evolution-2020",
+  "openalex_work_id": "W2951493960",
+  "doi": "10.18653/v1/p19-1428"
  },
  {
   "title": "Automatic discovery of heterogeneous machine learning pipelines: An application to natural language processing",
@@ -1446,7 +1474,9 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "automatic-discovery-of-heterogeneous-machine-learning-2020"
+  "id": "automatic-discovery-of-heterogeneous-machine-learning-2020",
+  "openalex_work_id": "W3116128708",
+  "doi": "10.18653/v1/2020.coling-main.317"
  },
  {
   "title": "Covid19-Dashboard Cuba",
@@ -1498,7 +1528,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "demo-application-for-the-autogoal-framework-2020"
+  "id": "demo-application-for-the-autogoal-framework-2020",
+  "openalex_work_id": "W3117357796"
  },
  {
   "title": "Equidad y respuesta del Sistema Nacional de Salud de Cuba ante la COVID-19",
@@ -1521,7 +1552,8 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "equidad-y-respuesta-del-sistema-nacional-2020"
+  "id": "equidad-y-respuesta-del-sistema-nacional-2020",
+  "openalex_work_id": "W3120970730"
  },
  {
   "title": "Generación adversarial de texto estructurado condicionado por una imagen",
@@ -1586,7 +1618,8 @@
    "suilan-estevez",
    "yudivian-almeida"
   ],
-  "id": "how-mathematical-approaches-could-help-decision-2020"
+  "id": "how-mathematical-approaches-could-help-decision-2020",
+  "openalex_work_id": "W3090558601"
  },
  {
   "title": "Knowledge discovery in COVID-19 research literature",
@@ -1620,7 +1653,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "knowledge-discovery-in-covid-research-literature-2020"
+  "id": "knowledge-discovery-in-covid-research-literature-2020",
+  "openalex_work_id": "W3214383628"
  },
  {
   "title": "Propuesta Basada en Aprendizaje Profundo para la Representación Latente del Estilo de Textos",
@@ -1738,7 +1772,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "a-neural-network-component-for-knowledge-2019"
+  "id": "a-neural-network-component-for-knowledge-2019",
+  "openalex_work_id": "W2991307600"
  },
  {
   "title": "A corpus to support eHealth Knowledge Discovery technologies",
@@ -1757,7 +1792,8 @@
    "rafael-munoz",
    "yoan-gutierrez"
   ],
-  "id": "a-corpus-to-support-ehealth-knowledge-2019"
+  "id": "a-corpus-to-support-ehealth-knowledge-2019",
+  "openalex_work_id": "W2927955097"
  },
  {
   "title": "A general-purpose annotation model for knowledge discovery: Case study in spanish clinical text",
@@ -1795,7 +1831,8 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "an-autonomous-robot-for-continuous-tracking-2019"
+  "id": "an-autonomous-robot-for-continuous-tracking-2019",
+  "openalex_work_id": "W2884498491"
  },
  {
   "title": "Analysis of eHealth knowledge discovery systems in the TASS 2018 Workshop",
@@ -1820,7 +1857,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "analysis-of-ehealth-knowledge-discovery-systems-2019"
+  "id": "analysis-of-ehealth-knowledge-discovery-systems-2019",
+  "openalex_work_id": "W2931749777"
  },
  {
   "title": "Demo Application for LETO: Learning Engine Through Ontologies",
@@ -1851,7 +1889,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "demo-application-for-leto-learning-engine-2019"
+  "id": "demo-application-for-leto-learning-engine-2019",
+  "openalex_work_id": "W2985847811"
  },
  {
   "title": "Optimizing Natural Language Processing Pipelines: Opinion Mining Case Study",
@@ -1872,7 +1911,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "optimizing-natural-language-processing-pipelines-opinion-2019"
+  "id": "optimizing-natural-language-processing-pipelines-opinion-2019",
+  "openalex_work_id": "W2981832887"
  },
  {
   "title": "Overlapping Community Detection on a Graph of Chemicals, Diseases and Genes for Drug Repositioning and Adverse Reactions Prediction",
@@ -1886,7 +1926,9 @@
    "suilan-estevez",
    "yudivian-almeida"
   ],
-  "id": "overlapping-community-detection-on-a-graph-2019"
+  "id": "overlapping-community-detection-on-a-graph-2019",
+  "openalex_work_id": "W2942522095",
+  "doi": "10.60692/dbyzk-5yn19"
  },
  {
   "title": "Overview of the eHealth knowledge discovery challenge at IberLEF 2019",
@@ -1934,7 +1976,8 @@
    "alejandro-piad",
    "yoan-gutierrez"
   ],
-  "id": "tass-the-strength-of-deep-learning-2019"
+  "id": "tass-the-strength-of-deep-learning-2019",
+  "openalex_work_id": "W2924257353"
  },
  {
   "title": "Gathering object interactions as semantic knowledge",
@@ -1988,7 +2031,8 @@
    "yoan-gutierrez",
    "yudivian-almeida"
   ],
-  "id": "overview-of-tass-opinions-health-and-2018"
+  "id": "overview-of-tass-opinions-health-and-2018",
+  "openalex_work_id": "W2894315785"
  },
  {
   "title": "Propuesta de un bot en el dominio del periodismo",
@@ -2019,7 +2063,8 @@
    "juan-pablo-consuegra",
    "suilan-estevez"
   ],
-  "id": "generacion-procedural-de-ciudades-un-enfoque-2017"
+  "id": "generacion-procedural-de-ciudades-un-enfoque-2017",
+  "openalex_work_id": "W2971586603"
  },
  {
   "title": "Metodoloǵıa para el reconocimiento de entidades nombradas en mensajes cortos",
@@ -2046,7 +2091,8 @@
   "members": [
    "alejandro-piad"
   ],
-  "id": "a-pit-estructura-de-subdivision-espacial-2016"
+  "id": "a-pit-estructura-de-subdivision-espacial-2016",
+  "openalex_work_id": "W2564426924"
  },
  {
   "title": "Intersección de Rayos en GPU: Un Enfoque en Espacio de Vista",
@@ -2074,7 +2120,8 @@
    "suilan-estevez",
    "yudivian-almeida"
   ],
-  "id": "evaluacion-de-algoritmos-de-clasificacion-supervisada-2015"
+  "id": "evaluacion-de-algoritmos-de-clasificacion-supervisada-2015",
+  "openalex_work_id": "W3204861171"
  },
  {
   "title": "Evolution strategies with thresheld convergence",
@@ -2094,7 +2141,8 @@
    "alejandro-piad",
    "suilan-estevez"
   ],
-  "id": "evolution-strategies-with-thresheld-convergence-2015"
+  "id": "evolution-strategies-with-thresheld-convergence-2015",
+  "openalex_work_id": "W1766959442"
  },
  {
   "title": "LAS TECNOLOGÍAS DE LA INFORMACIÓN EN EL SIGLO XXI EXPECTATIVAS PARA CUBA",
@@ -2154,7 +2202,9 @@
    "suilan-estevez",
    "yudivian-almeida"
   ],
-  "id": "deteccion-de-idioma-en-twitter-language-2014"
+  "id": "deteccion-de-idioma-en-twitter-language-2014",
+  "openalex_work_id": "W1603283192",
+  "doi": "10.5281/zenodo.7080731"
  },
  {
   "title": "Mercado inmobiliario en Cuba: algunos indicios y consideraciones",
@@ -2188,7 +2238,8 @@
    "alejandro-piad",
    "suilan-estevez"
   ],
-  "id": "differential-evolution-with-thresheld-convergence-2013"
+  "id": "differential-evolution-with-thresheld-convergence-2013",
+  "openalex_work_id": "W2045067082"
  },
  {
   "title": "E-Buffer: Una Representación en Espacio de Vista para Aplicaciones de Iluminación Global en Tiempo Real",
@@ -2227,7 +2278,9 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "modelo-para-la-difusion-proactiva-de-2011"
+  "id": "modelo-para-la-difusion-proactiva-de-2011",
+  "openalex_work_id": "W1926886545",
+  "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)"
  },
  {
   "title": "Propuesta de un modelo para el intercambio automático de información en redes P2P",
@@ -2241,7 +2294,8 @@
   "members": [
    "yudivian-almeida"
   ],
-  "id": "propuesta-de-un-modelo-para-el-2009"
+  "id": "propuesta-de-un-modelo-para-el-2009",
+  "openalex_work_id": "W2810739092"
  },
  {
   "title": "Propuesta de una metodoloǵıa para simular el comportamiento de una información en redes sociales.",
@@ -2329,5 +2383,757 @@
    "yudivian-almeida"
   ],
   "id": "reconocimiento-de-entidades-nombradas-en-twitter-None"
+ },
+ {
+  "title": "A Method Non-Deterministic and Computationally Viable for Detecting Outliers in Large Datasets",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2020,
+  "type": "journal",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W3031559949",
+  "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "doi": "10.6688/jise.202005_36(3).0012",
+  "url": "https://doi.org/10.6688/jise.202005_36(3).0012",
+  "id": "a-method-non-deterministic-and-computationally-2020"
+ },
+ {
+  "title": "Non-Deterministic Outlier Detection Method Based on the Variable Precision Rough Set Model",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2019,
+  "type": "journal",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W3046530636",
+  "venue": "Computer Systems Science and Engineering",
+  "doi": "10.32604/csse.2019.34.131",
+  "url": "https://doi.org/10.32604/csse.2019.34.131",
+  "id": "non-deterministic-outlier-detection-method-based-2019"
+ },
+ {
+  "title": "Application of the Variable Precision Rough Sets Model to Estimate the Outlier Probability of Each Element",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2018,
+  "type": "journal",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W2895167905",
+  "venue": "Complexity",
+  "doi": "10.1155/2018/4867607",
+  "url": "https://doi.org/10.1155/2018/4867607",
+  "id": "application-of-the-variable-precision-rough-2018"
+ },
+ {
+  "title": "Identifying Twitter Users Influence and Open Mindedness Using Anomaly Detection",
+  "authors": [
+   "Alberto Fernández Oliva",
+   "Lucina García"
+  ],
+  "year": 2018,
+  "type": "conference",
+  "members": [
+   "alberto-fernandez",
+   "lucina-garcia"
+  ],
+  "openalex_work_id": "W2891594972",
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-030-01132-1_19",
+  "url": "https://doi.org/10.1007/978-3-030-01132-1_19",
+  "id": "identifying-twitter-users-influence-and-open-2018"
+ },
+ {
+  "title": "Lessons from El Paquete, Cuba's Offline Internet",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2018,
+  "type": "conference",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W2808943284",
+  "doi": "10.1145/3209811.3209876",
+  "url": "https://doi.org/10.1145/3209811.3209876",
+  "id": "lessons-from-el-paquete-cubas-offline-2018"
+ },
+ {
+  "title": "Algorithm for the detection of outliers based on the theory of rough sets",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2015,
+  "type": "journal",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W1590946452",
+  "venue": "Decision Support Systems",
+  "doi": "10.1016/j.dss.2015.05.002",
+  "url": "https://doi.org/10.1016/j.dss.2015.05.002",
+  "id": "algorithm-for-the-detection-of-outliers-2015"
+ },
+ {
+  "title": "Una aplicación de la Teoría de Grafos al problema de la detección de outliers usando el Modelo de Conjuntos Aproximados de Precisión Variable (VPRSM)",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2011,
+  "type": "journal",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W2884567493",
+  "venue": "Dialnet (Universidad de la Rioja)",
+  "url": "https://openalex.org/W2884567493",
+  "id": "una-aplicacion-de-la-teoria-de-2011"
+ },
+ {
+  "title": "Aplicación del modelo de conjuntos aproximados de precisión variable para estimar la probabilidad que tiene cada elemento de ser excepcional",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2010,
+  "type": "chapter",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W1583627020",
+  "venue": "GrupoM eBooks",
+  "url": "https://openalex.org/W1583627020",
+  "id": "aplicacion-del-modelo-de-conjuntos-aproximados-2010"
+ },
+ {
+  "title": "Estimación probabilística del grado de excepcionalidad de un elemento arbitrario en un conjunto finito de datos: aplicación de la teoría de conjuntos aproximados de precisión variable",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2010,
+  "type": "thesis",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W1810928637",
+  "url": "https://openalex.org/W1810928637",
+  "id": "estimacion-probabilistica-del-grado-de-excepcionalidad-2010"
+ },
+ {
+  "title": "Algoritmo para la detección de casos excepcionales basado en la Teoría de Conjuntos Aproximados",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2009,
+  "type": "chapter",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W1532066719",
+  "venue": "GrupoM eBooks",
+  "url": "https://openalex.org/W1532066719",
+  "id": "algoritmo-para-la-deteccion-de-casos-2009"
+ },
+ {
+  "title": "Método de detección no determinista de outliers basado en el modelo de conjuntos aproximados de precisión variable",
+  "authors": [
+   "Alberto Fernández Oliva"
+  ],
+  "year": 2009,
+  "type": "chapter",
+  "members": [
+   "alberto-fernandez"
+  ],
+  "openalex_work_id": "W1595257779",
+  "venue": "GrupoM eBooks",
+  "url": "https://openalex.org/W1595257779",
+  "id": "metodo-de-deteccion-no-determinista-de-2009"
+ },
+ {
+  "title": "GenSIE Benchmark v1.0: Schema-Guided Information Extraction with Small Language Models in Spanish",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Ernesto Luis Estevanell Valladares",
+   "Suilan Estévez Velarde",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2026,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "ernesto-estevanell",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W7167917326",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.21299326",
+  "url": "https://doi.org/10.5281/zenodo.21299326",
+  "id": "gensie-benchmark-v10-schema-guided-information-2026"
+ },
+ {
+  "title": "GenSIE Benchmark v1.0: Schema-Guided Information Extraction with Small Language Models in Spanish",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Ernesto Luis Estevanell Valladares",
+   "Suilan Estévez Velarde",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2026,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "ernesto-estevanell",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W7167926723",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.21299327",
+  "url": "https://doi.org/10.5281/zenodo.21299327",
+  "id": "gensie-benchmark-v10-schema-guided-information-2026-2"
+ },
+ {
+  "title": "Systematic Evaluation of Rule-Based Analytics for LLM-Driven Graph Data Modelling",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2025,
+  "type": "conference",
+  "members": [
+   "alejandro-piad",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W7131638309",
+  "doi": "10.26615/978-954-452-102-8-016",
+  "url": "https://doi.org/10.26615/978-954-452-102-8-016",
+  "id": "systematic-evaluation-of-rule-based-analytics-2025"
+ },
+ {
+  "title": "GPLSI-UH LETO V1.0: Motor de aprendizaje a través de ontologías",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Daniel Alejandro Valdés Pérez",
+   "Suilan Estévez Velarde",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "daniel-valdes",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W3136771978",
+  "venue": "Repositorio Institucional de la Universidad de Alicante (Universidad de Alicante)",
+  "url": "https://openalex.org/W3136771978",
+  "id": "gplsi-uh-leto-v10-motor-de-2021"
+ },
+ {
+  "title": "Overview eHealth-KD 2020.",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Suilan Estévez Velarde",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2020,
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W3095933031",
+  "venue": "IberLEF@SEPLN",
+  "url": "https://openalex.org/W3095933031",
+  "id": "overview-ehealth-kd-2020-2020"
+ },
+ {
+  "title": "eHealth-KD 2020",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W4393761951",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.3870509",
+  "url": "https://doi.org/10.5281/zenodo.3870509",
+  "id": "ehealth-kd-2020-2020"
+ },
+ {
+  "title": "eHealth-KD 2020",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W4393848468",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.3632228",
+  "url": "https://doi.org/10.5281/zenodo.3632228",
+  "id": "ehealth-kd-2020-2020-2"
+ },
+ {
+  "title": "eHealth-KD v2",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W4393555278",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.3696792",
+  "url": "https://doi.org/10.5281/zenodo.3696792",
+  "id": "ehealth-kd-v2-2020"
+ },
+ {
+  "title": "eHealth-KD v2",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "alejandro-piad",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W4393803027",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.3696791",
+  "url": "https://doi.org/10.5281/zenodo.3696791",
+  "id": "ehealth-kd-v2-2020-2"
+ },
+ {
+  "title": "A General-Purpose Annotation Model for Knowledge Discovery: Case Study in",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2019,
+  "type": "conference",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W2962914374",
+  "doi": "10.18653/v1/w19-1910",
+  "url": "https://doi.org/10.18653/v1/w19-1910",
+  "id": "a-general-purpose-annotation-model-for-2019-2"
+ },
+ {
+  "title": "Revista Cubana de Ciencias Informáticas",
+  "authors": [
+   "Alejandro Piad Morffis"
+  ],
+  "year": 2016,
+  "type": "journal",
+  "members": [
+   "alejandro-piad"
+  ],
+  "openalex_work_id": "W2746213533",
+  "url": "https://openalex.org/W2746213533",
+  "id": "revista-cubana-de-ciencias-informaticas-2016"
+ },
+ {
+  "title": "Detección de Idioma en Twitter",
+  "authors": [
+   "Alejandro Piad Morffis",
+   "Suilan Estévez Velarde",
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2014,
+  "type": "journal",
+  "members": [
+   "alejandro-piad",
+   "suilan-estevez",
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W2409616205",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": "10.5281/zenodo.7080732",
+  "url": "https://doi.org/10.5281/zenodo.7080732",
+  "id": "deteccion-de-idioma-en-twitter-2014"
+ },
+ {
+  "title": "SmartMatch: Real-Time Semantic Retrieval for Translation Memory Systems",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares"
+  ],
+  "year": 2026,
+  "type": "conference",
+  "members": [
+   "ernesto-estevanell"
+  ],
+  "openalex_work_id": "W7140138208",
+  "doi": "10.18653/v1/2026.eacl-demo.36",
+  "url": "https://doi.org/10.18653/v1/2026.eacl-demo.36",
+  "id": "smartmatch-real-time-semantic-retrieval-for-2026"
+ },
+ {
+  "title": "SmartMatch: Real-Time Semantic Retrieval for Translation Memory Systems",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares"
+  ],
+  "year": 2026,
+  "type": "other",
+  "members": [
+   "ernesto-estevanell"
+  ],
+  "openalex_work_id": "W7155378446",
+  "venue": "Underline Science Inc.",
+  "doi": "10.48448/s7qg-8c05",
+  "url": "https://doi.org/10.48448/s7qg-8c05",
+  "id": "smartmatch-real-time-semantic-retrieval-for-2026-2"
+ },
+ {
+  "title": "Detection of AI-generated Content in Scientific Abstracts",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares"
+  ],
+  "year": 2025,
+  "type": "conference",
+  "members": [
+   "ernesto-estevanell"
+  ],
+  "openalex_work_id": "W7131656066",
+  "doi": "10.26615/978-954-452-102-8-003",
+  "url": "https://doi.org/10.26615/978-954-452-102-8-003",
+  "id": "detection-of-ai-generated-content-in-2025"
+ },
+ {
+  "title": "Towards Intention-aligned Reviews Summarization: Enhancing LLM Outputs with Pragmatic Cues",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares"
+  ],
+  "year": 2025,
+  "type": "conference",
+  "members": [
+   "ernesto-estevanell"
+  ],
+  "openalex_work_id": "W7124284164",
+  "venue": "International conference Recent advances in natural language processing",
+  "doi": "10.26615/978-954-452-098-4-085",
+  "url": "https://doi.org/10.26615/978-954-452-098-4-085",
+  "id": "towards-intention-aligned-reviews-summarization-enhancing-2025"
+ },
+ {
+  "title": "XAutoLM: Efficient Fine-Tuning of Language Models via Meta-Learning and AutoML",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares",
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2025,
+  "type": "preprint",
+  "members": [
+   "ernesto-estevanell",
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W4414968388",
+  "venue": "arXiv (Cornell University)",
+  "doi": "10.48550/arxiv.2508.00924",
+  "url": "https://doi.org/10.48550/arxiv.2508.00924",
+  "id": "xautolm-efficient-fine-tuning-of-language-2025"
+ },
+ {
+  "title": "XAutoLM: Efficient Fine-Tuning of Language Models via Meta-Learning and AutoML",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares",
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2025,
+  "type": "conference",
+  "members": [
+   "ernesto-estevanell",
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W4416036965",
+  "doi": "10.18653/v1/2025.emnlp-main.399",
+  "url": "https://doi.org/10.18653/v1/2025.emnlp-main.399",
+  "id": "xautolm-efficient-fine-tuning-of-language-2025-2"
+ },
+ {
+  "title": "autogoal/datasets: Release files for CIFAR 10",
+  "authors": [
+   "Ernesto Luis Estevanell Valladares"
+  ],
+  "year": 2020,
+  "type": "other",
+  "members": [
+   "ernesto-estevanell"
+  ],
+  "openalex_work_id": "W3209903718",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.3715261",
+  "url": "https://doi.org/10.5281/zenodo.3715261",
+  "id": "autogoaldatasets-release-files-for-cifar-10-2020"
+ },
+ {
+  "title": "Recommender System in a Transactional Analytical Solution for Health Care and Health Promotion",
+  "authors": [
+   "Lucina García"
+  ],
+  "year": 2020,
+  "type": "journal",
+  "members": [
+   "lucina-garcia"
+  ],
+  "openalex_work_id": "W3021637942",
+  "url": "https://openalex.org/W3021637942",
+  "id": "recommender-system-in-a-transactional-analytical-2020"
+ },
+ {
+  "title": "Comparing Tabular and Multidimentional Model in a real BI solution",
+  "authors": [
+   "Lucina García"
+  ],
+  "year": 2016,
+  "type": "journal",
+  "members": [
+   "lucina-garcia"
+  ],
+  "openalex_work_id": "W2529457199",
+  "venue": "IEEE Latin America Transactions",
+  "doi": "10.1109/tla.2016.7587647",
+  "url": "https://doi.org/10.1109/tla.2016.7587647",
+  "id": "comparing-tabular-and-multidimentional-model-in-2016"
+ },
+ {
+  "title": "Evolución de la Gestión del Conocimiento en el Grupo Empresarial CIMEX (Evolution of Knowledge Management in CIMEX Corporation)",
+  "authors": [
+   "Lucina García"
+  ],
+  "year": 2016,
+  "type": "journal",
+  "members": [
+   "lucina-garcia"
+  ],
+  "openalex_work_id": "W7198461224",
+  "venue": "RIO (Universidad Pablo de Olavide)",
+  "url": "https://openalex.org/W7198461224",
+  "id": "evolucion-de-la-gestion-del-conocimiento-2016"
+ },
+ {
+  "title": "Evolución de la Gestión del Conocimiento en el Grupo Empresarial CIMEX (Evolution of Knowledge Management in CIMEX Corporation)",
+  "authors": [
+   "Lucina García"
+  ],
+  "year": 2015,
+  "type": "journal",
+  "members": [
+   "lucina-garcia"
+  ],
+  "openalex_work_id": "W2260719649",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "doi": "10.5281/zenodo.7080854",
+  "url": "https://doi.org/10.5281/zenodo.7080854",
+  "id": "evolucion-de-la-gestion-del-conocimiento-2015"
+ },
+ {
+  "title": "Modelación Tabular: una alternativa sugerente para el análisis de los datos",
+  "authors": [
+   "Lucina García"
+  ],
+  "year": 2015,
+  "type": "journal",
+  "members": [
+   "lucina-garcia"
+  ],
+  "openalex_work_id": "W2464376809",
+  "venue": "Ciencias de la información",
+  "url": "https://openalex.org/W2464376809",
+  "id": "modelacion-tabular-una-alternativa-sugerente-para-2015"
+ },
+ {
+  "title": "Acceso a Recursos de Cómputo de Alto Rendimiento Mediante Correo Electrónico (An email-based platform for accessing High Performance Computing resources)",
+  "authors": [
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2022,
+  "type": "preprint",
+  "members": [
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W1568294454",
+  "venue": "SSRN Electronic Journal",
+  "doi": "10.5281/zenodo.7080520",
+  "url": "https://doi.org/10.5281/zenodo.7080520",
+  "id": "acceso-a-recursos-de-computo-de-2022"
+ },
+ {
+  "title": "Acceso a Recursos de Cómputo de Alto Rendimiento Mediante Correo Electrónico (An email-based platform for accessing High Performance Computing resources)",
+  "authors": [
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2014,
+  "type": "journal",
+  "members": [
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W1499133551",
+  "venue": "RePEc: Research Papers in Economics",
+  "doi": "10.60692/bxnqe-45422",
+  "url": "https://doi.org/10.60692/bxnqe-45422",
+  "id": "acceso-a-recursos-de-computo-de-2014"
+ },
+ {
+  "title": "An email-based platform for accessing High Performance Computing resources",
+  "authors": [
+   "Suilan Estévez Velarde"
+  ],
+  "year": 2014,
+  "type": "journal",
+  "members": [
+   "suilan-estevez"
+  ],
+  "openalex_work_id": "W7198631758",
+  "venue": "RIO (Universidad Pablo de Olavide)",
+  "url": "https://openalex.org/W7198631758",
+  "id": "an-email-based-platform-for-accessing-2014"
+ },
+ {
+  "title": "Contribuciones de la epidemiología, la modelación y los sistemas de información en el enfrentamiento de la COVID-19",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2022,
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W4328139967",
+  "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "url": "https://openalex.org/W4328139967",
+  "id": "contribuciones-de-la-epidemiologia-la-modelacion-2022"
+ },
+ {
+  "title": "Equity and the Cuban National Health System's response to COVID-19",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W3120889078",
+  "venue": "Revista Panamericana de Salud Pública",
+  "doi": "10.26633/rpsp.2021.80",
+  "url": "https://doi.org/10.26633/rpsp.2021.80",
+  "id": "equity-and-the-cuban-national-health-2021"
+ },
+ {
+  "title": "Reassembling Public Data in Cuba:",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "type": "chapter",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W4249449973",
+  "venue": "Amsterdam University Press eBooks",
+  "doi": "10.2307/j.ctv1qr6smr.15",
+  "url": "https://doi.org/10.2307/j.ctv1qr6smr.15",
+  "id": "reassembling-public-data-in-cuba-2021"
+ },
+ {
+  "title": "Reassembling Public Data in Cuba: Collaborations When Information Is Missing, Outdated or Scarce",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "type": "other",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W3140328183",
+  "doi": "10.1017/9789048542079.013",
+  "url": "https://doi.org/10.1017/9789048542079.013",
+  "id": "reassembling-public-data-in-cuba-collaborations-2021-2"
+ },
+ {
+  "title": "Reassembling Public Data in Cuba: Collaborations When Information Is Missing, Outdated or Scarce",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2021,
+  "type": "chapter",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W4230782121",
+  "doi": "10.5117/9789462989511_ch12",
+  "url": "https://doi.org/10.5117/9789462989511_ch12",
+  "id": "reassembling-public-data-in-cuba-collaborations-2021-3"
+ },
+ {
+  "title": "Análisis de segregación residencial como dinámica socio-espacial en grandes ciudades: caso de estudio París",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2020,
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W3044774861",
+  "url": "https://openalex.org/W3044774861",
+  "id": "analisis-de-segregacion-residencial-como-dinamica-2020-2"
+ },
+ {
+  "title": "Igualdad de género en la \"blogosfera\" cubana: certezas e incertidumbres",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2012,
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W35675700",
+  "venue": "Dialnet (Universidad de la Rioja)",
+  "url": "https://openalex.org/W35675700",
+  "id": "igualdad-de-genero-en-la-blogosfera-2012"
+ },
+ {
+  "title": "Una metodología para la detección de anomalías en una red a partir de las trazas de ejecución de los servicios",
+  "authors": [
+   "Yudivián Almeida Cruz"
+  ],
+  "year": 2009,
+  "type": "journal",
+  "members": [
+   "yudivian-almeida"
+  ],
+  "openalex_work_id": "W2862845658",
+  "venue": "Dialnet (Universidad de la Rioja)",
+  "url": "https://openalex.org/W2862845658",
+  "id": "una-metodologia-para-la-deteccion-de-2009"
  }
 ]
