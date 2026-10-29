@@ -70,9 +70,29 @@ for p in papers:
         fail(f"{where}: unknown thesis level {p.get('level')!r}")
 
 # ---- projects
+GROUPS = {"library", "tool", "research", "task"}
 for p in projects:
-    bilingual(p.get("tagline"), f"projects.json {p.get('id')}.tagline")
-    bilingual(p.get("description"), f"projects.json {p.get('id')}.description")
+    where = f"projects.json {p.get('id')}"
+    bilingual(p.get("tagline"), f"{where}.tagline")
+    bilingual(p.get("description"), f"{where}.description")
+    if p.get("group") not in GROUPS:
+        fail(f"{where}: group must be one of {sorted(GROUPS)}, not {p.get('group')!r}")
+    if "home" in p and not isinstance(p["home"], int):
+        fail(f"{where}: home must be an integer")
+    for i, link in enumerate(p.get("links", [])):
+        bilingual(link.get("label"), f"{where}.links[{i}].label")
+        if not link.get("url"):
+            fail(f"{where}.links[{i}]: empty url")
+    if p.get("logo", "").startswith("/") and not (ROOT / p["logo"].lstrip("/")).is_file():
+        fail(f"{where}: logo {p['logo']!r} does not exist")
+if sum(1 for p in projects if p.get("star")) != 1:
+    fail("projects.json: exactly one project must have star: true")
+homes = [p["home"] for p in projects if "home" in p]
+if len(homes) != len(set(homes)):
+    fail("projects.json: two projects share a home position")
+fihav = load("fihav")
+if fihav is not None and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(fihav.get("until", ""))):
+    fail("data/fihav.json: until must be a YYYY-MM-DD date")
 
 # ---- i18n: every entry bilingual, every key used exists
 for key, value in i18n.items():
@@ -114,6 +134,7 @@ hrefs = []
 for f in html_files + js_files:
     hrefs += [(f.relative_to(ROOT), h) for h in re.findall(r'(?:href|src)="(/[^"]*)"', f.read_text(encoding="utf-8")) if "${" not in h]
 hrefs += [("data/projects.json", p["url"]) for p in projects if p.get("url", "").startswith("/")]
+hrefs += [("data/projects.json", l["url"]) for p in projects for l in p.get("links", []) if l["url"].startswith("/")]
 for where, href in hrefs:
     if not resolves(href):
         fail(f"{where}: internal link {href!r} does not resolve to a file")

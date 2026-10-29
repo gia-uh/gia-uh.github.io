@@ -352,12 +352,8 @@
   "en": "Projects"
  },
  "projects.lede": {
-  "es": "Modelos, bibliotecas y tareas compartidas que el grupo construye y mantiene. El código está en GitHub, en la organización gia-uh.",
-  "en": "Models, libraries and shared tasks the group builds and maintains. The code lives on GitHub, in the gia-uh organisation."
- },
- "projects.more": {
-  "es": "Más proyectos",
-  "en": "More projects"
+  "es": "Modelos, bibliotecas, herramientas y tareas compartidas que el grupo construye y mantiene, y la investigación que está empezando. El código está en GitHub, en la organización gia-uh.",
+  "en": "Models, libraries, tools and shared tasks the group builds and maintains, and the research that is just starting. The code lives on GitHub, in the gia-uh organisation."
  },
  "projects.site": {
   "es": "Sitio",
@@ -442,5 +438,41 @@
  "noscript": {
   "es": "Este sitio necesita JavaScript para mostrar sus listas. El código y los datos están en github.com/gia-uh/gia-uh.github.io.",
   "en": "This site needs JavaScript to show its lists. The code and data are at github.com/gia-uh/gia-uh.github.io."
+ },
+ "fihav.tag": {
+  "es": "FIHAV 2026",
+  "en": "FIHAV 2026"
+ },
+ "fihav.text": {
+  "es": "El GIA va a la Feria Internacional de La Habana, del 24 al 26 de noviembre, como parte de la delegación de la Universidad de La Habana. Llevamos CecilIA y cuatro bibliotecas abiertas.",
+  "en": "GIA goes to the Havana International Fair, 24 to 26 November, as part of the University of Havana delegation. We bring CecilIA and four open libraries."
+ },
+ "fihav.link": {
+  "es": "Nuestro espacio en la feria",
+  "en": "Our space at the fair"
+ },
+ "group.library": {
+  "es": "Modelos y bibliotecas",
+  "en": "Models and libraries"
+ },
+ "group.tool": {
+  "es": "Herramientas generales",
+  "en": "General tools"
+ },
+ "group.tool.text": {
+  "es": "Bibliotecas pequeñas que usamos para escribir, visualizar y probar, abiertas para quien las necesite.",
+  "en": "Small libraries we use to write, visualise and test, open to anyone who needs them."
+ },
+ "group.research": {
+  "es": "Investigación en curso",
+  "en": "Research in progress"
+ },
+ "group.research.text": {
+  "es": "Repositorios activos de este año, con código que ya funciona y preguntas todavía abiertas.",
+  "en": "Active repositories from this year, with working code and questions still open."
+ },
+ "group.task": {
+  "es": "Tareas compartidas",
+  "en": "Shared tasks"
  }
 }

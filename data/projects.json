@@ -1,18 +1,105 @@
 [
  {
   "id": "cecilia",
-  "name": "Cecilia",
-  "featured": true,
+  "name": "CecilIA",
+  "group": "library",
   "tagline": {
-   "es": "El modelo de lenguaje cubano",
-   "en": "The Cuban language model"
+   "es": "Modelos de lenguaje para el español de Cuba",
+   "en": "Language models for Cuban Spanish"
   },
   "description": {
-   "es": "Una familia de modelos de lenguaje preentrenados sobre texto cubano: prensa, literatura, leyes, EcuRed y letras de canciones, cerca de mil millones de tokens. Cecilia 2B parte de Salamandra 2B y se publicó en LNCS en 2026. Se hace junto con la Universidad de Alicante.",
-   "en": "A family of language models pretrained on Cuban text: press, literature, law, EcuRed and song lyrics, about a billion tokens. Cecilia 2B builds on Salamandra 2B and was published in LNCS in 2026. Built with the University of Alicante."
+   "es": "CecilIA 2B parte de Salamandra 2B y siguió entrenando sobre cerca de mil millones de tokens de texto cubano: prensa, literatura, leyes, EcuRed y letras de canciones. Hay un modelo base y una versión que sigue instrucciones, también en formato GGUF. Los pesos están en HuggingFace y el artículo en LNCS. La hacemos con la Universidad de Alicante.",
+   "en": "CecilIA 2B starts from Salamandra 2B and kept training on about a billion tokens of Cuban text: press, literature, law, EcuRed and song lyrics. There is a base model and an instruction-following version, also in GGUF format. The weights are on HuggingFace and the paper in LNCS. Built with the University of Alicante."
   },
   "url": "https://cecilia.uhgia.org",
-  "repo": "gia-uh/cecilia"
+  "repo": "gia-uh/cecilia",
+  "featured": true,
+  "star": true,
+  "home": 1,
+  "links": [
+   {
+    "label": {
+     "es": "Modelos",
+     "en": "Models"
+    },
+    "url": "https://huggingface.co/gia-uh/cecilia-2b-instruct-v1-GGUF"
+   },
+   {
+    "label": {
+     "es": "Artículo",
+     "en": "Paper"
+    },
+    "url": "https://doi.org/10.1007/978-3-032-11358-0_11"
+   }
+  ]
+ },
+ {
+  "id": "lingo",
+  "name": "Lingo",
+  "group": "library",
+  "tagline": {
+   "es": "Aplicaciones con modelos de lenguaje, en Python",
+   "en": "Language model applications, in Python"
+  },
+  "description": {
+   "es": "Una biblioteca asíncrona y tipada: conversaciones como flujos, skills, máquinas de estados y llamadas a herramientas nativas. Está en PyPI como lingo-ai y tiene un libro con cada ejemplo ejecutable. Legio y lovelaice están construidos encima.",
+   "en": "An async, typed library: conversations as flows, skills, state machines and native tool calls. It is on PyPI as lingo-ai and has a book where every example runs. Legio and lovelaice are built on it."
+  },
+  "url": "https://lingo.uhgia.org",
+  "repo": "gia-uh/lingo",
+  "featured": true,
+  "home": 2
+ },
+ {
+  "id": "legio",
+  "name": "Legio",
+  "group": "library",
+  "tagline": {
+   "es": "Orquestación de agentes sobre colas",
+   "en": "Agent orchestration on queues"
+  },
+  "description": {
+   "es": "Los flujos de agentes se escriben como patrones en YAML y las herramientas las registra cada aplicación; Legio los ejecuta sobre colas, con una API REST, una CLI y federación entre nodos. Sin dominio propio: ya mueve un producto de transcripción en producción.",
+   "en": "Agent workflows are written as YAML patterns and each application registers its own tools; Legio runs them on queues, with a REST API, a CLI and federation between nodes. It has no domain of its own and already drives a transcription product in production."
+  },
+  "url": "https://legio.uhgia.org",
+  "repo": "gia-uh/legio",
+  "featured": true,
+  "home": 3
+ },
+ {
+  "id": "pumpking",
+  "name": "Pumpking",
+  "group": "library",
+  "tagline": {
+   "es": "Troceado de documentos para RAG",
+   "en": "Document chunking for RAG"
+  },
+  "description": {
+   "es": "Convierte un documento en un árbol de fragmentos. Las estrategias básicas (párrafo, oración, ventana, adaptativa) funcionan sin red; las avanzadas piden a un modelo entidades, resúmenes o temas. Todas se combinan en un pipeline.",
+   "en": "Turns a document into a tree of chunks. The basic strategies (paragraph, sentence, window, adaptive) run offline; the advanced ones ask a model for entities, summaries or topics. All of them combine in a pipeline."
+  },
+  "url": "https://pumpking.uhgia.org",
+  "repo": "gia-uh/pumpking",
+  "featured": true,
+  "home": 4
+ },
+ {
+  "id": "lovelaice",
+  "name": "lovelaice",
+  "group": "library",
+  "tagline": {
+   "es": "Un agente de programación para la terminal",
+   "en": "A coding agent for the terminal"
+  },
+  "description": {
+   "es": "Lee, edita y ejecuta código en un bucle ReAct con herramientas nativas. Se usa desde la terminal, desde un editor como servidor ACP o como biblioteca de Python, y está en PyPI.",
+   "en": "It reads, edits and runs code in a ReAct loop with native tools. Use it from the terminal, from an editor as an ACP server, or as a Python library; it is on PyPI."
+  },
+  "url": "https://lovelaice.uhgia.org",
+  "repo": "gia-uh/lovelaice",
+  "featured": true,
+  "home": 5
  },
  {
   "id": "gensie",
@@ -27,7 +114,17 @@
    "en": "The shared task we organised at IberLEF 2026: a small model on a CPU gets a Spanish text and a JSON schema and must return an object faithful to the text. Eleven teams sent thirty-five systems."
   },
   "url": "/projects/gensie/",
-  "repo": "gia-uh/gensie"
+  "repo": "gia-uh/gensie",
+  "group": "task",
+  "links": [
+   {
+    "label": {
+     "es": "Sitio de la tarea",
+     "en": "Task website"
+    },
+    "url": "https://gensie.uhgia.org"
+   }
+  ]
  },
  {
   "id": "autogoal",
@@ -42,21 +139,8 @@
    "en": "A Python framework that automatically searches for complete machine learning pipelines, described with probabilistic grammars and optimised by grammatical evolution."
   },
   "url": "https://autogoal.uhgia.org",
-  "repo": "gia-uh/autogoal"
- },
- {
-  "id": "lovelaice",
-  "name": "lovelaice",
-  "featured": true,
-  "tagline": {
-   "es": "Un agente de programación local para la terminal",
-   "en": "A local-first coding agent for the terminal"
-  },
-  "description": {
-   "es": "Un agente de programación soberano y local primero: un bucle ReAct con herramientas nativas para leer, editar y ejecutar. Se usa desde la terminal, como servidor ACP desde un editor o como biblioteca.",
-   "en": "A sovereign, local-first coding agent: a ReAct loop with native tools to read, edit and run. Use it from the terminal, as an ACP server from an editor, or as a library."
-  },
-  "repo": "gia-uh/lovelaice"
+  "repo": "gia-uh/autogoal",
+  "group": "library"
  },
  {
   "id": "leto",
@@ -69,7 +153,8 @@
    "es": "Una plataforma para extraer conocimiento de colecciones de documentos y analizarlo conversando con él.",
    "en": "A platform for extracting knowledge from document collections and analysing it by talking to it."
   },
-  "repo": "gia-uh/leto"
+  "repo": "gia-uh/leto",
+  "group": "library"
  },
  {
   "id": "argo",
@@ -82,48 +167,9 @@
    "es": "Una biblioteca para construir agentes que razonan, se gobiernan y se orquestan sobre modelos de lenguaje.",
    "en": "A library for building agents that reason, govern and orchestrate themselves on top of language models."
   },
-  "url": "https://uhgia.org/argo/",
-  "repo": "gia-uh/argo"
- },
- {
-  "id": "lingo",
-  "name": "lingo",
-  "tagline": {
-   "es": "Ingeniería de contexto en Python",
-   "en": "Context engineering in Python"
-  },
-  "description": {
-   "es": "Una biblioteca de Python para construir el contexto que recibe un modelo de lenguaje, pieza a pieza.",
-   "en": "A Python library for building, piece by piece, the context a language model receives."
-  },
-  "url": "https://uhgia.org/lingo/",
-  "repo": "gia-uh/lingo"
- },
- {
-  "id": "scribe",
-  "name": "scribe",
-  "tagline": {
-   "es": "De PDF, Word, PowerPoint y Excel a Markdown, sin LLM",
-   "en": "PDF, Word, PowerPoint and Excel to Markdown, no LLM"
-  },
-  "description": {
-   "es": "Un conversor de documentos a Markdown con licencia MIT que no usa modelos de lenguaje.",
-   "en": "An MIT-licensed document-to-Markdown converter that uses no language model."
-  },
-  "repo": "gia-uh/scribe"
- },
- {
-  "id": "casus",
-  "name": "casus",
-  "tagline": {
-   "es": "Juegos de guerra multiagente con un árbitro determinista",
-   "en": "Multi-agent wargames with a deterministic resolver"
-  },
-  "description": {
-   "es": "Los modelos deciden y funciones puras calculan el resultado, así cada partida se puede reproducir.",
-   "en": "The models decide and pure functions compute the outcome, so every game can be replayed."
-  },
-  "repo": "gia-uh/casus"
+  "url": "https://argo.uhgia.org",
+  "repo": "gia-uh/argo",
+  "group": "library"
  },
  {
   "id": "pathos",
@@ -136,8 +182,9 @@
    "es": "Una biblioteca de Python con los algoritmos clásicos de búsqueda de la IA, lista para producción.",
    "en": "A production-ready Python library of the classical AI search algorithms."
   },
-  "url": "https://uhgia.org/pathos/",
-  "repo": "gia-uh/pathos"
+  "url": "https://pathos.uhgia.org",
+  "repo": "gia-uh/pathos",
+  "group": "library"
  },
  {
   "id": "logos",
@@ -150,7 +197,209 @@
    "es": "Para demostrar propiedades de tu código Python con un núcleo de demostración pequeño y verificable.",
    "en": "Prove properties of your Python code with a small, checkable proof kernel."
   },
-  "url": "https://uhgia.org/logos/",
-  "repo": "gia-uh/logos"
+  "url": "https://logos.uhgia.org",
+  "repo": "gia-uh/logos",
+  "group": "library"
+ },
+ {
+  "id": "tesserax",
+  "name": "tesserax",
+  "group": "tool",
+  "tagline": {
+   "es": "Visualización científica en SVG",
+   "en": "Scientific visualisation in SVG"
+  },
+  "description": {
+   "es": "Diagramas de estructuras de datos y algoritmos desde Python, con física y animación.",
+   "en": "Diagrams of data structures and algorithms from Python, with physics and animation."
+  },
+  "url": "https://tesserax.uhgia.org",
+  "repo": "gia-uh/tesserax"
+ },
+ {
+  "id": "prism",
+  "name": "prism",
+  "group": "tool",
+  "tagline": {
+   "es": "Diagramas SVG desde YAML",
+   "en": "SVG diagrams from YAML"
+  },
+  "description": {
+   "es": "Describes qué significa el dibujo y prism decide la geometría, el espacio y el color; pensado para que lo usen agentes.",
+   "en": "You describe what the picture means and prism decides geometry, spacing and colour; built for agents to use."
+  },
+  "url": "https://prism.uhgia.org",
+  "repo": "gia-uh/prism"
+ },
+ {
+  "id": "auditorium",
+  "name": "auditorium",
+  "group": "tool",
+  "tagline": {
+   "es": "Presentaciones HTML y vídeo desde Python",
+   "en": "HTML presentations and video from Python"
+  },
+  "description": {
+   "es": "Escribes la presentación en Python y auditorium genera la página, las diapositivas animadas o el vídeo.",
+   "en": "You write the presentation in Python and auditorium generates the page, the animated slides or the video."
+  },
+  "url": "https://auditorium.uhgia.org",
+  "repo": "gia-uh/auditorium"
+ },
+ {
+  "id": "scriptorium",
+  "name": "scriptorium",
+  "group": "tool",
+  "tagline": {
+   "es": "De Markdown a libro, PDF y diapositivas",
+   "en": "Markdown to book, PDF and slides"
+  },
+  "description": {
+   "es": "Paginación con reglas, código que se ejecuta dentro del documento y matemáticas sin LaTeX instalado.",
+   "en": "Rule-based pagination, code that runs inside the document and maths without a LaTeX install."
+  },
+  "repo": "gia-uh/scriptorium"
+ },
+ {
+  "id": "rift",
+  "name": "rift",
+  "group": "tool",
+  "tagline": {
+   "es": "Detector de deriva en la documentación",
+   "en": "Documentation drift linter"
+  },
+  "description": {
+   "es": "Declaras hechos del código y la configuración, y rift comprueba que la documentación los dice. Cuenta, no interpreta.",
+   "en": "You declare facts from code and config, and rift checks the docs state them. It counts; it never interprets."
+  },
+  "repo": "gia-uh/rift"
+ },
+ {
+  "id": "sixma",
+  "name": "sixma",
+  "group": "tool",
+  "tagline": {
+   "es": "Pruebas generativas con certificación estadística",
+   "en": "Generative tests with statistical certification"
+  },
+  "description": {
+   "es": "Cambia casos de prueba por invariantes y calcula cuántas pruebas hacen falta para certificar una fiabilidad dada.",
+   "en": "Replaces test cases with invariants and computes how many trials certify a given reliability."
+  },
+  "repo": "gia-uh/sixma"
+ },
+ {
+  "id": "typus",
+  "name": "typus",
+  "group": "tool",
+  "tagline": {
+   "es": "Decodificación restringida por gramáticas",
+   "en": "Grammar-constrained decoding"
+  },
+  "description": {
+   "es": "Obliga a un modelo de lenguaje a producir JSON, SQL o Python válidos, con gramáticas escritas en Python.",
+   "en": "Forces a language model to produce valid JSON, SQL or Python, with grammars written in Python."
+  },
+  "repo": "gia-uh/typus"
+ },
+ {
+  "id": "purely",
+  "name": "purely",
+  "group": "tool",
+  "tagline": {
+   "es": "Primitivas funcionales para Python",
+   "en": "Functional primitives for Python"
+  },
+  "description": {
+   "es": "Pipelines, opcionales e inmutabilidad sin dependencias. Lingo la usa.",
+   "en": "Pipelines, options and immutability with no dependencies. Lingo uses it."
+  },
+  "repo": "gia-uh/purely"
+ },
+ {
+  "id": "decision-toolkit",
+  "name": "decision-toolkit",
+  "group": "research",
+  "tagline": {
+   "es": "Modelos de decisión locales, en CPU",
+   "en": "Local decision models, on CPU"
+  },
+  "description": {
+   "es": "Preguntas de elección, sí o no, o puntuación, que se responden con una probabilidad calibrada por opción, sin generar texto.",
+   "en": "Choice, yes-no or score questions answered with a calibrated probability per option, without generating text."
+  },
+  "url": "https://decision-toolkit.uhgia.org",
+  "repo": "gia-uh/decision-toolkit"
+ },
+ {
+  "id": "siglip2-toolkit",
+  "name": "siglip2-toolkit",
+  "group": "research",
+  "tagline": {
+   "es": "Embeddings de texto e imagen con SigLIP 2",
+   "en": "Text and image embeddings with SigLIP 2"
+  },
+  "description": {
+   "es": "Clasificación sin ejemplos y búsqueda por imágenes, en local y con exportación portable.",
+   "en": "Zero-shot classification and image search, local, with portable exports."
+  },
+  "url": "https://siglip2-toolkit.uhgia.org",
+  "repo": "gia-uh/siglip2-toolkit"
+ },
+ {
+  "id": "laya-router",
+  "name": "laya-router",
+  "group": "research",
+  "tagline": {
+   "es": "Clasificar textos en etiquetas con un modelo de decisión",
+   "en": "Route texts to labels with a decision model"
+  },
+  "description": {
+   "es": "Das las categorías y devuelve la que mejor encaja con su probabilidad, en una sola pasada.",
+   "en": "Give it the categories and it returns the best fit with its probability, in one pass."
+  },
+  "repo": "gia-uh/laya-router"
+ },
+ {
+  "id": "slopstop",
+  "name": "slopstop",
+  "group": "research",
+  "tagline": {
+   "es": "Detectar y corregir la prosa de máquina",
+   "en": "Find and fix machine prose"
+  },
+  "description": {
+   "es": "Mide los patrones que hacen cansado un texto escrito con ayuda de un modelo y evalúa cómo arreglarlos.",
+   "en": "Measures the patterns that make model-assisted prose tiring to read and evaluates how to fix them."
+  },
+  "repo": "gia-uh/slopstop"
+ },
+ {
+  "id": "casus",
+  "name": "casus",
+  "tagline": {
+   "es": "Juegos de guerra multiagente con un árbitro determinista",
+   "en": "Multi-agent wargames with a deterministic resolver"
+  },
+  "description": {
+   "es": "Los modelos deciden y funciones puras calculan el resultado, así cada partida se puede reproducir.",
+   "en": "The models decide and pure functions compute the outcome, so every game can be replayed."
+  },
+  "repo": "gia-uh/casus",
+  "group": "research"
+ },
+ {
+  "id": "scribe",
+  "name": "scribe",
+  "tagline": {
+   "es": "De PDF, Word, PowerPoint y Excel a Markdown, sin LLM",
+   "en": "PDF, Word, PowerPoint and Excel to Markdown, no LLM"
+  },
+  "description": {
+   "es": "Un conversor de documentos a Markdown con licencia MIT que no usa modelos de lenguaje.",
+   "en": "An MIT-licensed document-to-Markdown converter that uses no language model."
+  },
+  "repo": "gia-uh/scribe",
+  "group": "research"
  }
 ]

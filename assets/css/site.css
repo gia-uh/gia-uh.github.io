@@ -81,7 +81,17 @@ p { margin: 0; }
 
 .featured { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
 .project { position: relative; padding: 22px 22px 20px; background: var(--bone); overflow: hidden; }
-.project canvas.badge { position: absolute; right: 14px; top: 14px; width: 64px; height: 64px; }
+.project .badge { position: absolute; right: 14px; top: 14px; width: 64px; height: 64px; object-fit: contain; }
+.project.star { grid-column: 1 / -1; border-top: 6px solid var(--red); }
+.project.star h3 { font-size: 56px; }
+.project.star .desc { max-width: 78ch; }
+
+/* ---------- FIHAV band (home, until data/fihav.json "until") ---------- */
+.fihav { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; border-top: 3px solid var(--ink); border-bottom: 3px solid var(--ink); padding-block: 12px; margin-bottom: 8px; }
+.fihav .tag { font: 700 13px var(--text); letter-spacing: .06em; background: var(--red); color: var(--bone); padding: 4px 9px; }
+.fihav p { flex: 1; min-width: 240px; font-size: 16px; }
+.fihav a { font-weight: 600; font-size: 15px; }
+.group-text { max-width: var(--measure); margin: -8px 0 12px; font-size: 15px; }
 .project h3 { font-size: 40px; padding-right: 76px; }
 .project .tagline { font-weight: 600; margin: 6px 0 10px; padding-right: 76px; }
 .project .desc { font-size: 15px; max-width: 60ch; }
