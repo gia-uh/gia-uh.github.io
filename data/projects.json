@@ -31,7 +31,8 @@
     },
     "url": "https://doi.org/10.1007/978-3-032-11358-0_11"
    }
-  ]
+  ],
+  "logo": "/assets/logos/cecilia.png"
  },
  {
   "id": "lingo",
@@ -48,7 +49,8 @@
   "url": "https://lingo.uhgia.org",
   "repo": "gia-uh/lingo",
   "featured": true,
-  "home": 2
+  "home": 2,
+  "logo": "/assets/logos/lingo.svg"
  },
  {
   "id": "legio",
@@ -65,7 +67,8 @@
   "url": "https://legio.uhgia.org",
   "repo": "gia-uh/legio",
   "featured": true,
-  "home": 3
+  "home": 3,
+  "logo": "/assets/logos/legio.svg"
  },
  {
   "id": "pumpking",
@@ -82,7 +85,8 @@
   "url": "https://pumpking.uhgia.org",
   "repo": "gia-uh/pumpking",
   "featured": true,
-  "home": 4
+  "home": 4,
+  "logo": "/assets/logos/pumpking.svg"
  },
  {
   "id": "lovelaice",
@@ -99,7 +103,8 @@
   "url": "https://lovelaice.uhgia.org",
   "repo": "gia-uh/lovelaice",
   "featured": true,
-  "home": 5
+  "home": 5,
+  "logo": "/assets/logos/lovelaice.svg"
  },
  {
   "id": "gensie",

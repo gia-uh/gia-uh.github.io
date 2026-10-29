@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Legio">
+<title>Legio</title>
+<rect x="8" y="30" width="40" height="7" rx="3.5" fill="#D4A12A"/><rect x="52" y="30" width="40" height="7" rx="3.5" fill="#D4A12A"/><rect x="14" y="41" width="34" height="7" rx="3.5" fill="#B7322A"/><rect x="52" y="41" width="34" height="7" rx="3.5" fill="#B7322A"/><rect x="21" y="52" width="27" height="7" rx="3.5" fill="#B7322A"/><rect x="52" y="52" width="27" height="7" rx="3.5" fill="#B7322A"/><rect x="29" y="63" width="19" height="7" rx="3.5" fill="#B7322A"/><rect x="52" y="63" width="19" height="7" rx="3.5" fill="#B7322A"/><path d="M50 12 L60 24 L50 30 L40 24 Z" fill="#1b1714"/><path d="M57 21 L66 22 L58 26 Z" fill="#D4A12A"/>
+<rect x="47" y="30" width="6" height="66" fill="#1b1714"/><rect x="36" y="90" width="28" height="6" fill="#1b1714"/>
+</svg>
