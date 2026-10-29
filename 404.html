@@ -10,6 +10,12 @@
   <link rel="preload" href="/assets/fonts/BigShouldersDisplay.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/Archivo.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/css/site.css">
+  <script>
+    // project sites that moved from uhgia.org/<repo>/ to <repo>.uhgia.org
+    const moved = ['lingo', 'tesserax', 'prism', 'auditorium', 'decision-toolkit', 'siglip2-toolkit', 'gensie', 'pathos', 'logos', 'argo'];
+    const [, first, ...rest] = location.pathname.split('/');
+    if (moved.includes(first)) location.replace(`https://${first}.uhgia.org/${rest.join('/')}${location.search}${location.hash}`);
+  </script>
   <script type="module" src="/assets/js/lost.js"></script>
 </head>
 <body data-title="404.title">

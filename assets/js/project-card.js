@@ -5,12 +5,18 @@ function links(p) {
   const out = [];
   if (p.url) out.push(`<a href="${esc(p.url)}">${t('projects.site')}</a>`);
   if (p.repo) out.push(`<a href="https://github.com/${esc(p.repo)}">${t('projects.code')}</a>`);
+  for (const l of p.links || []) out.push(`<a href="${esc(l.url)}">${esc(L(l.label))}</a>`);
   return out.join('');
 }
 
+// a project's own logo when it has one, else a tile seeded by its id
+const badge = (p) => (p.logo
+  ? `<img class="badge" src="${esc(p.logo)}" alt="">`
+  : `<canvas class="badge" data-id="${esc(p.id)}" aria-hidden="true"></canvas>`);
+
 export const projectCard = (p) => `
-  <article class="project">
-    <canvas class="badge" data-id="${esc(p.id)}" aria-hidden="true"></canvas>
+  <article class="project${p.star ? ' star' : ''}">
+    ${badge(p)}
     <h3>${esc(p.name)}</h3>
     <p class="tagline">${esc(L(p.tagline))}</p>
     <p class="desc">${esc(L(p.description))}</p>

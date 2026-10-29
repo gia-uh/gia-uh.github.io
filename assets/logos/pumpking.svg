@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Pumpking">
+<title>Pumpking</title>
+<path d="M37.0 30 L37.0 15.7 L43.5 23.564999999999998 L50 14.985 L56.5 23.564999999999998 L63.0 15.7 L63.0 30 Z" fill="#D4A12A"/>
+<path d="M30 34 C10 36 8 86 30 90 C22 74 22 50 30 34 Z" fill="#B65F14"/>
+<path d="M34 33 C26 50 26 74 34 91 L46 91 L46 33 Z" fill="#D9822B"/>
+<path d="M54 33 L54 91 L66 91 C74 74 74 50 66 33 Z" fill="#D9822B"/>
+<path d="M70 34 C90 36 92 86 70 90 C78 74 78 50 70 34 Z" fill="#B65F14"/>
+<rect x="47.5" y="33" width="5" height="58" fill="#F0ECE3"/>
+</svg>
