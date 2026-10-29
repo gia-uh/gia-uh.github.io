@@ -322,6 +322,34 @@
   "repo": "gia-uh/purely"
  },
  {
+  "id": "manifoldx",
+  "name": "manifoldx",
+  "group": "tool",
+  "tagline": {
+   "es": "Motor 3D en tiempo real, en Python",
+   "en": "Real-time 3D engine, in Python"
+  },
+  "description": {
+   "es": "Renderizado sobre wgpu con una arquitectura de entidades y componentes, para simular y ver en 3D decenas de miles de objetos sin salir de Python. Experimental.",
+   "en": "Rendering on wgpu with an entity-component architecture, to simulate and view tens of thousands of objects in 3D without leaving Python. Experimental."
+  },
+  "repo": "gia-uh/manifoldx"
+ },
+ {
+  "id": "mosaico",
+  "name": "mosaico",
+  "group": "tool",
+  "tagline": {
+   "es": "Imágenes por lotes desde un manifiesto YAML",
+   "en": "Batch images from a YAML manifest"
+  },
+  "description": {
+   "es": "Lee un manifiesto de imágenes con sus dependencias y genera solo lo que falta o cambió, con caché por contenido.",
+   "en": "Reads a manifest of images and their dependencies and renders only what is missing or changed, with a content-addressed cache."
+  },
+  "repo": "gia-uh/mosaico"
+ },
+ {
   "id": "decision-toolkit",
   "name": "decision-toolkit",
   "group": "research",
@@ -406,5 +434,61 @@
   },
   "repo": "gia-uh/scribe",
   "group": "research"
+ },
+ {
+  "id": "euterpe",
+  "name": "euterpe",
+  "group": "research",
+  "tagline": {
+   "es": "Componer música escribiendo código",
+   "en": "Compose music by writing code"
+  },
+  "description": {
+   "es": "Un agente compone con sonido sintetizado desde cero, instrumentos hechos de ese sonido y partituras con los conceptos de la teoría tonal, y un linter mide lo medible. Su primer hito, el sonido, está en curso.",
+   "en": "An agent composes with sound synthesised from scratch, instruments built from it and scores written with tonal theory, and a linter measures what can be measured. Its first milestone, sound, is in progress."
+  },
+  "repo": "gia-uh/euterpe"
+ },
+ {
+  "id": "anagnosis",
+  "name": "anagnosis",
+  "group": "research",
+  "tagline": {
+   "es": "Dificultad de lectura de un texto, por dimensiones",
+   "en": "Reading difficulty of a text, by dimension"
+  },
+  "description": {
+   "es": "Mide para qué edad es legible un texto en español o inglés, cuánto varía entre capítulos y qué pasajes se salen del rango. En sus primeras semanas.",
+   "en": "Measures what age a Spanish or English text reads at, how much that varies between chapters and which passages fall outside the range. In its first weeks."
+  },
+  "repo": "gia-uh/anagnosis"
+ },
+ {
+  "id": "golem",
+  "name": "golem",
+  "group": "research",
+  "tagline": {
+   "es": "Un bot de atención compilado",
+   "en": "A compiled customer service bot"
+  },
+  "description": {
+   "es": "El modelo de lenguaje actúa como compilador: construye una vez un paquete de conocimiento, y en uso un motor determinista lo lee en CPU, sin llamadas externas.",
+   "en": "The language model acts as a compiler: it builds a knowledge bundle once, and at run time a deterministic engine reads it on a CPU, with no external calls."
+  },
+  "repo": "gia-uh/golem"
+ },
+ {
+  "id": "mason",
+  "name": "mason",
+  "group": "research",
+  "tagline": {
+   "es": "Modelos de lenguaje pequeños para un dominio",
+   "en": "Small language models for one domain"
+  },
+  "description": {
+   "es": "De los documentos propios a un modelo pequeño entrenado: un modelo grande genera las instrucciones sintéticas y las juzga, y el pequeño aprende de ellas.",
+   "en": "From your own documents to a trained small model: a large model generates and judges synthetic instructions, and the small one learns from them."
+  },
+  "repo": "gia-uh/mason"
  }
 ]
