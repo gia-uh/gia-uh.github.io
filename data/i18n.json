@@ -31,6 +31,10 @@
   "es": "Proyectos",
   "en": "Projects"
  },
+ "nav.blog": {
+  "es": "Blog",
+  "en": "Blog"
+ },
  "nav.lang": {
   "es": "English",
   "en": "Español"
@@ -82,6 +86,22 @@
  "home.all.projects": {
   "es": "Todos los proyectos",
   "en": "All projects"
+ },
+ "home.blog": {
+  "es": "Blog",
+  "en": "Blog"
+ },
+ "home.blog.text": {
+  "es": "Visita nuestro blog para seguir las novedades sobre nuevas investigaciones y proyectos.",
+  "en": "Check out our blog to follow updates on new research and projects."
+ },
+ "home.blog.link": {
+  "es": "Ir al blog",
+  "en": "Read the blog"
+ },
+ "home.blog.embed": {
+  "es": "Suscribirse al blog del GIA en Substack",
+  "en": "Subscribe to the GIA blog on Substack"
  },
  "line.language": {
   "es": "Lenguaje natural",
