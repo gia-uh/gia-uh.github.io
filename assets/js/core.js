@@ -61,6 +61,7 @@ function header() {
     <a class="brand" href="/"><span class="brand-mark" aria-hidden="true">GIA</span><span data-i18n="site.uh"></span></a>
     <nav aria-label="Main">
       ${NAV.slice(1).map(([href, key]) => `<a href="${href}"${current(href) ? ' aria-current="page"' : ''} data-i18n="${key}"></a>`).join('')}
+      <a href="https://blog.uhgia.org/" data-i18n="nav.blog"></a>
     </nav>
     <button class="lang" type="button" data-i18n="nav.lang" data-i18n-attr="aria-label:nav.lang.label"></button>`;
   el.querySelector('.lang').addEventListener('click', () => setLang(lang === 'es' ? 'en' : 'es'));
