@@ -47,4 +47,5 @@ on indigo it is 6.6:1.
 | `gia-palabra-{hueso,blanco}-textos` | the wordmark alone, with the texts |
 | `gia-lateral-hueso` | GiA and the texts beside the tile, within its height |
 | `gia-vertical-{hueso,blanco}[-grupo,-textos]` | GiA as a second tile under the first, group line vertical on the left |
-| `gia-losa` | the tile alone: avatars, favicons, stamps |
+| `gia-horizontal-transparente` | tile + GiA with no background: the site header and home page |
+| `gia-losa` | the tile alone: avatars, stamps; also written to `assets/favicon.svg` |

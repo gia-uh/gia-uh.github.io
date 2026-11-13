@@ -55,6 +55,7 @@ def variants():
         v.append((f"gia-vertical-{name}-textos", "vertical", COLOR, bg, True, True))
         v.append((f"gia-vertical-{name}-grupo", "vertical", COLOR, bg, True, False))
         v.append((f"gia-vertical-{name}", "vertical", COLOR, bg, False, False))
+    v.append(("gia-horizontal-transparente", "horizontal", COLOR, None, False, False))  # site header and home poster
     v.append(("gia-losa", "icon", COLOR, None, False, False))
     return v
 
@@ -128,6 +129,7 @@ def main():
             path = OUT / "svg" / f"{name}.svg"
             path.write_text('<?xml version="1.0" encoding="UTF-8"?>\n' + svg + "\n")
             subprocess.run(["rsvg-convert", "-w", str(PNG_WIDTH), "-o", str(OUT / "png" / f"{name}.png"), str(path)], check=True)
+            if name == "gia-losa": (ROOT / "assets/favicon.svg").write_text(path.read_text())  # the site favicon is the tile
             built += 1
     print(f"{built} variants built in {OUT.relative_to(ROOT)}")
 
