@@ -36,7 +36,7 @@ p { margin: 0; }
 /* ---------- header ---------- */
 #site-header { max-width: 1200px; margin: 0 auto; padding: 18px var(--gutter); display: flex; align-items: center; gap: 28px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; font-weight: 600; font-size: 15px; }
-.brand-mark { font: 900 30px/1 var(--display); color: var(--red); text-shadow: 2px 1.5px 0 color-mix(in srgb, var(--indigo) 85%, transparent); }
+.brand-mark { display: block; height: 30px; width: auto; }
 #site-header nav { display: flex; gap: 22px; margin-left: auto; font-size: 15px; font-weight: 500; }
 #site-header nav a { text-decoration: none; padding: 4px 0; border-bottom: 3px solid transparent; }
 #site-header nav a[aria-current="page"] { border-bottom-color: var(--red); }
@@ -45,10 +45,7 @@ p { margin: 0; }
 
 /* ---------- home hero ---------- */
 .hero { display: grid; grid-template-columns: 1.05fr 1fr; gap: clamp(24px, 4vw, 48px); align-items: start; padding-block: 12px 48px; }
-.poster { position: relative; height: clamp(190px, 24vw, 290px); }
-.poster .letters { position: absolute; left: -0.04em; top: 0; font: 900 clamp(200px, 26vw, 312px)/0.8 var(--display); letter-spacing: -0.02em; color: var(--red); mix-blend-mode: multiply; user-select: none; }
-.poster .letters + .letters { color: var(--indigo); transform: translate(0.035em, 0.025em); }
-.poster .sun { position: absolute; left: clamp(160px, 21vw, 290px); top: 16%; width: clamp(130px, 16vw, 210px); aspect-ratio: 1; border-radius: 50%; background: var(--ochre); mix-blend-mode: multiply; }
+.poster { display: block; width: 100%; max-width: 560px; height: auto; }
 .hero h1 { font-size: clamp(34px, 4vw, 48px); margin: 18px 0 14px; }
 .lede { font-size: 18px; max-width: 46ch; }
 .credits { margin-top: 18px; font-stretch: 75%; font-size: 16px; line-height: 1.45; max-width: 52ch; }
